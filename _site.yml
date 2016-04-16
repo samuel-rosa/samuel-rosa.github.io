@@ -1,0 +1,6 @@
+output_dir: "."
+output:
+  html_document:
+    template: template.html
+    mathjax: default
+    self_contained: false
