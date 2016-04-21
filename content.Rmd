@@ -1,28 +1,45 @@
 ---
-title: "Conteúdo"
+title: "Projetos"
 uniqueid: content
 ---
 
-<ul class="summary">
-<li class="chapter" data-level="1" data-path="index.html">
-  <a href="pedologia-quantitativa/_book/index.html">
-  <i class="fa fa-check"></i><b>1</b> Prefácio</a></li>
-<li class="chapter" data-level="2" data-path="intro.html">
-  <a href="pedologia-quantitativa/_book/intro.html">
-  <i class="fa fa-check"></i><b>2</b> Introdução</a></li>
-<li class="chapter" data-level="3" data-path="literatura.html">
-  <a href="pedologia-quantitativa/_book/literatura.html">
-  <i class="fa fa-check"></i><b>3</b> Literatura</a></li>
-<li class="chapter" data-level="4" data-path="metodos.html">
-  <a href="pedologia-quantitativa/_book/metodos.html">
-  <i class="fa fa-check"></i><b>4</b> Métodos</a></li>
-<li class="chapter" data-level="5" data-path="aplicacoes.html">
-  <a href="pedologia-quantitativa/_book/aplicacoes.html">
-  <i class="fa fa-check"></i><b>5</b> Aplicações</a></li>
-<li class="chapter" data-level="6" data-path="final-words.html">
-  <a href="pedologia-quantitativa/_book/final-words.html">
-  <i class="fa fa-check"></i><b>6</b> Considerações Finais</a></li>
-<li class="chapter" data-level="7" data-path="referencias.html">
-  <a href="pedologia-quantitativa/_book/referencias.html">
-  <i class="fa fa-check"></i><b>7</b> Referências</a></li>
-</ul>
+Praticamente todos os projetos em que estou envolvido têm alguma relação com a *pedologia quantitativa*. 
+Assim sendo, acabo tendo grandes dificuldades em classificá-los como pertencendo à essa ou àquela área do 
+conhecimento. As coisas ficam mais fáceis quando penso na *pedologia quantitativa* como o tema gerador dos 
+projetos em que estou envolvido. Por exemplo, algumas vezes desenvolvo ferramentas computacionais sem qualquer 
+relação com a *pedologia quantitativa*. Contudo, a razão de seu desenvolvimento foi exatamente a de dar um
+pequeno passo na caminhada rumo a resolução de um problema maior cuja origem é a *pedologia quantitativa*.
+
+## Ensino de Pedologia Quantitativa
+
+* Projetos ativos/prioritários:
+    1. Pedologia Quantitativa feita Simples. Acesse a versão preliminar do livro 
+       [aqui](http://samuel-rosa.github.io/pedologia-quantitativa/_book/).
+
+* Projetos inativos/encerrados:
+    1. Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo. Acesse as versões
+       publicadas da Newsletter [aqui](https://github.com/samuel-rosa/pedometria).
+
+## Software para Escrita Científica
+
+* Projetos ativos/prioritários:
+    1. Classe LaTeX `UFRuralRJ` para formatação de documentos acadêmicos da Universidade Federal Rural do Rio 
+       de Janeiro. Acesse o código fonte [aqui](https://github.com/samuel-rosa/UFRuralRJ) e o manual de uso 
+       [aqui](http://samuel-rosa.github.io/UFRuralRJ/_book/).
+
+* Projetos inativos/encerrados:
+    1. Arquivos de estilo `jstyle` para formatação automática de referências bibliográficas usando JabRef e
+       LibreOffice. Acesse o código fonte [aqui](https://github.com/samuel-rosa/RefBib).
+    2. Pacote LaTeX `pedometrianews` para formatação da Newsletter da Comissão de Pedometria da Sociedade 
+       Brasileira de Ciência do Solo. Acesse o código fonte [aqui](https://github.com/samuel-rosa/pedometrianews)
+       e as versões publicadas da Newsletter [aqui](https://github.com/samuel-rosa/pedometria).
+
+## Software para Pedologia Quantitativa
+
+* Projetos ativos/prioritários:
+    1. Pacote `pedometrics` para o `R` contendo ferramentas e técnicas para *pedologia quantitativa*. 
+       Acesse o código fonte [aqui](https://github.com/samuel-rosa/pedometrics) ou baixe a última versão
+       publicada [daqui](https://cran.r-project.org/web/packages/pedometrics/).
+    2. Pacote `spsann` para o `R` contendo ferramentas para otimização de configurações amostrais usando 
+       recozimento simulado. Acesse o código fonte [aqui](https://github.com/samuel-rosa/spsann) ou baixe a
+       última versão publicada [daqui](https://cran.r-project.org/web/packages/spsann/).
