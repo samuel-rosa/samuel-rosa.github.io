@@ -8,12 +8,10 @@ família em uma pequena propriedade rural até os 14 anos de idade, tendo comple
 na Escola Estadual de Ensino Fundamental José Clemente Pereira.
 
 <figure>
-  <img src="images/futuro_pesquisador.jpg" alt="Futuro pesquisador">
-  <figcaption>
-    <em><strong>
-      Minha primeira foto acadêmica, na biblioteca da Escola José Clemente Pereira, em 1992.
-    </strong></em>
-  </figcaption>
+<img src="images/futuro_pesquisador.jpg" alt="Futuro pesquisador">
+<figcaption>
+Minha primeira foto acadêmica, na biblioteca da Escola José Clemente Pereira, em 1992.
+</figcaption>
 </figure> 
 
 Em 2000 eu ingressei na Escola Agrotécnica Federal de Sertão (EAFS), RS, onde cursei o ensino médio. Ali
