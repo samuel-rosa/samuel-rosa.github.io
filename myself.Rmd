@@ -7,14 +7,8 @@ Eu nasci em uma pequena cidade do norte do Rio Grande do Sul (RS) chamada Espumo
 família em uma pequena propriedade rural até os 14 anos de idade, tendo completado toda minha formação básica 
 na Escola Estadual de Ensino Fundamental José Clemente Pereira.
 
-<figure>
-  <img src="images/futuro_pesquisador.jpg" alt="Futuro pesquisador">
-  <figcaption>
-    <em><strong>
-      Minha primeira foto acadêmica, na biblioteca da Escola José Clemente Pereira, em 1992.
-    </strong></em>
-  </figcaption>
-</figure> 
+![Minha primeira foto acadêmica, na biblioteca da Escola José Clemente Pereira, em
+1992.](images/futuro_pesquisador.jpg)
 
 Em 2000 eu ingressei na Escola Agrotécnica Federal de Sertão (EAFS), RS, onde cursei o ensino médio. Ali
 também obtive o título de Técnico Agrícola com Habilitação em Agropecuária, com estágio de pouco mais de um 
