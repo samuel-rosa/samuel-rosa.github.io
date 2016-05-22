@@ -16,7 +16,7 @@ pequeno passo na caminhada rumo a resolução de um problema maior cuja origem �
     1. Pedologia Quantitativa feita Simples. Acesse a versão preliminar do livro 
        [aqui](http://samuel-rosa.github.io/pedologia-quantitativa/_book/).
 
-* Projetos inativos/encerrados:
+* Projetos inativos/não-prioritários:
     1. Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo. Acesse as versões
        publicadas da Newsletter [aqui](https://github.com/samuel-rosa/pedometria).
 
@@ -27,7 +27,7 @@ pequeno passo na caminhada rumo a resolução de um problema maior cuja origem �
        de Janeiro. Acesse o código fonte [aqui](https://github.com/samuel-rosa/UFRuralRJ) e o manual de uso 
        [aqui](http://samuel-rosa.github.io/UFRuralRJ/_book/).
 
-* Projetos inativos/encerrados:
+* Projetos inativos/não-prioritários:
     1. Arquivos de estilo `jstyle` para formatação automática de referências bibliográficas usando JabRef e
        LibreOffice. Acesse o código fonte [aqui](https://github.com/samuel-rosa/RefBib).
     2. Pacote LaTeX `pedometrianews` para formatação da Newsletter da Comissão de Pedometria da Sociedade 
