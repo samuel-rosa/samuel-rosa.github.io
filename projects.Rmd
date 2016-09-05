@@ -1,6 +1,6 @@
 ---
 title: "Projetos"
-uniqueid: content
+uniqueid: projects
 ---
 
 Praticamente todos os projetos em que estou envolvido têm alguma relação com a *pedologia quantitativa*. 
