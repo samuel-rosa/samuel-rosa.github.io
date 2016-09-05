@@ -60,7 +60,7 @@ interessado.
 Anteriormente, meu maior esforço em termos de ensino de *pedologia quantitativa* traduziu-se na criação e
 editoração da ***Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo***. As 
 versões publicadas da Newsletter estão disponíveis [aqui](https://github.com/samuel-rosa/pedometria). 
-Infelizmente, o projeto não teve continuidade após minha saída da equipe editorial no início de 2016.
+Infelizmente, o projeto não teve continuidade após minha saída da equipe editorial no início de 2015.
 
 ## Software para Escrita Científica
 
