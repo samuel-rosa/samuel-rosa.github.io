@@ -76,7 +76,7 @@ $endfor$
 * https://disqus.com/admin/universalcode/#configuration-variables
 */
 var disqus_config = function () {
-  $if(disqus)$
+  $if(uniqueid)$
   this.page.url = 'http://samuel-rosa.github.io/$uniqueid$';  // Your page's canonical URL variable
   this.page.identifier = '$uniqueid$'; // Your page's unique identifier variable
   $endif$
