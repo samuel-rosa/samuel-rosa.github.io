@@ -54,7 +54,7 @@ sempre que possível, dedico um pouco de meu tempo ao projeto
 * ***Pedologia Quantitativa feita Simples***.
 
 Trata-se de um livro sobre *pedologia quantitativa*, ainda em elaboração, publicado gratuitamente
-[aqui](http://samuel-rosa.github.io/pedologia-quantitativa/_book/), e aceitando a contribuição de qualquer
+[aqui](http://samuel-rosa.github.io/pedologia-quantitativa/), e aceitando a contribuição de qualquer
 interessado.
 
 Anteriormente, meu maior esforço em termos de ensino de *pedologia quantitativa* traduziu-se na criação e
