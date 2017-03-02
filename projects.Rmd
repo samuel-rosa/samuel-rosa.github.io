@@ -3,15 +3,15 @@ title: "Projetos"
 uniqueid: projects
 ---
 
-A maioria dos projetos em que estou envolvido têm alguma relação com a *pedologia quantitativa*. 
-Assim sendo, acabo tendo grandes dificuldades em classificá-los como pertencendo à essa ou àquela área do 
+A maioria dos projetos em que estou envolvido têm alguma relação com a pedologia quantitativa. 
+Assim, acabo tendo grandes dificuldades em classificá-los como pertencendo à essa ou àquela área do 
 conhecimento -- na verdade, tenho grande dificuldade com a classificação do inclassificável. Mesmo assim, 
 continuo tentando, talvez num esforço para melhor organizar meu trabalho.
 
-As coisas ficam um pouco mais fáceis quando penso na *pedologia quantitativa* como o tema gerador dos 
+As coisas ficam um pouco mais fáceis quando penso na pedologia quantitativa como o tema gerador dos 
 projetos em que estou envolvido. Por exemplo, algumas vezes desenvolvo ferramentas computacionais sem qualquer 
-relação com a *pedologia quantitativa*. Contudo, a razão de seu desenvolvimento foi exatamente a de dar um
-pequeno passo na caminhada rumo à resolução de um problema maior cuja origem é a *pedologia quantitativa*.
+relação com a pedologia quantitativa. Contudo, a razão de seu desenvolvimento foi exatamente a de dar um
+pequeno passo na caminhada rumo à resolução de um problema maior cuja origem é a pedologia quantitativa.
 Vários exemplos aparecem abaixo.
 
 O problema é que o tempo passa e as ideias mudam, as coisas mudam, os projetos mudam. Isso faz com que cada
@@ -21,67 +21,76 @@ caminhos por onde gosto de andar, revendo aqueles por onde já andei.
 
 ## Amostragem Espacial
 
-O uso de estratégias amostrais robustas é fundamental para a acurada estimativa de parâmetros e predição do 
-comportamento espacial de recursos naturais, inclusive o solo.
+O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do 
+comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, 
+desenvolvo o projeto
 
-Dentro dessa temática, atualmente, desenvolvo o projeto
+* ***Otimização espacial de configurações amostrais utilizando recozimento simulado***
 
-* ***Otimização espacial de configurações amostrais utilizando recozimento simulado para modelagem espacial***.
+O desenvolvimento desse projeto teve início durante meu doutoramento na UFRRJ. Portanto, trata-se de uma
+parceria com Lúcia Anjos (UFRRJ), Gustavo Vasques (Embrapa Solos), Gerard Heuvelink (ISRIC World Soil
+Information, Holanda) e Dick Brus (Wageningen University and Research Centre, Holanda). Algumas publicações
+importantes resultantes desse projeto são:
 
-Trata-se de uma parceria com Lúcia Anjos (Universidade Federal Rural do Rio de Janeiro), Gustavo Vasques 
-(Embrapa Solos), Gerard Heuvelink (ISRIC World Soil Information, Holanda) e Dick Brus (Wageningen University
-and Research Centre, Holanda). Algumas das publicações resultantes desse projeto são:
+1. Optimization of sample configurations for spatial trend estimation
+   ([link](http://dx.doi.org/10.13140/RG.2.1.2198.5769))
+2. Optimization of sample configurations for variogram estimation
+   ([link](http://dx.doi.org/10.13140/RG.2.1.1412.1440))
+3. spsann -- optimization of sample patterns using spatial simulated annealing
+   ([link](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-7780.pdf))
 
-1. [Optimization of sample configurations for spatial trend 
-   estimation](http://dx.doi.org/10.13140/RG.2.1.2198.5769)
-2. [Optimization of sample configurations for variogram 
-   estimation](http://dx.doi.org/10.13140/RG.2.1.1412.1440)
-3. [spsann -- optimization of sample patterns using spatial simulated
-   annealing](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-7780.pdf)
+Em termos práticos, a contribuição mais importante desse projeto é o pacote `spsann` para o `R`, que contém 
+ferramentas para otimização espacial de configurações amostrais usando recozimento simulado. A última versão
+publicada do pacote pode ser descarregada gratuitamente de https://cran.r-project.org/web/packages/spsann/.
 
-A contribuição mais significativa desse projeto é o ***pacote `spsann` para o `R`***.
-Esse pacote comtém ferramentas para otimização de configurações amostrais usando recozimento simulado. O 
-código fonte pode ser acessado **gratuitamente** [aqui](https://github.com/samuel-rosa/spsann), enquanto a
-última versão publicada do pacote pode ser descarregada **gratuitamente**
-[daqui](https://cran.r-project.org/web/packages/spsann/).
+## Dados Pedológicos
+
+A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter
+sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é
+diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho 
+desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao 
+projeto
+
+* ***Infraestruturas públicas de dados do solo -- da concepção à distribuição***
+
+Atualmente, as principais atividades desse projeto são:
+
+1. Controle de qualidade do Sistema de Informação de Solos Brasileiros 
+   ([link](https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html));
+2. Construção da Base de Dados Brasileira de Ferro do Solo ([link](http://coral.ufsm.br/febr/))
 
 ## Ensino de Pedologia Quantitativa
 
-A *pedologia quantitiativa* é uma disciplina recente no Brasil. Seu avanço qualitativo depende da produção de
+A pedologia quantitiativa é uma disciplina recente no Brasil. Seu avanço qualitativo depende da produção de
 material bibliográfico baseado nos resultados das mais sólidas pesquisas realizadas em todo o mundo. Assim,
 sempre que possível, dedico um pouco de meu tempo ao projeto
 
-* ***Pedologia Quantitativa feita Simples***.
+* ***Pedologia Quantitativa feita Simples***
 
-Trata-se de um livro sobre *pedologia quantitativa*, ainda em elaboração, publicado gratuitamente
-[aqui](http://samuel-rosa.github.io/pedologia-quantitativa/), e aceitando a contribuição de qualquer
-interessado.
+Trata-se de um livro sobre pedologia quantitativa, ainda em elaboração, que pode ser acessado gratuitamente em
+http://samuel-rosa.github.io/pedologia-quantitativa/.
 
-Anteriormente, meu maior esforço em termos de ensino de *pedologia quantitativa* traduziu-se na criação e
+Anteriormente, meu maior esforço em termos de ensino de pedologia quantitativa traduziu-se na criação e
 editoração da ***Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo***. As 
-versões publicadas da Newsletter estão disponíveis [aqui](https://github.com/samuel-rosa/pedometria). 
-Infelizmente, o projeto não teve continuidade após minha saída da equipe editorial no início de 2015.
+versões publicadas da Newsletter estão disponíveis em https://github.com/samuel-rosa/pedometria.
 
-## Software para Escrita Científica
+## Programas de Computador
 
-* Projetos ativos/prioritários:
-    1. Nenhum.
+Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte 
+considerável deles está voltada à escrita científica, como 1) os *'arquivos de estilo `jstyle` para formatação 
+automática de referências bibliográficas usando JabRef e LibreOffice'* 
+([link](https://github.com/samuel-rosa/RefBib)), 2) o *'pacote \LaTeX `pedometrianews` para formatação da 
+Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo'* 
+([link](https://github.com/samuel-rosa/pedometrianews)) e 3) a *'classe \LaTeX `UFRuralRJ` para formatação de
+documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro'* 
+([link](https://github.com/samuel-rosa/UFRuralRJ)).
 
-* Projetos inativos/não-prioritários:
-    1. ***Arquivos de estilo `jstyle` para formatação automática de referências bibliográficas usando JabRef e
-       LibreOffice***. Acesse o código fonte [aqui](https://github.com/samuel-rosa/RefBib).
-    2. ***Pacote LaTeX `pedometrianews` para formatação da Newsletter da Comissão de Pedometria da Sociedade 
-       Brasileira de Ciência do Solo***. Acesse o código fonte
-       [aqui](https://github.com/samuel-rosa/pedometrianews) e as versões publicadas da Newsletter
-       [aqui](https://github.com/samuel-rosa/pedometria).
-    3. ***Classe LaTeX `UFRuralRJ` para formatação de documentos acadêmicos da Universidade Federal Rural do 
-       Rio de Janeiro***. Acesse o código fonte [aqui](https://github.com/samuel-rosa/UFRuralRJ) e o manual de
-       uso [aqui](http://samuel-rosa.github.io/UFRuralRJ/_book/).
+No momento, além do pacote `spsann` para o `R`, desenvolvo um segundo pacote com aplicação na pedologia 
+quantitativa. Trata-se do pacote `pedometrics`, que contém ferramentas e técnicas diversas para pedologia
+quantitativa, um produto do projeto
 
-## Software para Pedologia Quantitativa
+* ***Implementação algorítmica de métodos e técnicas de uso em pedologia quantitativa***
 
-* Projetos ativos/prioritários:
-    1. ***Pacote `pedometrics` para o `R`*** contendo ferramentas e técnicas para *pedologia quantitativa*. 
-       Acesse o código fonte [aqui](https://github.com/samuel-rosa/pedometrics) ou baixe a última versão
-       publicada [daqui](https://cran.r-project.org/web/packages/pedometrics/).
+A última versão do pacote `pedometrics` pode ser descarregada gratuitamente de 
+https://cran.r-project.org/web/packages/pedometrics/.
 
