@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensino on A. Samuel-Rosa</title>
+    <link>/tags/ensino/</link>
+    <description>Recent content in Ensino on A. Samuel-Rosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ensino/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modelagem Geoestatística do Ambiente</title>
+      <link>/post/ufsm-sol-843/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ufsm-sol-843/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos-da-disciplina&#34;&gt;Objetivos da Disciplina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#metodologia-e-instrumentos-de-ensino&#34;&gt;Metodologia e Instrumentos de Ensino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#formas-de-avaliacao&#34;&gt;Formas de Avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Federal de Santa Maria&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Programa de Pós-Graduação em Ciência do Solo&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: SOL 843 (Tópicos em Ciência do Solo)&lt;br&gt; &lt;strong&gt;Créditos&lt;/strong&gt;: 3 (2 - 1)&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 45 horas&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: 2° Semestre de 2017&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Mestrado/Doutorado&lt;br&gt; &lt;strong&gt;Professor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos-da-disciplina&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos da Disciplina&lt;/h2&gt;
+&lt;p&gt;Promover o entendimento da natureza da variação espacial e das propriedades estatísticas dos dados espaciais, bem como dos modelos geoestatísticos usados para descrever a estrutura da variação espacial e fazer predições espaciais. Capacitar para o uso dos modelos geoestatísticos para o estudo da propagação de erros em modelos empíricos, conceituais e de base física que são alimentados com dados espaciais.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Caracterização dos dados espaciais e ferramentas para sua análise. Estudo de modelos clássicos e modernos de explicação da variação espacial. Descrição de técnicas robustas para estimativa de parâmetros e predição espacial. Demonstração de procedimentos para avaliação de modelos geoestatísticos. Construção de simulações geoestatísticas para propagação de incerteza.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;metodologia-e-instrumentos-de-ensino&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Metodologia e Instrumentos de Ensino&lt;/h2&gt;
+&lt;p&gt;Leituras dirigidas, aulas expositivas, resolução de exercícios, projeto de pesquisa. Quadro branco, projetor multimídia, computadores. A disciplina será dividida em duas três partes, a primeira delas concentrada, com duração de uma semana, seguida por período de um mês de trabalho não-presencial, dedicado ao desenvolvimento do trabalho de pesquisa, que será apresentado no terceiro momento, presencialmente, à toda a turma.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;formas-de-avaliacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Formas de Avaliação&lt;/h2&gt;
+&lt;p&gt;Participação em aula, projeto de pesquisa e seminário.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

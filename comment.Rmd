@@ -1,6 +1,0 @@
----
-title: "Comentários"
-uniqueid: comment
----
-
-Aqui está uma página em branco.

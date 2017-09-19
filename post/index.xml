@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postagens on A. Samuel-Rosa</title>
+    <link>/post/</link>
+    <description>Recent content in Postagens on A. Samuel-Rosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modelagem Geoestatística do Ambiente</title>
+      <link>/post/ufsm-sol-843/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ufsm-sol-843/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos-da-disciplina&#34;&gt;Objetivos da Disciplina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#metodologia-e-instrumentos-de-ensino&#34;&gt;Metodologia e Instrumentos de Ensino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#formas-de-avaliacao&#34;&gt;Formas de Avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Federal de Santa Maria&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Programa de Pós-Graduação em Ciência do Solo&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: SOL 843 (Tópicos em Ciência do Solo)&lt;br&gt; &lt;strong&gt;Créditos&lt;/strong&gt;: 3 (2 - 1)&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 45 horas&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: 2° Semestre de 2017&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Mestrado/Doutorado&lt;br&gt; &lt;strong&gt;Professor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos-da-disciplina&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos da Disciplina&lt;/h2&gt;
+&lt;p&gt;Promover o entendimento da natureza da variação espacial e das propriedades estatísticas dos dados espaciais, bem como dos modelos geoestatísticos usados para descrever a estrutura da variação espacial e fazer predições espaciais. Capacitar para o uso dos modelos geoestatísticos para o estudo da propagação de erros em modelos empíricos, conceituais e de base física que são alimentados com dados espaciais.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Caracterização dos dados espaciais e ferramentas para sua análise. Estudo de modelos clássicos e modernos de explicação da variação espacial. Descrição de técnicas robustas para estimativa de parâmetros e predição espacial. Demonstração de procedimentos para avaliação de modelos geoestatísticos. Construção de simulações geoestatísticas para propagação de incerteza.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;metodologia-e-instrumentos-de-ensino&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Metodologia e Instrumentos de Ensino&lt;/h2&gt;
+&lt;p&gt;Leituras dirigidas, aulas expositivas, resolução de exercícios, projeto de pesquisa. Quadro branco, projetor multimídia, computadores. A disciplina será dividida em duas três partes, a primeira delas concentrada, com duração de uma semana, seguida por período de um mês de trabalho não-presencial, dedicado ao desenvolvimento do trabalho de pesquisa, que será apresentado no terceiro momento, presencialmente, à toda a turma.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;formas-de-avaliacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Formas de Avaliação&lt;/h2&gt;
+&lt;p&gt;Participação em aula, projeto de pesquisa e seminário.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mensagem de Boas Vindas</title>
+      <link>/post/mensagem-de-boas-vindas/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mensagem-de-boas-vindas/</guid>
+      <description>&lt;p&gt;Seja bem vindo ao blog que construí para compartilhar minhas experiências e conhecimentos com estudantes, professores, pesquisadores e profissionais da Ciência do Solo dos países de língua portuguesa, sobretudo o Brasil. Os tópicos que aqui discuto pertencem à área da pedologia quantitativa, mais conhecida como Pedometria.&lt;/p&gt;
+&lt;p&gt;Meu foco no Brasil se deve ao fato de que a popularização do uso de métodos matemáticos e estatísticos para o estudo da distribuição e gênese do solo é bastante recente no país. O número de pesquisadores brasileiros atuando nessa área também é pequeno se comparado às condições europeias e norte-americanas. Poucos são os programas de pós-graduação brasileiros que possuem em seu corpo docente pesquisadores dedicados à Pedometria. Raros são os periódicos científicos brasileiros com editores especialistas na área. Ao mesmo tempo, cresce a necessidade por profissionais devidamente capacitados para o uso de métodos matemáticos e estatísticos para a modelagem quantitativa do solo. Além de ajudar a avançar a pesquisa em Pedometria, meu objetivo com este blog é contribuir para a formação de tais profissionais.&lt;/p&gt;
+&lt;p&gt;Destaco que os conhecimentos e opiniões que aqui compartilho não pretendem esgotar quaisquer discussões acerca da modelagem quantitativa do solo. Pelo contrário, eles constituem uma simples introdução ou suplemento a trabalhos publicados, muitos deles há mais de décadas. Muito daquilo que apresento é composto por minhas reflexões e interpretações acerca de tais trabalhos. Isso significa que o leitor é expressamente encorajado a sempre procurar pelos materiais originais de onde quaisquer informações tenham sido obtidas, evitando citar este blog como referência bibliográfica principal em seus trabalhos. Em outras palavras, este blog não foi criado com o objetivo de constituir uma fonte de conhecimento final, mas sim uma ponte entre aqueles que buscam conhecimento a cerca da Pedometria e aquilo que foi construído ao longo dos anos passados. Espero que esse objetivo seja alcançado e, assim, este blog contribua para o avanço qualitativo da prática científica nesta área da ciência do solo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
