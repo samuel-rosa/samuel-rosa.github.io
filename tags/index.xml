@@ -76,9 +76,18 @@
     <item>
       <title>Ensino</title>
       <link>/tags/ensino/</link>
-      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/ensino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoestatística</title>
+      <link>/tags/geoestat%C3%ADstica/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geoestat%C3%ADstica/</guid>
       <description></description>
     </item>
     
@@ -88,6 +97,24 @@
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/otimiza%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedometria</title>
+      <link>/tags/pedometria/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pedometria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pnpd</title>
+      <link>/tags/pnpd/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pnpd/</guid>
       <description></description>
     </item>
     
@@ -106,6 +133,15 @@
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/reposit%C3%B3rio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ufsm</title>
+      <link>/tags/ufsm/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ufsm/</guid>
       <description></description>
     </item>
     
