@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Samuel-Rosa on A. Samuel-Rosa</title>
-    <link>/</link>
+    <link>http://samuel-rosa.github.io/</link>
     <description>Recent content in A. Samuel-Rosa on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/post/2017-ufsm-sol-843/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <link>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
@@ -41,7 +41,8 @@
 &lt;li&gt;&lt;a href=&#34;#semana-zero&#34;&gt;Semana 0, 27-Setembro: Nivelamento ferramental&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-1-04-outubro-modelos-de-variacao-espacial&#34;&gt;Semana 1, 04-Outubro: Modelos de variação espacial&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-2-11-outubro-propriedades-dos-dados-espaciais&#34;&gt;Semana 2, 11-Outubro: Propriedades dos dados espaciais&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#semana-3-18-outubro-modelo-linear-misto-de-variacao-espacial&#34;&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hengl-t-heuvelink-gbm-and-rossiter-dg-2007.-about-regression-kriging-from-equations-to-case-studies.-computers-geosciences-3310-pp.1301-1315.-issn-0098-3004-doi-10.1016j.cageo.2007.05.001-url-httpdoi.org10.1016j.cageo.2007.05.001.&#34;&gt;* Hengl T, Heuvelink GBM and Rossiter DG (2007). “About regression-kriging: from equations to case studies.” &lt;em&gt;Computers &amp;amp; Geosciences&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(10), pp. 1301-1315. ISSN 0098-3004, doi: 10.1016/j.cageo.2007.05.001 (URL: &lt;a href=&#34;http://doi.org/10.1016/j.cageo.2007.05.001&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/j.cageo.2007.05.001&lt;/a&gt;). &lt;!-- Regressão krigagem --&gt;&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-4-25-outubro-predicao-espacial-e-validacao-estatistica&#34;&gt;Semana 4, 25-Outubro: Predição espacial e validação estatística&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-5-01-novembro-simulacao-espacial-e-propagacao-de-incerteza&#34;&gt;Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-6-06-dezembro-conclusao-do-curso&#34;&gt;Semana 6, 06-Dezembro: Conclusão do curso&lt;/a&gt;&lt;/li&gt;
@@ -289,15 +290,21 @@
 &lt;ul&gt;
 &lt;li&gt;Heuvelink GBM and Webster R (2001). “Modelling soil variation: past, present, and future.” &lt;em&gt;Geoderma&lt;/em&gt;, &lt;em&gt;100&lt;/em&gt;(3-4), pp. 269-301. ISSN 0016-7061, doi: 10.1016/S0016-7061(01)00025-8 (URL: &lt;a href=&#34;http://doi.org/10.1016/S0016-7061(01)00025-8&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/S0016-7061(01)00025-8&lt;/a&gt;). &lt;!-- Modelos de variação espacial e temporal --&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Leia também, pelo menos, um dos artigos a seguir:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lark RM (2000). “Estimating variograms of soil properties by the method-of-moments and maximum likelihood.” &lt;em&gt;European Journal of Soil Science&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;, pp. 717-728. doi: 10.1046/j.1365-2389.2000.00345.x (URL: &lt;a href=&#34;http://doi.org/10.1046/j.1365-2389.2000.00345.x&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1046/j.1365-2389.2000.00345.x&lt;/a&gt;). &lt;!-- Máxima verossimilhança --&gt;&lt;/li&gt;
+&lt;li&gt;Minasny B and McBratney AB (2005). “The Matérn function as a general model for soil variograms.” &lt;em&gt;Geoderma&lt;/em&gt;, &lt;em&gt;128&lt;/em&gt;(3), pp. 192-207. doi: 10.1016/j.geoderma.2005.04.003 (URL: &lt;a href=&#34;http://doi.org/10.1016/j.geoderma.2005.04.003&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/j.geoderma.2005.04.003&lt;/a&gt;). &lt;!-- Função de covariância Matérn --&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;semana-3-18-outubro-modelo-linear-misto-de-variacao-espacial&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;hengl-t-heuvelink-gbm-and-rossiter-dg-2007.-about-regression-kriging-from-equations-to-case-studies.-computers-geosciences-3310-pp.1301-1315.-issn-0098-3004-doi-10.1016j.cageo.2007.05.001-url-httpdoi.org10.1016j.cageo.2007.05.001.&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;* Hengl T, Heuvelink GBM and Rossiter DG (2007). “About regression-kriging: from equations to case studies.” &lt;em&gt;Computers &amp;amp; Geosciences&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(10), pp. 1301-1315. ISSN 0098-3004, doi: 10.1016/j.cageo.2007.05.001 (URL: &lt;a href=&#34;http://doi.org/10.1016/j.cageo.2007.05.001&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/j.cageo.2007.05.001&lt;/a&gt;). &lt;!-- Regressão krigagem --&gt;&lt;/h1&gt;
+&lt;p&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: A definir.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tarefas para a próxima semana&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Quarta versão do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Leituras para a próxima semana&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;A definir.&lt;/p&gt;
-&lt;/div&gt;
 &lt;div id=&#34;semana-4-25-outubro-predicao-espacial-e-validacao-estatistica&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Semana 4, 25-Outubro: Predição espacial e validação estatística&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: A definir.&lt;/p&gt;
@@ -335,10 +342,10 @@
     
     <item>
       <title>Amostragem Espacial</title>
-      <link>/project/amostragem-espacial/</link>
+      <link>http://samuel-rosa.github.io/project/amostragem-espacial/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/amostragem-espacial/</guid>
+      <guid>http://samuel-rosa.github.io/project/amostragem-espacial/</guid>
       <description>&lt;p&gt;O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, desenvolvo o projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Otimização espacial de configurações amostrais utilizando recozimento simulado&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -355,10 +362,10 @@
     
     <item>
       <title>Dados do Solo</title>
-      <link>/project/dados-do-solo/</link>
+      <link>http://samuel-rosa.github.io/project/dados-do-solo/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/dados-do-solo/</guid>
+      <guid>http://samuel-rosa.github.io/project/dados-do-solo/</guid>
       <description>&lt;p&gt;A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Infraestruturas públicas de dados do solo – da concepção à distribuição&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -373,10 +380,10 @@
     
     <item>
       <title>Ensino de Pedometria</title>
-      <link>/project/ensino-de-pedometria/</link>
+      <link>http://samuel-rosa.github.io/project/ensino-de-pedometria/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/ensino-de-pedometria/</guid>
+      <guid>http://samuel-rosa.github.io/project/ensino-de-pedometria/</guid>
       <description>&lt;p&gt;A Pedometria é uma disciplina recente no Brasil. Seu avanço qualitativo depende da produção de material bibliográfico baseado nos resultados das mais sólidas pesquisas realizadas em todo o mundo. Assim, sempre que possível, dedico um pouco de meu tempo ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Pedologia Quantitativa feita Simples&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -388,10 +395,10 @@
     
     <item>
       <title>Mensagem de Boas Vindas</title>
-      <link>/post/mensagem-de-boas-vindas/</link>
+      <link>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/mensagem-de-boas-vindas/</guid>
+      <guid>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</guid>
       <description>&lt;p&gt;Seja bem vindo ao blog que construí para compartilhar minhas experiências e conhecimentos com estudantes, professores, pesquisadores e profissionais da Ciência do Solo dos países de língua portuguesa, sobretudo o Brasil. Os tópicos que aqui discuto pertencem à área da pedologia quantitativa, mais conhecida como Pedometria.&lt;/p&gt;
 &lt;p&gt;Meu foco no Brasil se deve ao fato de que a popularização do uso de métodos matemáticos e estatísticos para o estudo da distribuição e gênese do solo é bastante recente no país. O número de pesquisadores brasileiros atuando nessa área também é pequeno se comparado às condições europeias e norte-americanas. Poucos são os programas de pós-graduação brasileiros que possuem em seu corpo docente pesquisadores dedicados à Pedometria. Raros são os periódicos científicos brasileiros com editores especialistas na área. Ao mesmo tempo, cresce a necessidade por profissionais devidamente capacitados para o uso de métodos matemáticos e estatísticos para a modelagem quantitativa do solo. Além de ajudar a avançar a pesquisa em Pedometria, meu objetivo com este blog é contribuir para a formação de tais profissionais.&lt;/p&gt;
 &lt;p&gt;Destaco que os conhecimentos e opiniões que aqui compartilho não pretendem esgotar quaisquer discussões acerca da modelagem quantitativa do solo. Pelo contrário, eles constituem uma simples introdução ou suplemento a trabalhos publicados, muitos deles há mais de décadas. Muito daquilo que apresento é composto por minhas reflexões e interpretações acerca de tais trabalhos. Isso significa que o leitor é expressamente encorajado a sempre procurar pelos materiais originais de onde quaisquer informações tenham sido obtidas, evitando citar este blog como referência bibliográfica principal em seus trabalhos. Em outras palavras, este blog não foi criado com o objetivo de constituir uma fonte de conhecimento final, mas sim uma ponte entre aqueles que buscam conhecimento a cerca da Pedometria e aquilo que foi construído ao longo dos anos passados. Espero que esse objetivo seja alcançado e, assim, este blog contribua para o avanço qualitativo da prática científica nesta área da ciência do solo.&lt;/p&gt;
@@ -400,10 +407,10 @@
     
     <item>
       <title>Programas de Computador</title>
-      <link>/project/programas-de-computador/</link>
+      <link>http://samuel-rosa.github.io/project/programas-de-computador/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/programas-de-computador/</guid>
+      <guid>http://samuel-rosa.github.io/project/programas-de-computador/</guid>
       <description>&lt;p&gt;Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte considerável deles está voltada à escrita científica, como 1) os &lt;em&gt;‘arquivos de estilo &lt;code&gt;jstyle&lt;/code&gt; para formatação automática de referências bibliográficas usando JabRef e LibreOffice’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/RefBib&#34;&gt;link&lt;/a&gt;), 2) o &lt;em&gt;‘pacote &lt;code&gt;pedometrianews&lt;/code&gt; para formatação da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/pedometrianews&#34;&gt;link&lt;/a&gt;) e 3) a &lt;em&gt;‘classe &lt;code&gt;UFRuralRJ&lt;/code&gt; para formatação de documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/UFRuralRJ&#34;&gt;link&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;No momento, além do pacote &lt;code&gt;spsann&lt;/code&gt; para o &lt;code&gt;R&lt;/code&gt;, desenvolvo um segundo pacote com aplicação na pedologia quantitativa. Trata-se do pacote &lt;code&gt;pedometrics&lt;/code&gt;, que contém ferramentas e técnicas diversas para pedologia quantitativa, um produto do projeto&lt;/p&gt;
 &lt;ul&gt;

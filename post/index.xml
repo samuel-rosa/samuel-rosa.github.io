@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Postagens on A. Samuel-Rosa</title>
-    <link>/post/</link>
+    <link>http://samuel-rosa.github.io/post/</link>
     <description>Recent content in Postagens on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/post/2017-ufsm-sol-843/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <link>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
@@ -41,7 +41,8 @@
 &lt;li&gt;&lt;a href=&#34;#semana-zero&#34;&gt;Semana 0, 27-Setembro: Nivelamento ferramental&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-1-04-outubro-modelos-de-variacao-espacial&#34;&gt;Semana 1, 04-Outubro: Modelos de variação espacial&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-2-11-outubro-propriedades-dos-dados-espaciais&#34;&gt;Semana 2, 11-Outubro: Propriedades dos dados espaciais&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#semana-3-18-outubro-modelo-linear-misto-de-variacao-espacial&#34;&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hengl-t-heuvelink-gbm-and-rossiter-dg-2007.-about-regression-kriging-from-equations-to-case-studies.-computers-geosciences-3310-pp.1301-1315.-issn-0098-3004-doi-10.1016j.cageo.2007.05.001-url-httpdoi.org10.1016j.cageo.2007.05.001.&#34;&gt;* Hengl T, Heuvelink GBM and Rossiter DG (2007). “About regression-kriging: from equations to case studies.” &lt;em&gt;Computers &amp;amp; Geosciences&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(10), pp. 1301-1315. ISSN 0098-3004, doi: 10.1016/j.cageo.2007.05.001 (URL: &lt;a href=&#34;http://doi.org/10.1016/j.cageo.2007.05.001&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/j.cageo.2007.05.001&lt;/a&gt;). &lt;!-- Regressão krigagem --&gt;&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-4-25-outubro-predicao-espacial-e-validacao-estatistica&#34;&gt;Semana 4, 25-Outubro: Predição espacial e validação estatística&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-5-01-novembro-simulacao-espacial-e-propagacao-de-incerteza&#34;&gt;Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#semana-6-06-dezembro-conclusao-do-curso&#34;&gt;Semana 6, 06-Dezembro: Conclusão do curso&lt;/a&gt;&lt;/li&gt;
@@ -289,15 +290,21 @@
 &lt;ul&gt;
 &lt;li&gt;Heuvelink GBM and Webster R (2001). “Modelling soil variation: past, present, and future.” &lt;em&gt;Geoderma&lt;/em&gt;, &lt;em&gt;100&lt;/em&gt;(3-4), pp. 269-301. ISSN 0016-7061, doi: 10.1016/S0016-7061(01)00025-8 (URL: &lt;a href=&#34;http://doi.org/10.1016/S0016-7061(01)00025-8&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/S0016-7061(01)00025-8&lt;/a&gt;). &lt;!-- Modelos de variação espacial e temporal --&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Leia também, pelo menos, um dos artigos a seguir:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lark RM (2000). “Estimating variograms of soil properties by the method-of-moments and maximum likelihood.” &lt;em&gt;European Journal of Soil Science&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;, pp. 717-728. doi: 10.1046/j.1365-2389.2000.00345.x (URL: &lt;a href=&#34;http://doi.org/10.1046/j.1365-2389.2000.00345.x&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1046/j.1365-2389.2000.00345.x&lt;/a&gt;). &lt;!-- Máxima verossimilhança --&gt;&lt;/li&gt;
+&lt;li&gt;Minasny B and McBratney AB (2005). “The Matérn function as a general model for soil variograms.” &lt;em&gt;Geoderma&lt;/em&gt;, &lt;em&gt;128&lt;/em&gt;(3), pp. 192-207. doi: 10.1016/j.geoderma.2005.04.003 (URL: &lt;a href=&#34;http://doi.org/10.1016/j.geoderma.2005.04.003&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/j.geoderma.2005.04.003&lt;/a&gt;). &lt;!-- Função de covariância Matérn --&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;semana-3-18-outubro-modelo-linear-misto-de-variacao-espacial&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;hengl-t-heuvelink-gbm-and-rossiter-dg-2007.-about-regression-kriging-from-equations-to-case-studies.-computers-geosciences-3310-pp.1301-1315.-issn-0098-3004-doi-10.1016j.cageo.2007.05.001-url-httpdoi.org10.1016j.cageo.2007.05.001.&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;* Hengl T, Heuvelink GBM and Rossiter DG (2007). “About regression-kriging: from equations to case studies.” &lt;em&gt;Computers &amp;amp; Geosciences&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(10), pp. 1301-1315. ISSN 0098-3004, doi: 10.1016/j.cageo.2007.05.001 (URL: &lt;a href=&#34;http://doi.org/10.1016/j.cageo.2007.05.001&#34; class=&#34;uri&#34;&gt;http://doi.org/10.1016/j.cageo.2007.05.001&lt;/a&gt;). &lt;!-- Regressão krigagem --&gt;&lt;/h1&gt;
+&lt;p&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: A definir.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tarefas para a próxima semana&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Quarta versão do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Leituras para a próxima semana&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;A definir.&lt;/p&gt;
-&lt;/div&gt;
 &lt;div id=&#34;semana-4-25-outubro-predicao-espacial-e-validacao-estatistica&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Semana 4, 25-Outubro: Predição espacial e validação estatística&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: A definir.&lt;/p&gt;
@@ -335,10 +342,10 @@
     
     <item>
       <title>Mensagem de Boas Vindas</title>
-      <link>/post/mensagem-de-boas-vindas/</link>
+      <link>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/mensagem-de-boas-vindas/</guid>
+      <guid>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</guid>
       <description>&lt;p&gt;Seja bem vindo ao blog que construí para compartilhar minhas experiências e conhecimentos com estudantes, professores, pesquisadores e profissionais da Ciência do Solo dos países de língua portuguesa, sobretudo o Brasil. Os tópicos que aqui discuto pertencem à área da pedologia quantitativa, mais conhecida como Pedometria.&lt;/p&gt;
 &lt;p&gt;Meu foco no Brasil se deve ao fato de que a popularização do uso de métodos matemáticos e estatísticos para o estudo da distribuição e gênese do solo é bastante recente no país. O número de pesquisadores brasileiros atuando nessa área também é pequeno se comparado às condições europeias e norte-americanas. Poucos são os programas de pós-graduação brasileiros que possuem em seu corpo docente pesquisadores dedicados à Pedometria. Raros são os periódicos científicos brasileiros com editores especialistas na área. Ao mesmo tempo, cresce a necessidade por profissionais devidamente capacitados para o uso de métodos matemáticos e estatísticos para a modelagem quantitativa do solo. Além de ajudar a avançar a pesquisa em Pedometria, meu objetivo com este blog é contribuir para a formação de tais profissionais.&lt;/p&gt;
 &lt;p&gt;Destaco que os conhecimentos e opiniões que aqui compartilho não pretendem esgotar quaisquer discussões acerca da modelagem quantitativa do solo. Pelo contrário, eles constituem uma simples introdução ou suplemento a trabalhos publicados, muitos deles há mais de décadas. Muito daquilo que apresento é composto por minhas reflexões e interpretações acerca de tais trabalhos. Isso significa que o leitor é expressamente encorajado a sempre procurar pelos materiais originais de onde quaisquer informações tenham sido obtidas, evitando citar este blog como referência bibliográfica principal em seus trabalhos. Em outras palavras, este blog não foi criado com o objetivo de constituir uma fonte de conhecimento final, mas sim uma ponte entre aqueles que buscam conhecimento a cerca da Pedometria e aquilo que foi construído ao longo dos anos passados. Espero que esse objetivo seja alcançado e, assim, este blog contribua para o avanço qualitativo da prática científica nesta área da ciência do solo.&lt;/p&gt;
