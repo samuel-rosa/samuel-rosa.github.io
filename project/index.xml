@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on A. Samuel-Rosa</title>
-    <link>http://samuel-rosa.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Amostragem Espacial</title>
-      <link>http://samuel-rosa.github.io/project/amostragem-espacial/</link>
+      <link>/project/amostragem-espacial/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/project/amostragem-espacial/</guid>
+      <guid>/project/amostragem-espacial/</guid>
       <description>&lt;p&gt;O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, desenvolvo o projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Otimização espacial de configurações amostrais utilizando recozimento simulado&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Dados do Solo</title>
-      <link>http://samuel-rosa.github.io/project/dados-do-solo/</link>
+      <link>/project/dados-do-solo/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/project/dados-do-solo/</guid>
+      <guid>/project/dados-do-solo/</guid>
       <description>&lt;p&gt;A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Infraestruturas públicas de dados do solo – da concepção à distribuição&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Ensino de Pedometria</title>
-      <link>http://samuel-rosa.github.io/project/ensino-de-pedometria/</link>
+      <link>/project/ensino-de-pedometria/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/project/ensino-de-pedometria/</guid>
+      <guid>/project/ensino-de-pedometria/</guid>
       <description>&lt;p&gt;A Pedometria é uma disciplina recente no Brasil. Seu avanço qualitativo depende da produção de material bibliográfico baseado nos resultados das mais sólidas pesquisas realizadas em todo o mundo. Assim, sempre que possível, dedico um pouco de meu tempo ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Pedologia Quantitativa feita Simples&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title>Programas de Computador</title>
-      <link>http://samuel-rosa.github.io/project/programas-de-computador/</link>
+      <link>/project/programas-de-computador/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/project/programas-de-computador/</guid>
+      <guid>/project/programas-de-computador/</guid>
       <description>&lt;p&gt;Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte considerável deles está voltada à escrita científica, como 1) os &lt;em&gt;‘arquivos de estilo &lt;code&gt;jstyle&lt;/code&gt; para formatação automática de referências bibliográficas usando JabRef e LibreOffice’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/RefBib&#34;&gt;link&lt;/a&gt;), 2) o &lt;em&gt;‘pacote &lt;code&gt;pedometrianews&lt;/code&gt; para formatação da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/pedometrianews&#34;&gt;link&lt;/a&gt;) e 3) a &lt;em&gt;‘classe &lt;code&gt;UFRuralRJ&lt;/code&gt; para formatação de documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/UFRuralRJ&#34;&gt;link&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;No momento, além do pacote &lt;code&gt;spsann&lt;/code&gt; para o &lt;code&gt;R&lt;/code&gt;, desenvolvo um segundo pacote com aplicação na pedologia quantitativa. Trata-se do pacote &lt;code&gt;pedometrics&lt;/code&gt;, que contém ferramentas e técnicas diversas para pedologia quantitativa, um produto do projeto&lt;/p&gt;
 &lt;ul&gt;
