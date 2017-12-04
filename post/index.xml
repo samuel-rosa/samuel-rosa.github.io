@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Postagens on A. Samuel-Rosa</title>
-    <link>/post/</link>
+    <link>http://samuel-rosa.github.io/post/</link>
     <description>Recent content in Postagens on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
@@ -10,11 +10,24 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/post/2017-ufsm-sol-843/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Feliz Dia Mundial do Solo</title>
+      <link>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</guid>
+      <description>&lt;p&gt;O Programa de Pós-Graduação Ciência do Solo da Universidade Federal de Santa Maria (UFSantaMaria) convida a comunidade em geral para participar das atividades em alusão ao Dia Mundial do Solo.&lt;/p&gt;
+&lt;p&gt;Na quarta-feira, dia 06/12, das 13:30 às 17:30, será realizado o &lt;strong&gt;Seminário Dia Mundial do Solo UFSM 2017&lt;/strong&gt;, no Auditório Flávio Miguel Schneider, Centro de Ciências Rurais, Prédio 42. Neste seminário, os pós-doutorandos(as) do PPG Ciência do Solo apresentarão um panorama das pesquisas realizadas no último ano, apontando para os principais desenvolvimentos em suas áreas e perspectivas futuras. Veja abaixo os principais tópicos que serão apresentados e discutidos no evento.&lt;/p&gt;
+&lt;p&gt;Na quinta-feira, dia 07/12, das 08:00 às 12:00, será realizada a &lt;strong&gt;Oficina de Dados Abertos do Solo&lt;/strong&gt;, na Sala Enio Tonini, Centro de Ciências Rurais, Prédio 43. A Oficina é baseada na experiência acumulada durante a construção e manutenção do Repositório Brasileiro Livre para Dados Abertos do Solo (febr, www.ufsm.br/febr), repositório este desenvolvido pela equipe coordenada pelos pesquisadores do PPG Ciência do Solo Dr. Alessandro Samuel-Rosa, Dr. Ricardo Simão Diniz Dalmolin e Dr. Paulo Ivonir Gubiani. Os participantes devem levar seus computadores pessoais para as atividades práticas e receberão certificado de participação.&lt;/p&gt;
+&lt;p&gt;Maiores informações em &amp;lt;www.ufsm.br/ppgcs&amp;gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelagem Geoestatística do Ambiente</title>
+      <link>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
@@ -419,10 +432,10 @@
     
     <item>
       <title>Mensagem de Boas Vindas</title>
-      <link>/post/mensagem-de-boas-vindas/</link>
+      <link>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/mensagem-de-boas-vindas/</guid>
+      <guid>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</guid>
       <description>&lt;p&gt;Seja bem vindo ao blog que construí para compartilhar minhas experiências e conhecimentos com estudantes, professores, pesquisadores e profissionais da Ciência do Solo dos países de língua portuguesa, sobretudo o Brasil. Os tópicos que aqui discuto pertencem à área da pedologia quantitativa, mais conhecida como Pedometria.&lt;/p&gt;
 &lt;p&gt;Meu foco no Brasil se deve ao fato de que a popularização do uso de métodos matemáticos e estatísticos para o estudo da distribuição e gênese do solo é bastante recente no país. O número de pesquisadores brasileiros atuando nessa área também é pequeno se comparado às condições europeias e norte-americanas. Poucos são os programas de pós-graduação brasileiros que possuem em seu corpo docente pesquisadores dedicados à Pedometria. Raros são os periódicos científicos brasileiros com editores especialistas na área. Ao mesmo tempo, cresce a necessidade por profissionais devidamente capacitados para o uso de métodos matemáticos e estatísticos para a modelagem quantitativa do solo. Além de ajudar a avançar a pesquisa em Pedometria, meu objetivo com este blog é contribuir para a formação de tais profissionais.&lt;/p&gt;
 &lt;p&gt;Destaco que os conhecimentos e opiniões que aqui compartilho não pretendem esgotar quaisquer discussões acerca da modelagem quantitativa do solo. Pelo contrário, eles constituem uma simples introdução ou suplemento a trabalhos publicados, muitos deles há mais de décadas. Muito daquilo que apresento é composto por minhas reflexões e interpretações acerca de tais trabalhos. Isso significa que o leitor é expressamente encorajado a sempre procurar pelos materiais originais de onde quaisquer informações tenham sido obtidas, evitando citar este blog como referência bibliográfica principal em seus trabalhos. Em outras palavras, este blog não foi criado com o objetivo de constituir uma fonte de conhecimento final, mas sim uma ponte entre aqueles que buscam conhecimento a cerca da Pedometria e aquilo que foi construído ao longo dos anos passados. Espero que esse objetivo seja alcançado e, assim, este blog contribua para o avanço qualitativo da prática científica nesta área da ciência do solo.&lt;/p&gt;
