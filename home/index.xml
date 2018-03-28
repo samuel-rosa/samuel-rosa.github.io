@@ -7,7 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://samuel-rosa.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://samuel-rosa.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/about/</guid>
+      <description>Bibliografia Eu sou professor/pesquisador da Universidade Tecnológica Federal do Paraná &amp;ndash; câmpus Santa Helena (UTFPR) desde março de 2017. Após meus primeiros estudos na Universidade Federal de Santa Maria (UFSM) sobre as complexas interações entre o uso da terra e a qualidade do solo, em 2012, mudei para o campo da Pedometria. A colaboração com pesquisadores do Centro Nacional de Pesquisas sobre Solos (Embrapa), do International Soil Reference and Information Centre (ISRIC), da Wageningen University and Research Centre (WUR) e da Universidade Federal Rural do Rio de Janeiro (UFRRJ), permitiu familiarizar-me com múltiplos métodos e técnicas pedométricas.</description>
+    </item>
+    
+    <item>
+      <title>Publicações Selecionadas</title>
+      <link>http://samuel-rosa.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publicações Recentes</title>
+      <link>http://samuel-rosa.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palestras Recentes &amp; Futuras</title>
+      <link>http://samuel-rosa.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postagens Recentes</title>
+      <link>http://samuel-rosa.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>http://samuel-rosa.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/projects/</guid>
+      <description>A maioria dos projetos em que estou envolvido têm alguma relação com a pedometria. Assim, acabo tendo grandes dificuldades em classificá-los como pertencendo à essa ou àquela área do conhecimento &amp;ndash; na verdade, tenho grande dificuldade com a classificação do inclassificável. Mesmo assim, continuo tentando, talvez num esforço para melhor organizar meu próprio trabalho.
+Acho que as coisas ficam um pouco mais fáceis quando penso na pedometria como o tema gerador dos projetos em que estou envolvido.</description>
+    </item>
+    
+    <item>
+      <title>Ensino</title>
+      <link>http://samuel-rosa.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/teaching/</guid>
+      <description> Universidade Federal de Santa Maria  SOL 843: Tópicos em Ciência do Solo &amp;ndash; Modelagem Geoestatística do Ambiente  </description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>http://samuel-rosa.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

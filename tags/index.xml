@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://samuel-rosa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
@@ -15,8 +17,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://samuel-rosa.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
@@ -142,6 +143,15 @@
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://samuel-rosa.github.io/tags/solo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ufsm</title>
+      <link>http://samuel-rosa.github.io/tags/ufsm/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/tags/ufsm/</guid>
       <description></description>
     </item>
     

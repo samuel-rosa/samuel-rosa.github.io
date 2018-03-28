@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/base-de-dados/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://samuel-rosa.github.io/tags/base-de-dados/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Dados do Solo</title>
@@ -15,16 +17,8 @@
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://samuel-rosa.github.io/project/dados-do-solo/</guid>
-      <description>&lt;p&gt;A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Infraestruturas públicas de dados do solo – da concepção à distribuição&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Atualmente, as principais atividades desse projeto são:&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Controle de qualidade do Sistema de Informação de Solos Brasileiros (&lt;a href=&#34;https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html&#34;&gt;link&lt;/a&gt;);&lt;/li&gt;
-&lt;li&gt;Construção da Base de Dados Brasileira de Ferro do Solo (&lt;a href=&#34;http://coral.ufsm.br/febr/&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto
+ Infraestruturas públicas de dados do solo – da concepção à distribuição  Atualmente, as principais atividades desse projeto são:</description>
     </item>
     
   </channel>
