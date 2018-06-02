@@ -6,8 +6,330 @@
     <description>Recent content in A. Samuel-Rosa on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bringing together Brazilian soil scientists to share soil data</title>
+      <link>http://samuel-rosa.github.io/talk/wcss-2018/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/talk/wcss-2018/</guid>
+      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resumo&lt;/h2&gt;
+&lt;p&gt;Soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. As data underutilization is a waste of resources and refrains the advancement of knowledge, many isolated soil data rescue and sharing efforts have emerged in the scientific community. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research. To address these issues, Brazilian soil scientists have recently created a data repository using community-built standards and following open data policies. The Free Brazilian Repository for Open Soil Data – &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;, www.ufsm.br/febr – is a centralized repository targeted at storing open soil data and serving it in a standardized and harmonized format. The repository infrastructure was built using open source and/or free (of cost) software, and was primarily designed for the individual management of datasets. A dataset-driven structure helps datasets authors to be properly acknowledged. Moreover, it gives the flexibility to accommodate many types of data of any soil variable. This is accomplished by storing each dataset using a collection of spreadsheets accessible through an online application. Spreadsheets are familiar to any soil scientist, the reason why it is easier to enter, manipulate and visualize soil data in febr. They also facilitate the participation of soil survey experts in the recovery and quality assessment of legacy data. Soil scientists can help in the definition of standards and data management choices through a public discussion forum, &lt;a href=&#34;mailto:febr-forum@googlegroups.com&#34;&gt;febr-forum@googlegroups.com&lt;/a&gt;. A comprehensive documentation is available to guide febr maintainers and data contributors. A detailed catalog gives access to the 14 477 soil observations – 42% of them from south and southeastern Brazil – from 232 datasets contained in &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;. Global and dataset-specific visualization and search tools and multiple download facilities are available. The latter includes standard file formats and connections with R and QGIS through the &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt; package. Various products can be derived from data in &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;: specialized databases, pedotransfer functions, fertilizer recommendation guides, classification systems, and detailed soil maps. By sharing data through a centralized soil data storing and sharing facility, soil scientists from different fields have the opportunity to increase collaboration and the much needed soil knowledge.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;informacoes-adicionais&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Informações adicionais&lt;/h2&gt;
+&lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Simão Diniz Dalmolin&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/7251203817503318&#34;&gt;Paulo Ivonir Gubiani&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/5321244029568287&#34;&gt;Stanley Robson de Medeiros Oliveira&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/4136381865367906&#34;&gt;Wenceslau Geraldes Teixeira&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/5963012432691034&#34;&gt;João Herbert Moreira Viana&lt;/a&gt;, e outros 48 pesquisadores. O desenvolvimento do trabalho e sua apresentação foram viabilizados pelo Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;), via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;), e pela Coordenação de Agronomia da Universidade Tecnológica Federal do Paraná – câmpus Santa Helena (&lt;a href=&#34;http://portal.utfpr.edu.br/campus/santahelena&#34;&gt;UTFPR-SH&lt;/a&gt;), via Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Estado do Paraná (&lt;a href=&#34;http://www.fappr.pr.gov.br/&#34;&gt;FA&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geoprocessamento e Sensoriamento Remoto</title>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#calendario-de-aulas&#34;&gt;Calendário de aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: OP2BA&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 60 horas (AT = 2; AP = 2; APS = 4; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=8634&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=8634&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Calendário de aulas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-II&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Quarta-feira, 9:10-10:00 (Aula), Sexta-feira, 07:30-10:00 (Aluno), 13:00-14:40 (Atendimento)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala L04&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Ao final da disciplina o discente compreenderá os princípios do geoprocessamento e do sensoriamento remoto, e terá a capacidade de manipular dados espaciais em sistemas de informação geográfica para a geração de produtos cartográficos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Estudo da ciência cartográfica. Princípios do geoprocessamento. Bases do sensoriamento remoto. Sistemas de informações geográficas. Aplicações.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;NOVO, Evlyn M. L. de Moraes. &lt;strong&gt;Sensoriamento remoto&lt;/strong&gt;: princípios e aplicações. 4. ed. rev. São Paulo, SP: Edgard Blücher, 2010. 387 p. ISBN 9788521205401.&lt;/p&gt;
+&lt;p&gt;SILVA, Ardemirio de Barros. &lt;strong&gt;Sistemas de informações geo-referenciadas&lt;/strong&gt;: conceitos e fundamentos. Campinas, SP: UNICAMP, 2003. 236 p. ISBN 8526806491.&lt;/p&gt;
+&lt;p&gt;FERREIRA, Marcos César. &lt;strong&gt;Iniciação à análise geoespacial&lt;/strong&gt;: teoria, técnicas e exemplos para geoprocessamento. 1. ed. São Paulo , SP: UNESP, 2014. 343 p. ISBN 9788539305377.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;FLORENZANO, Teresa Gallotti. &lt;strong&gt;Iniciação em sensoriamento remoto&lt;/strong&gt;. 3 ed. rev. e atual. São Paulo, SP: Oficina de Textos, 2011. 128 p. ISBN 9788579750168.&lt;/p&gt;
+&lt;p&gt;MOLIN, José Paulo; AMARAL, Lucas Rios do; COLAÇO, André Freitas. &lt;strong&gt;Agricultura de precisão&lt;/strong&gt;. 1. ed. São Paulo, SP: Oficina de Textos, 2015. 238 p. ISBN 9788579752131.&lt;/p&gt;
+&lt;p&gt;TULER, Marcelo; SARAIVA, Sérgio. &lt;strong&gt;Fundamentos de geodésia e cartografia&lt;/strong&gt;. Porto Alegre, RS: Bookman, 2016. 227 p. ISBN 9788582603604.&lt;/p&gt;
+&lt;p&gt;GONZALEZ, Rafael C.; WOODS, Richard E. &lt;strong&gt;Processamento digital de imagens&lt;/strong&gt;. 3. ed. São Paulo, SP: Pearson, 2010. xv, 624 p. ISBN 9788576054016.&lt;/p&gt;
+&lt;p&gt;FITZ, Paulo Roberto. &lt;strong&gt;Geoprocessamento sem complicação&lt;/strong&gt;. São Paulo, SP: Oficina de Textos, 2008. 160 p. ISBN 9788586238826.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução à Agronomia</title>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#calendario-de-aulas&#34;&gt;Calendário de aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Agronomia&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: AG61E&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 45 horas (AT = 2; AP = 1; APS = 3; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=8637&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=8637&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Calendário de aulas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-II&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Terça-feira, 07:30-10:00 (Aluno), Sexta-feira, 13:00-14:40 (Atendimento)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala K02&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Desenvolver consciência crítica a respeito da escolha profissional e institucional, da importância do conhecimento científico, e da função social da Universidade e do Engenheiro Agrônomo frente aos desafios contemporâneos, especialmente o desenvolvimento rural sustentável. Conhecer a trajetória histórica da agricultura e da Agronomia, as áreas de atuação do Engenheiro Agrônomo, a legislação pertinente à profissão, e a realidade da agricultura nacional e regional.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Conceito, estrutura e inserção da Universidade na sociedade. Estrutura do curso de Agronomia. História da agricultura e da Agronomia. A agricultura brasileira e paranaense. Legislação regulatória e perfil profissional. Órgãos de classe. Produção de alimentos, técnicas agronômicas, sistemas de produção. A importância da extensão e transferência de tecnologia para os produtores rurais.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;ABBOUD, A.C.S. &lt;strong&gt;Introdução à Agronomia&lt;/strong&gt;. Rio de Janeiro, Editora Interciência, 2013. 644 p. ISBN 9788571933040.&lt;/p&gt;
+&lt;p&gt;MAZOYER, M.; ROUDART, L. &lt;strong&gt;História das agriculturas do mundo&lt;/strong&gt;: do neolítico à crise contemporânea. São Paulo: Editora UNESP, 2010. 568 p. ISBN 9788571399945.&lt;/p&gt;
+&lt;p&gt;CONSELHO REGIONAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA DO PARANÁ. &lt;strong&gt;Coleção Cadernos do CREA-PR&lt;/strong&gt;: Cadernos de Ética, números 1 ao 8. Curitiba: CREA-PR.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;SANTOS, M.; SILVEIRA, M.L. &lt;strong&gt;O Brasil&lt;/strong&gt;: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2017. 476 p. ISBN 9788501111616.&lt;/p&gt;
+&lt;p&gt;CONSELHO REGIONAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA DO PARANÁ. &lt;strong&gt;Manual do profissional da engenharia, arquitetura e agronomia&lt;/strong&gt;. Curitiba: CREA-PR, 2004. 321 p.&lt;/p&gt;
+&lt;p&gt;SANTILLI, J. &lt;strong&gt;Agrobiodiversidade e direito dos agricultores&lt;/strong&gt;. São Paulo: Editora Peirópolis, 2009. 520 p. ISBN 9788575961575.&lt;/p&gt;
+&lt;p&gt;SCHNEIDER, S. &lt;strong&gt;A diversidade da agricultura familiar&lt;/strong&gt;. 2. ed. Porto Alegre: Editora da Universidade Federal do Rio Grande do Sul, 2009. 296 p. ISBN 9788538600374.&lt;/p&gt;
+&lt;p&gt;UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ. &lt;strong&gt;UTFPR&lt;/strong&gt;: uma história de 100 anos. 1. ed. Curitiba, PR: UTFPR, 2010. 169 p. ISBN 9788570140623.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cursos e disciplinas anteriores</title>
+      <link>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#universidade-tecnologica-federal-do-parana-campus-santa-helena&#34;&gt;Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#universidade-federal-de-santa-maria&#34;&gt;Universidade Federal de Santa Maria&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;universidade-tecnologica-federal-do-parana-campus-santa-helena&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Disciplina&lt;/strong&gt; &lt;a href=&#34;../2018-utfpr-cocic-gestao-inovacao-tecnologia&#34;&gt;Gestão da Inovação e Tecnologia&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: CC28B&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: Primeiro semestre de 2018&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disciplina&lt;/strong&gt; &lt;a href=&#34;../2018-utfpr-cocic-empreendedorismo&#34;&gt;Empreendedorismo&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: ED228A&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: Primeiro semestre de 2018&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;universidade-federal-de-santa-maria&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Universidade Federal de Santa Maria&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Disciplina&lt;/strong&gt; &lt;a href=&#34;../2017-ufsm-sol-843&#34;&gt;Modelagem Geoestatística do Ambiente&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Programa de Pós-Graduação em Ciência do Solo&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: SOL 843 (Tópicos em Ciência do Solo)&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 45 horas&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Mestrado/Doutorado&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: Primavera 2017&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uma aliança global pelo solo para alcançar o desenvolvimento sustentável</title>
+      <link>http://samuel-rosa.github.io/talk/expo-sh-2018/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/talk/expo-sh-2018/</guid>
+      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resumo&lt;/h2&gt;
+&lt;p&gt;O solo é um recurso natural muito lentamente renovável que ocupa posição central nos agroecossistemas. Mesmo assim, o solo continua sendo degradado pela má gestão e pelas mudanças inconsequentes do uso da terra. Para promover uma mudança real na maneira como usamos esse precioso recurso, instituições de vários países, coordenadas pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), juntaram esforços para constituir uma Aliança Global pelo Solo. A Aliança possui cinco pilares de ação: (1) gestão do solo, (2) sensibilização, (3) pesquisa, (4) informação e dados, e (5) harmonização. Nessa palestra, nós vamos explicar cada um dos cinco pilares de ação. Também vamos mostrar como as instituições de ensino, pesquisa e extensão brasileiras vem atuando para implementar as ações da Aliança. Algumas das maneiras como a comunidade de Santa Helena e região podem contribuir para esse esforço global (e também se beneficiar dele) serão apresentadas. O público é encorajado a participar fazendo perguntas e comentários, sobretudo para que a UTFPR-SH possa melhor direcionar suas ações de ensino, pesquisa e extensão para ajudar a região a alcançar o desenvolvimento sustentável.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Free Brazilian Repository for Open Soil Data</title>
+      <link>http://samuel-rosa.github.io/talk/wds-lac-2018/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/talk/wds-lac-2018/</guid>
+      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resumo&lt;/h2&gt;
+&lt;p&gt;Brazilian soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research. To address this issue, Brazilian soil scientists have recently created a data repository using community-built standards and following open data policies. The Free Brazilian Repository for Open Soil Data – febr, www.ufsm.br/febr – is a centralized repository targeted at storing open soil data and serving it in a standardized and harmonized format. The repository infrastructure was built using open source and/or free (of cost) software, and was primarily designed for the individual management of datasets. This is accomplished by storing each dataset using a collection of Google spreadsheets accessible online. Spreadsheets are familiar to any soil scientist, the reason why it is easier to enter, manipulate and visualize soil data in febr. Soil scientists can help in the definition of standards and data management choices through a public discussion forum, &lt;a href=&#34;mailto:febr-forum@googlegroups.com&#34;&gt;febr-forum@googlegroups.com&lt;/a&gt;. A comprehensive documentation is available to guide febr maintainers and data contributors. A detailed catalog gives access to the 14 477 soil observations from 232 datasets contained in febr. Global and dataset-specific visualization and search tools and multiple download facilities are available. The latter includes standard file formats and connections with R and QGIS through the febr package. Various products can be derived from data in febr: specialized databases, pedotransfer functions, fertilizer recommendation guides, classification systems, and detailed soil maps.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;informacoes-adicionais&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Informações adicionais&lt;/h2&gt;
+&lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Dalmolin&lt;/a&gt; e &lt;a href=&#34;http://lattes.cnpq.br/7251203817503318&#34;&gt;Paulo Gubiani&lt;/a&gt;, pesquisadores do Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;). O desenvolvimento do trabalho e sua apresentação no &lt;em&gt;workshop&lt;/em&gt; foram viabilizados pelo PPGCS via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;) e pela &lt;a href=&#34;http://agrisus.org.br/menu_br.asp&#34;&gt;Fundação Agrisus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bringing together Brazilian soil scientists to share soil data</title>
+      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empreendedorismo</title>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#calendario-de-aulas&#34;&gt;Calendário de aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: ED228A&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6772&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6772&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Calendário de aulas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-I&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Segunda-feira, 14:40-15:30 (Atendimento), 15:50-17:30 (Aula)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala L2&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Capacitar o discente a identificar e a valiar as oportunidades e riscos de potenciais negócios.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Oportunidade de negócios. Características do perfil empreendedor. Inovação. Plano de negócios.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;ARAUJO FILHO, Geraldo Ferreira de. &lt;strong&gt;Empreendedorismo criativo&lt;/strong&gt;: a nova dimensão da empregabilidade. Rio de Janeiro, RJ: Ciência Moderna, 2007. xxiii, 558 p. ISBN 9788573936032.&lt;/p&gt;
+&lt;p&gt;DORNELAS, José Carlos Assis. &lt;strong&gt;Empreendedorismo&lt;/strong&gt;: transformando idéias em negócios. 6. ed. São Paulo, SP: Atlas, 2016. 267 p. ISBN 9788597003932.&lt;/p&gt;
+&lt;p&gt;HISRICH, Robert D.; PETERS, Michael P.; SHEPERD, Dean A. (Autor). &lt;strong&gt;Empreendedorismo&lt;/strong&gt;. 9. ed. Porto Alegre, RS: AMGH, 2014. xxii, 456 p. ISBN 9788580553321.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;EMPREENDEDORISMO inovador: como criar startups de tecnologia no Brasil. São Paulo, SP: Évora, 2012. xxiv, 557 p. ISBN 9788563993434.&lt;/p&gt;
+&lt;p&gt;HASHIMOTO, Marcos. &lt;strong&gt;Práticas de empreendedorismo&lt;/strong&gt;: casos e planos de negócios. Rio de Janeiro, RJ: Campus, Elsevier, 2012. 209 p. ISBN 9788535256994.&lt;/p&gt;
+&lt;p&gt;THIEL, Peter A. &lt;strong&gt;De zero a um&lt;/strong&gt;: o que aprender sobre empreendedorismo com o Vale do Siício. 1. ed. Rio de Janeiro, RJ: Objetiva, 2014. 215 p. ISBN 9788539006205.&lt;/p&gt;
+&lt;p&gt;TRIAS DE BES, Fernando. &lt;strong&gt;O livro negro do empreendedor&lt;/strong&gt;: depois não diga que não foi avisado. 2. ed. Rio de Janeiro, RJ: Bestseller, 2010. 156 p. ISBN 9788576841487.&lt;/p&gt;
+&lt;p&gt;KAHNEY, Leander. &lt;strong&gt;A cabeça de Steve Jobs&lt;/strong&gt;: as lições do líder da empresa mais revolucionária do mundo. 2. ed. Rio de Janeiro: Agir, 2009. 286 p. ISBN 978-85-220-0977-0.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gestão da Inovação e Tecnologia</title>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#calendario-de-aulas&#34;&gt;Calendário de aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: CC28B&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6770&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6770&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Calendário de aulas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-I&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Sexta-feira, 14:40-15:30 (Atendimento), 15:50-17:30 (Aula)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala E09&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Compreender a importância da tecnologia como elemento de competitividade nas organizações como também diagnosticar e saber desenvolver um ambiente organizacional propício para a gestão da inovação, incluindo aqui desde formas de aquisição do conhecimento, tipos de inovação, até mecanismos de avaliação tecnológica e de proteção da propriedade intelectual.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Globalização, competitividade e o panorama atual de C&amp;amp;T. Tecnologia e inovação. Aspectos comportamentais, cultura e mudança organizacional. O processo de inovação tecnológica. Inovação e ciclo de vida das organizações. O valor da informação e a gestão do conhecimento. Negócios e proteção à propriedade intelectual. Princípios de inteligência competitiva e prospecção tecnológica. Estratégia tecnológica nas empresas. Ações interorganizacionais e fontes de fomento à inovação.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;TIDD, Joseph; BESSANT, J. R. &lt;strong&gt;Gestão da inovação&lt;/strong&gt;. 5. ed. Porto Alegre, RS: Bookman, 2015. 633 p. ISBN 9788582603062.&lt;/p&gt;
+&lt;p&gt;INOVAÇÃO para o crescimento guia prático e funcional: ferramentas para incentivar e administrar a inovação. São Paulo, SP: M. Books do Brasil Editora Ltda, 2011. 368 p. ISBN 9788576801108.&lt;/p&gt;
+&lt;p&gt;MAXIMIANO, Antonio Cesar Amaru. &lt;strong&gt;Administração de projetos&lt;/strong&gt;: como transformar idéias em resultados. 5. ed. São Paulo, SP: Atlas, 2014. xxiii, 396 p. ISBN 9788522487592.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;BARBIERI, José Carlos; CAJAZEIRA, Jorge Emanuel Reis. &lt;strong&gt;Gestão de idéias para inovação contínua&lt;/strong&gt;. Porto Alegre, RS: Bookman, 2009. 134 p. ISBN 9788577803330.&lt;/p&gt;
+&lt;p&gt;REIS, Dálcio Roberto dos. &lt;strong&gt;Gestão da inovação tecnológica&lt;/strong&gt;. 2. ed. Barueri, SP: Manole, 2008. 206 p. ISBN 9788520426784.&lt;/p&gt;
+&lt;p&gt;PHILIPPI JÚNIOR, Arlindo; SILVA NETO, Antonio J. (Ed.) &lt;strong&gt;Interdisciplinaridade em ciência, tecnologia &amp;amp; inovação&lt;/strong&gt;. 1. ed. Barueri, SP: Manole, 2011. xv, 998 p. ISBN 9788520430460.&lt;/p&gt;
+&lt;p&gt;SILVA, Reinaldo O. da. &lt;strong&gt;Teorias da administração&lt;/strong&gt;. São Paulo, SP: Pioneira Thomson Learning; Pearson Prentice Hall, c2001. xiv, 523 p. ISBN 8522102341.&lt;/p&gt;
+&lt;p&gt;BESSANT, J. R.; TIDD, Joseph. &lt;strong&gt;Inovação e empreendedorismo&lt;/strong&gt;. Porto Alegre, RS: Bookman, 2009. 511 p. ISBN 9788577804818.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Feliz Dia Mundial do Solo</title>
@@ -28,6 +350,449 @@
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao-do-curso&#34;&gt;Identificação do Curso&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#calendario-de-encontros&#34;&gt;Calendário de Encontros&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos-do-curso&#34;&gt;Objetivos do Curso&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#estrutura-do-curso&#34;&gt;Estrutura do Curso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefas&#34;&gt;Tarefas&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefa-1&#34;&gt;Reflexão Iterativa&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-da-tarefa&#34;&gt;Descrição da Tarefa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tema-gerador&#34;&gt;Tema Gerador&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefa-2&#34;&gt;Propagação de Incerteza&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-da-tarefa-1&#34;&gt;Descrição da Tarefa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#motivacao&#34;&gt;Motivação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#programa-do-curso&#34;&gt;Programa do Curso&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#titulo-e-discriminacao-das-unidades&#34;&gt;Título e Discriminação das Unidades&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#referencias-bibliograficas&#34;&gt;Referências Bibliográficas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cronograma-semanal&#34;&gt;Cronograma Semanal&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#semana-zero&#34;&gt;Semana 0, 27-Setembro: Nivelamento ferramental&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefas-para-a-proxima-semana&#34;&gt;Tarefas para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#leituras-para-a-proxima-semana&#34;&gt;Leituras para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#semana-1-04-outubro-modelos-de-variacao-espacial&#34;&gt;Semana 1, 04-Outubro: Modelos de variação espacial&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefas-para-a-proxima-semana-1&#34;&gt;Tarefas para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#leituras-para-a-proxima-semana-1&#34;&gt;Leituras para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#semana-2-11-outubro-propriedades-dos-dados-espaciais&#34;&gt;Semana 2, 11-Outubro: Propriedades dos dados espaciais&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefas-para-a-proxima-semana-2&#34;&gt;Tarefas para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#leituras-para-a-proxima-semana-2&#34;&gt;Leituras para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#semana-3-18-outubro-modelo-linear-misto-de-variacao-espacial&#34;&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefas-para-a-proxima-semana-3&#34;&gt;Tarefas para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#leituras-para-a-proxima-semana-3&#34;&gt;Leituras para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#semana-4-25-outubro-predicao-espacial-e-validacao-estatistica&#34;&gt;Semana 4, 25-Outubro: Predição espacial e validação estatística&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefas-para-a-proxima-semana-4&#34;&gt;Tarefas para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#leituras-para-a-proxima-semana-4&#34;&gt;Leituras para a próxima semana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#semana-5-01-novembro-simulacao-espacial-e-propagacao-de-incerteza&#34;&gt;Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tarefas-para-o-proximo-encontro&#34;&gt;Tarefas para o próximo encontro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#leituras-sugeridas&#34;&gt;Leituras sugeridas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#semana-6-06-dezembro-conclusao-do-curso&#34;&gt;Semana 6, 06-Dezembro: Conclusão do curso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#avaliacao-dos-participantes&#34;&gt;Avaliação dos Participantes&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#criterios&#34;&gt;Critérios&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição Geral&lt;/h1&gt;
+&lt;p&gt;Esse curso irá lhe expor a um conjunto de técnicas modernas para a modelagem de variáveis ambientais incertas. Ele também irá apresentá-lo a referências bibliográficas chave e ao processo inovador de aprendizagem/autoavaliação baseado na continuada reflexão sobre o conhecimento visitado e reconstrução do conhecimento próprio. Embora esse curso o introduzirá à uma série de ferramentas de análise de dados e desenvolvimento integrado, sistemas de gerenciamento de código fonte, aos fundamentos da programação letrada, e às plataformas de divulgação científica, o seu alicerce é a geoestatística: em resumo, estatística aplicada a dados com localização conhecida, sobre a qual será esperado que você demonstre maior domínio a cada tarefa cumprida.&lt;/p&gt;
+&lt;p&gt;Nós abordaremos muitos tópicos, dentre eles a caracterização dos dados espaciais e ferramentas para sua análise, o estudo de modelos clássicos e modernos de explicação da variação espacial, a descrição de técnicas robustas para estimativa de parâmetros e predição espacial, e a demonstração de procedimentos para avaliação de modelos geoestatísticos. Contudo, na maior parte do tempo, nós estaremos nos preparando para finalmente elaborar um delineamento experiental baseado em simulações geoestatísticas para um estudo de propagação de incerteza que será aplicado ao problema de pesquisa do seu projeto de mestrado/doutorado.&lt;/p&gt;
+&lt;div id=&#34;identificacao-do-curso&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação do Curso&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Federal de Santa Maria&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Programa de Pós-Graduação em Ciência do Solo&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: SOL 843 (Tópicos em Ciência do Solo)&lt;br&gt; &lt;strong&gt;Créditos&lt;/strong&gt;: 3 (2 - 1)&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 45 horas&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Mestrado/Doutorado&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;calendario-de-encontros&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Calendário de Encontros&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: Primavera 2017&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Quartas-feiras, 9:00-11:30/13:30-17:00&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Prédio 42, Sala 3302&lt;/p&gt;
+&lt;table&gt;
+&lt;caption&gt;Calendário resumido dos encontros. Veja o &lt;a href=&#34;#cronograma-semanal&#34;&gt;cronograma semanal&lt;/a&gt; para maiores detalhes sobre as atividades planejadas para cada encontro.&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;ID&lt;/th&gt;
+&lt;th&gt;Data&lt;/th&gt;
+&lt;th&gt;Carga Horária&lt;/th&gt;
+&lt;th&gt;Tema&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Semana 0&lt;/td&gt;
+&lt;td&gt;27-Setembro&lt;/td&gt;
+&lt;td&gt;(não contabilizada)&lt;/td&gt;
+&lt;td&gt;Nivelamento ferramental&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Semana 1&lt;/td&gt;
+&lt;td&gt;04-Outubro&lt;/td&gt;
+&lt;td&gt;6 horas&lt;/td&gt;
+&lt;td&gt;Variação espacial&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Semana 2&lt;/td&gt;
+&lt;td&gt;11-Outubro&lt;/td&gt;
+&lt;td&gt;6 horas&lt;/td&gt;
+&lt;td&gt;Propriedades dos dados espaciais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Semana 3&lt;/td&gt;
+&lt;td&gt;18-Outubro&lt;/td&gt;
+&lt;td&gt;6 horas&lt;/td&gt;
+&lt;td&gt;Modelo linear misto de variação espacial&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Semana 4&lt;/td&gt;
+&lt;td&gt;25-Outubro&lt;/td&gt;
+&lt;td&gt;6 horas&lt;/td&gt;
+&lt;td&gt;Predição espacial e validação estatística&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Semana 5&lt;/td&gt;
+&lt;td&gt;01-Novembro&lt;/td&gt;
+&lt;td&gt;6 horas&lt;/td&gt;
+&lt;td&gt;Simulação espacial e propagação de incerteza&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Semana 6&lt;/td&gt;
+&lt;td&gt;06-Dezembro&lt;/td&gt;
+&lt;td&gt;3 horas&lt;/td&gt;
+&lt;td&gt;Conclusão do curso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos-do-curso&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos do Curso&lt;/h2&gt;
+&lt;p&gt;Após a conclusão desse curso, você:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conhecerá as propriedades dos dados espaciais e dos modelos geoestatísticos usados para descrever a estrutura da variação espacial e fazer predições espaciais.&lt;/li&gt;
+&lt;li&gt;Será capaz de usar modelos geoestatísticos para o estudo da propagação de erros em modelos que são alimentados com dados espaciais.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;estrutura-do-curso&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Estrutura do Curso&lt;/h2&gt;
+&lt;p&gt;O curso será dividido em três partes. A primeira parte, de caráter teórico-prático, será conduzida de modo parcialmente concentrado, tendo duração de um mês e encontros semanais. Cada encontro semanal ocorrerá em dia único e terá duração de seis horas. Os encontros serão conduzidos pelo instrutor, que fará exposições acerca do conteúdo planejado usando como ferramentas quadro branco, projetor de multimídia e o livro digital &lt;a href=&#34;http://samuel-rosa.github.io/pedometria-feita-simples/&#34;&gt;Pedometria Feita Simples&lt;/a&gt;. Os participantes do curso farão leituras dirigidas antes de cada encontro. (Você terá que ler, pelo menos, dois-três artigos para cada aula) As leituras dirigidas servirão de base para as discussões a serem incitadas pelo instrutor durante o encontros e para desenvolver a &lt;a href=&#34;#tarefa-1&#34;&gt;primeira&lt;/a&gt; das duas tarefas obrigatórias do curso. Adicionalmente, serão desenvolvidas atividades práticas de resolução de exercícios durante os encontros, para as quais os participantes utilizarão o ambiente R de análise de dados em seus computadores pessoais.&lt;/p&gt;
+&lt;p&gt;A segunda parte do curso terá duração de um mês e será dedicada ao desenvolvimento da &lt;a href=&#34;#tarefa-2&#34;&gt;segunda&lt;/a&gt; tarefa obrigatória do curso. Essa tarefa será de aplicação dos conhecimentos visitados durante a primeira parte do curso. As atividades serão realizadas em modo não-presencial, sendo os participantes responsáveis pelos dados e infraestrutura computacional utilizados. Quaisquer dúvidas serão sanadas em reuniões presenciais individuais que serão agendadas conforme a disponibilidade do instrutor.&lt;/p&gt;
+&lt;p&gt;A terceira e última parte do curso será conduzida em modo presencial. Ela será dedicada à conclusão do curso, quando os resultados da segunda tarefa obrigatória do curso serão apresentados e discutidos pelos participantes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tarefas&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Tarefas&lt;/h1&gt;
+&lt;p&gt;O curso envolverá duas tarefas obrigatórias desenvolvidas em sequência. A primeira, de cunho mais teórico/reflexivo, abrangerá a primeira parte do curso. Já a segunda tarefa, de caráter mais prático/objetivo, será desenvolvida na segunda parte do curso.&lt;/p&gt;
+&lt;div id=&#34;tarefa-1&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Reflexão Iterativa&lt;/h2&gt;
+&lt;div id=&#34;descricao-da-tarefa&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Descrição da Tarefa&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prazo&lt;/strong&gt;: 03-Outubro, 10-Outubro, 17-Outubro, 24-Outubro, 31-Outubro&lt;/p&gt;
+&lt;p&gt;A tarefa de reflexão iterativa, guiada pelo tema gerador descrito &lt;a href=&#34;#tema-gerador&#34;&gt;abaixo&lt;/a&gt; e pelas leituras dirigidas, será realizada durante todas as cinco semanas que antecedem os encontros planejados para cada uma das cinco unidades descritas no &lt;a href=&#34;#programa-do-curso&#34;&gt;programa do curso&lt;/a&gt;. O produto dessa reflexão será apresentado na forma de texto dissertativo publicado na plataforma &lt;a href=&#34;https://www.authorea.com/&#34;&gt;Authorea&lt;/a&gt; até o dia anterior à cada encontro do curso. (Nós trataremos sobre o Authorea no encontro de &lt;a href=&#34;#semana-zero&#34;&gt;nivelamento ferramental&lt;/a&gt; 😉) Assim que publicado, o texto dissertativo será divulgado aos colegas do seu campo de pesquisa, convidando-os para que façam comentários sobre suas reflexões. (Por exemplo, os fóruns de discussão da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo – &lt;a href=&#34;mailto:pedometria@googlegroups.com&#34;&gt;pedometria@googlegroups.com&lt;/a&gt; – e de Levantamentos Pedológicos Detalhados – &lt;a href=&#34;mailto:soil-mapping@googlegroups.com&#34;&gt;soil-mapping@googlegroups.com&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;A partir da segunda semana, a tarefa de reflexão continuará sendo guiada pelo tema gerador e pelas leituras dirigidas, mas passará a ser operada de maneira recursiva, ou seja, levando em conta também o texto dissertativo publicado na semana anterior. Além disso, serão considerados os comentários feitos pelos colegas do seu campo de pesquisa e as discussões conduzidas durante o encontro anterior. Assim, um “novo” texto dissertativo será publicado a cada semana, o qual será uma versão reformulada, corrigida ou expandida do texto dissertativo anterior.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tema-gerador&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tema Gerador&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“[…] beware that uncertainty is not intrinsic to the phenomenon under study: rather it arises from our imperfect knowledge of that phenomenon, it is data-dependent and most importantly model-dependent, that model specifying our prior concept (decisions) about the phenomenon. No model, hence no uncertainty measure, can ever be objective: the point is to accept that limitation and document clearly all aspects of the model.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Motivado pelo trecho acima extraído do livro &lt;em&gt;Geostatistics for Natural Resources Evaluation&lt;/em&gt;, de Pierre Goovaerts (1997, p.442), reflita sobre os modelos usados para estudar os fenômenos espaciais de interesse em seu campo de pesquisa, considerando aspectos relacionados tanto ao surgimento como aos rumos tomados por esse campo ao longo da história. Concilie sua reflexão com os desenvolvimentos tecnológicos ocorridos desde o surgimento do seu campo de pesquisa e avalie, de maneira crítica, como esses desenvolvimentos tecnológicos o influenciaram, especialmente no que diz respeito à (re)construção das bases teóricas que o definem. O texto deve ser redigido na primeira pessoa do singular e usando voz ativa, seguindo as recomendações das revistas &lt;a href=&#34;http://www.nature.com/authors/author_resources/how_write.html?foxtrotcallback=true&#34;&gt;Nature&lt;/a&gt; e &lt;a href=&#34;http://www.sciencemag.org/site/feature/contribinfo/prep/res/style.xhtml&#34;&gt;Science&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tarefa-2&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Propagação de Incerteza&lt;/h2&gt;
+&lt;div id=&#34;descricao-da-tarefa-1&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Descrição da Tarefa&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prazo&lt;/strong&gt;: 06-Dezembro&lt;/p&gt;
+&lt;p&gt;A tarefa de propagação de incerteza será desenvolvida usando, preferencialmente, dados provenientes do seu projeto de pesquisa (mestrado ou doutorado). Assim que iniciadas as atividades (a partir de 02-Novembro), informações sobre o projeto de pesquisa serão publicadas no mesmo website público usado para o desenvolvimento da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;. O processamento e análise dos dados serão feitos usando o R e os pacotes geoestatísticos disponíveis. A documentação das atividades será feita usando um &lt;a href=&#34;http://rmarkdown.rstudio.com/r_notebooks.html&#34;&gt;caderno de anotações do R&lt;/a&gt;. Os dados e código fonte serão organizados e publicados em repositório público com controle de versão (git) no &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; (nós trataremos sobre o repositório no &lt;a href=&#34;#semana-zero&#34;&gt;encontro de nivelamento&lt;/a&gt;). Esse repositório terá uma página própria onde versões atualizadas do caderno de anotações serão publicadas, no mínimo, semanalmente. (Tenha em mente que o prazo para desenvolvimento da tarefa é de apenas um mês, o que requer um planejamento rigoroso e metas realistas)&lt;/p&gt;
+&lt;p&gt;O produto dessa tarefa, a ser entregue até 06-Dezembro, será composto pelo repositório e seu conteúdo. Isso inclui (a) os dados utilizados, (b) o código fonte desenvolvido, e (c) o caderno de anotações com os resultados alcançados. Caso os dados já estejam publicados em repositório público, então basta incluir no repositório o código fonte usado para acesso aos dados.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;motivacao&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Motivação&lt;/h3&gt;
+&lt;p&gt;Os dados utilizados para a resolução do problema de pesquisa de seu projeto (mestrado ou doutorado) são contaminados com erros desconhecidos. Da mesma forma, as decisões tomadas durante seu processamento e modelagem são permeadas por incertezas. A magnitude ou importância das diferentes fontes de erro depende de situação para situação. O avanço na construção do conhecimento em seu campo de pesquisa depende do melhor entendimento dessas fontes de incerteza. Por fim, a aplicação desse conhecimento e utilização eficiente dos produtos gerados por seu campo de pesquisa requer a minimização das incertezas.&lt;/p&gt;
+&lt;p&gt;A partir do conhecimento visitado durante a primeira fase da disciplina, reavalie o problema de pesquisa de seu projeto e identifique qual é a principal fonte de incerteza. Em seguida, planeje e desenvolva um estudo sobre essa fonte de incerteza. Estabeleça um delineamento experimental baseado em simulações geoestatísticas para avaliar como a incerteza é propagada durante o processamento e análise dos dados. Aponte alternativas viáveis para reduzir a incerteza.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;programa-do-curso&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Programa do Curso&lt;/h1&gt;
+&lt;div id=&#34;titulo-e-discriminacao-das-unidades&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Título e Discriminação das Unidades&lt;/h2&gt;
+&lt;ol start=&#34;0&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Nivelamento ferramental
+&lt;ol style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Ambiente de análise de dados (R/RStudio)&lt;/li&gt;
+&lt;li&gt;Controle de versão (git/GitHub)&lt;/li&gt;
+&lt;li&gt;Programação letrada (R Markdown/R Notebook)&lt;/li&gt;
+&lt;li&gt;Divulgação científica (blogdown/Hugo)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Variação espacial
+&lt;ol style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Natureza da variação espacial&lt;/li&gt;
+&lt;li&gt;Modelo discreto de variação espacial&lt;/li&gt;
+&lt;li&gt;Modelo contínuo de variação espacial&lt;/li&gt;
+&lt;li&gt;Semivariograma – análise e estimativa&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Propriedades dos dados espaciais
+&lt;ol style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Observações dependentes e preferenciais&lt;/li&gt;
+&lt;li&gt;Resíduos espacialmente correlacionados&lt;/li&gt;
+&lt;li&gt;Processos geradores não-estacionários&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Modelo linear misto de variação espacial
+&lt;ol style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Definição e propriedades&lt;/li&gt;
+&lt;li&gt;Função de covariância Whittle-Matérn&lt;/li&gt;
+&lt;li&gt;Método da máxima verossimilhança restrita&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Predição espacial e validação estatística
+&lt;ol style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Melhor preditor linear não enviesado empírico&lt;/li&gt;
+&lt;li&gt;Amostragem para validação estatística&lt;/li&gt;
+&lt;li&gt;Métricas de qualidade das predições&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Simulação espacial e propagação de incerteza
+&lt;ol style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Predição versus simulação estocástica&lt;/li&gt;
+&lt;li&gt;Simulação sequencial gaussiana&lt;/li&gt;
+&lt;li&gt;Visualização da incerteza e aplicações&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;referencias-bibliograficas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Referências Bibliográficas&lt;/h2&gt;
+&lt;p&gt;de Gruijter , J. J.; Brus, D.; Bierkens, M. &amp;amp; Knotters, M. Sampling for natural resource monitoring. Springer, 2006, 332. URL: &lt;a href=&#34;http://www.springer.com/environment/environmental+toxicology/book/978-3-540-22486-0&#34; class=&#34;uri&#34;&gt;http://www.springer.com/environment/environmental+toxicology/book/978-3-540-22486-0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Diggle, P. J. &amp;amp; Ribeiro Jr, P. J. Model-based Geostatistics. Springer, 2007, 228. URL: &lt;a href=&#34;http://www.springer.com/earth+sciences+and+geography/book/978-0-387-32907-9&#34; class=&#34;uri&#34;&gt;http://www.springer.com/earth+sciences+and+geography/book/978-0-387-32907-9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Goovaerts, P. Geostatistics for Natural Resources Evaluation. Oxford University Press, 1997, 483.&lt;/p&gt;
+&lt;p&gt;Webster, R. &amp;amp; Oliver, M. A. Geostatistics for Environmental Scientists. John Wiley &amp;amp; Sons, 2007, 315.&lt;/p&gt;
+&lt;p&gt;Zuur, A. F.; Ieno, E. N.; Walker, N.; Saveliev, A. A. &amp;amp; Smith, G. M. Mixed effects models and extensions in ecology with R. Springer, 2009, 574. &lt;a href=&#34;doi:10.1007/978-0-387-87458-6&#34; class=&#34;uri&#34;&gt;doi:10.1007/978-0-387-87458-6&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;cronograma-semanal&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Cronograma Semanal&lt;/h1&gt;
+&lt;div id=&#34;semana-zero&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Semana 0, 27-Setembro: Nivelamento ferramental&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: Nivelamento ferramental necessários aos participantes para completar as duas tarefas obrigatórias do curso. Introdução ao ambiente &lt;a href=&#34;https://www.r-project.org/&#34;&gt;R&lt;/a&gt; de análise de dados e ao ambiente &lt;a href=&#34;https://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; de desenvolvimento integrado. (Você precisa ter instalada em seu computador a versão &lt;em&gt;Preview&lt;/em&gt; do RStudio) Estudo do sistema &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; de gerenciamento de código fonte e controle de versão distribuído e da plataforma &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; de hospedagem de código fonte. Apresentação de aspectos da programação letrada e uso da linguagem de marcação &lt;a href=&#34;http://rmarkdown.rstudio.com/&#34;&gt;Markdown do R&lt;/a&gt; para produção de &lt;a href=&#34;http://rmarkdown.rstudio.com/r_notebooks.html&#34;&gt;cadernos de anotações&lt;/a&gt;. Introdução à plataforma de divulgação científica &lt;a href=&#34;https://www.authorea.com/&#34;&gt;Authorea&lt;/a&gt;. Apresentação da estrutura do curso.&lt;/p&gt;
+&lt;p&gt;O material do encontro está disponível em &lt;a href=&#34;https://samuel-rosa.github.io/UFSM-SOL-843/uni-0&#34; class=&#34;uri&#34;&gt;https://samuel-rosa.github.io/UFSM-SOL-843/uni-0&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;tarefas-para-a-proxima-semana&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tarefas para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Primeira versão do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203628/8YpW_1JOXjfiZBIy6TnV7g&#34;&gt;A evolução do mapeamento de solos: paradigmas e qualidade dos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203514/Xys0MAYo-3VWQUjF4l5Wwg&#34;&gt;Uma retrospectiva da modelagem em solos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203627/IYYDl4Z2kn_Ha-JUQw9g1Q&#34;&gt;O paradigma da ciência do solo e a qualidade das informações contidas nos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;leituras-para-a-proxima-semana&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Leituras para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Leia o seguinte artigo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Webster, R. &amp;amp; Beckett, P. H. T. Quality and usefulness of soil maps. Nature, Nature Publishing Group, 1968, 219, 680-682. &lt;a href=&#34;doi:10.1038/219680a0&#34; class=&#34;uri&#34;&gt;doi:10.1038/219680a0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leia também, pelo menos, um dos artigos a seguir:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kuilenburg, J. V.; Gruijter, J. J.; Marsman, B. A. &amp;amp; Bouma, J. Accuracy of spatial interpolation between point data on soil moisture supply capacity, compared with estimates from mapping units. Geoderma, 1982, 27, 311 - 325. &lt;a href=&#34;doi:10.1016/0016-7061(82)90020-9&#34; class=&#34;uri&#34;&gt;doi:10.1016/0016-7061(82)90020-9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bregt, A. K.; Bouma, J. &amp;amp; Jellinek, M. Comparison of thematic maps derived from a soil map and from kriging of point data. Geoderma, Elsevier BV, 1987, 39, 281-291. &lt;a href=&#34;doi:10.1016/0016-7061(87)90048-6&#34; class=&#34;uri&#34;&gt;doi:10.1016/0016-7061(87)90048-6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hudson, B. D. The soil survey as paradigm-based science. Soil Science Society of America Journal, 1992, 56, 836-841. &lt;a href=&#34;doi:10.2136/sssaj1992.03615995005600030027x&#34; class=&#34;uri&#34;&gt;doi:10.2136/sssaj1992.03615995005600030027x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Heuvelink, G. B. M. Identification of field attribute error under different models of spatial variation. International journal of geographical information systems, Informa UK Limited, 1996, 10, 921-935. &lt;a href=&#34;doi:10.1080/02693799608902117&#34; class=&#34;uri&#34;&gt;doi:10.1080/02693799608902117&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;E também, pelo menos, um dos artigos abaixo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Burgess, T. M. &amp;amp; Webster, R. Optimal interpolation and isarthmic mapping of soil properties. I. The semi-variogram and punctual kriging. Journal of Soil Science, Wiley-Blackwell, 1980, 31, 315-331. &lt;a href=&#34;doi:10.1111/j.1365-2389.1980.tb02084.x&#34; class=&#34;uri&#34;&gt;doi:10.1111/j.1365-2389.1980.tb02084.x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mcbratney, A. B. &amp;amp; Webster, R. Choosing functions for semi-variograms of soil properties and fitting them to sampling estimates. Journal of Soil Science, 1986, 37, 617-639. &lt;a href=&#34;doi:10.1111/j.1365-2389.1986.tb00392.x&#34; class=&#34;uri&#34;&gt;doi:10.1111/j.1365-2389.1986.tb00392.x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jian, X.; Olea, R. A. &amp;amp; Yu, Y.-S. Semivariogram modeling by weighted least squares. Computers &amp;amp; Geosciences, Elsevier BV, 1996, 22, 387-397. &lt;a href=&#34;doi:10.1016/0098-3004(95)00095-x&#34; class=&#34;uri&#34;&gt;doi:10.1016/0098-3004(95)00095-x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lark, R. M. &amp;amp; Beckett, P. H. T. A geostatistical descriptor of the spatial distribution of soil classes, and its use in predicting the purity of possible soil map units. Geoderma, 1998, 83, 243-267. &lt;a href=&#34;doi:10.1016/S0016-7061(97)00144-4&#34; class=&#34;uri&#34;&gt;doi:10.1016/S0016-7061(97)00144-4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;semana-1-04-outubro-modelos-de-variacao-espacial&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Semana 1, 04-Outubro: Modelos de variação espacial&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: A variação espacial e os fatores que a determinam. Introdução à modelagem de dados espaciais. O modelo discreto de explicação da variação espacial. As visões determinística e estocástica do modelo discreto de variação espacial. O modelo contínuo de variação espacial. A visão determinística do modelo contínuo de variação espacial.&lt;/p&gt;
+&lt;p&gt;O material do encontro está disponível em &lt;a href=&#34;https://samuel-rosa.github.io/UFSM-SOL-843/uni-1&#34; class=&#34;uri&#34;&gt;https://samuel-rosa.github.io/UFSM-SOL-843/uni-1&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;tarefas-para-a-proxima-semana-1&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tarefas para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Segunda versão do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203628/8YpW_1JOXjfiZBIy6TnV7g&#34;&gt;A evolução do mapeamento de solos: paradigmas e qualidade dos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203514/Xys0MAYo-3VWQUjF4l5Wwg&#34;&gt;Uma retrospectiva da modelagem em solos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203627/IYYDl4Z2kn_Ha-JUQw9g1Q&#34;&gt;O paradigma da ciência do solo e a qualidade das informações contidas nos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;leituras-para-a-proxima-semana-1&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Leituras para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Leia o seguinte artigo:&lt;/p&gt;
+&lt;!-- Pressupostos do modelo geoestatístico --&gt;
+&lt;ul&gt;
+&lt;li&gt;Webster, R. Is soil variation random?. Geoderma, Elsevier BV, 2000, 97, 149-163. &lt;a href=&#34;doi:10.1016/s0016-7061(00)00036-7&#34; class=&#34;uri&#34;&gt;doi:10.1016/s0016-7061(00)00036-7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leia também, pelo menos, um dos artigos a seguir:&lt;/p&gt;
+&lt;!-- Semivariograma e funções autorizadas --&gt;
+&lt;ul&gt;
+&lt;li&gt;Mcbratney, A. B. &amp;amp; Webster, R. Choosing functions for semi-variograms of soil properties and fitting them to sampling estimates. Journal of Soil Science, 1986, 37, 617-639. &lt;a href=&#34;doi:10.1111/j.1365-2389.1986.tb00392.x&#34; class=&#34;uri&#34;&gt;doi:10.1111/j.1365-2389.1986.tb00392.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Amostragem para estimar o modelo do semivariograma --&gt;
+&lt;ul&gt;
+&lt;li&gt;Müller, W. G. &amp;amp; Zimmerman, D. L. Optimal designs for variogram estimation. Environmetrics, 1999, 10, 23-37. &lt;a href=&#34;doi:10.1002/(sici)1099-095x(199901/02)10:1&#34; class=&#34;uri&#34;&gt;doi:10.1002/(sici)1099-095x(199901/02)10:1&lt;/a&gt; 3.0.co;2-p&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Estacionariedade --&gt;
+&lt;ul&gt;
+&lt;li&gt;Myers, D. E. To be or not to be… stationary? That is the question. Mathematical Geology, Springer Nature, 1989, 21, 347-362. &lt;a href=&#34;doi:10.1007/bf00893695&#34; class=&#34;uri&#34;&gt;doi:10.1007/bf00893695&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;semana-2-11-outubro-propriedades-dos-dados-espaciais&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Semana 2, 11-Outubro: Propriedades dos dados espaciais&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: Observações dependentes e preferenciais. Resíduos espacialmente correlacionados. A visão estocástica do modelo contínuo de variação espacial. O processo gerador aleatório e espacialmente autocorrelacionado. A estacionariedade de primeira e segunda ordem. A hipótese intrínseca. Semivariância e modelos matemáticos do semivariograma empírico.&lt;/p&gt;
+&lt;p&gt;O material do encontro está disponível em &lt;a href=&#34;https://samuel-rosa.github.io/UFSM-SOL-843/uni-2&#34; class=&#34;uri&#34;&gt;https://samuel-rosa.github.io/UFSM-SOL-843/uni-2&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;tarefas-para-a-proxima-semana-2&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tarefas para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Terceira versão do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203628/8YpW_1JOXjfiZBIy6TnV7g&#34;&gt;A evolução do mapeamento de solos: paradigmas e qualidade dos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203514/Xys0MAYo-3VWQUjF4l5Wwg&#34;&gt;Uma retrospectiva da modelagem em solos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203627/IYYDl4Z2kn_Ha-JUQw9g1Q&#34;&gt;O paradigma da ciência do solo e a qualidade das informações contidas nos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;leituras-para-a-proxima-semana-2&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Leituras para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Leia o seguinte artigo:&lt;/p&gt;
+&lt;!-- Modelos de variação espacial e temporal --&gt;
+&lt;ul&gt;
+&lt;li&gt;Heuvelink, G. B. M. &amp;amp; Webster, R. Modelling soil variation: past, present, and future. Geoderma, 2001, 100, 269-301. &lt;a href=&#34;doi:10.1016/S0016-7061(01)00025-8&#34; class=&#34;uri&#34;&gt;doi:10.1016/S0016-7061(01)00025-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leia também, pelo menos, um dos artigos a seguir:&lt;/p&gt;
+&lt;!-- Máxima verossimilhança --&gt;
+&lt;ul&gt;
+&lt;li&gt;Lark, R. M. Estimating variograms of soil properties by the method-of-moments and maximum likelihood. European Journal of Soil Science, 2000, 51, 717-728. &lt;a href=&#34;doi:10.1046/j.1365-2389.2000.00345.x&#34; class=&#34;uri&#34;&gt;doi:10.1046/j.1365-2389.2000.00345.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Função de covariância Matérn --&gt;
+&lt;ul&gt;
+&lt;li&gt;Minasny, B. &amp;amp; McBratney, A. B. The Matérn function as a general model for soil variograms. Geoderma, Elsevier, 2005, 128, 192-207. &lt;a href=&#34;doi:10.1016/j.geoderma.2005.04.003&#34; class=&#34;uri&#34;&gt;doi:10.1016/j.geoderma.2005.04.003&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Regressão krigagem --&gt;
+&lt;ul&gt;
+&lt;li&gt;Hengl, T.; Heuvelink, G. B. M. &amp;amp; Rossiter, D. G. About regression-kriging: from equations to case studies. Computers &amp;amp; Geosciences, 2007, 33, 1301-1315. &lt;a href=&#34;doi:10.1016/j.cageo.2007.05.001&#34; class=&#34;uri&#34;&gt;doi:10.1016/j.cageo.2007.05.001&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;semana-3-18-outubro-modelo-linear-misto-de-variacao-espacial&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Semana 3, 18-Outubro: Modelo linear misto de variação espacial&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: Definição de dado geoestatístico. Especificação do modelo linear misto de variação espacial. O modelo Gaussiano e seus parâmetros. Modelos do variograma experimental e funções de covariância. A função de covariância Whittle-Matérn. O método dos momentos e a estimativa de parâmetros do modelos do variograma. O método da máxima verossimilhança (MV) e da máxima verossimilhança restrita (MVR), e a estimativa de parâmetros de funções de covariância.&lt;/p&gt;
+&lt;p&gt;O material do encontro está disponível em &lt;a href=&#34;https://samuel-rosa.github.io/UFSM-SOL-843/uni-3&#34; class=&#34;uri&#34;&gt;https://samuel-rosa.github.io/UFSM-SOL-843/uni-3&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;tarefas-para-a-proxima-semana-3&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tarefas para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Quarta versão do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203628/8YpW_1JOXjfiZBIy6TnV7g&#34;&gt;A evolução do mapeamento de solos: paradigmas e qualidade dos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203514/Xys0MAYo-3VWQUjF4l5Wwg&#34;&gt;Uma retrospectiva da modelagem em solos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203627/IYYDl4Z2kn_Ha-JUQw9g1Q&#34;&gt;O paradigma da ciência do solo e a qualidade das informações contidas nos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;leituras-para-a-proxima-semana-3&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Leituras para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Leia o seguinte artigo:&lt;/p&gt;
+&lt;!-- Modelo linear misto de variação espacial na ciência do solo --&gt;
+&lt;ul&gt;
+&lt;li&gt;Lark, R. M. Towards soil geostatistics. Spatial Statistics, Elsevier BV, 2012, 1, 92-99. &lt;a href=&#34;doi:10.1016/j.spasta.2012.02.001&#34; class=&#34;uri&#34;&gt;doi:10.1016/j.spasta.2012.02.001&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leia também, pelo menos, um dos artigos a seguir:&lt;/p&gt;
+&lt;!-- Suporte amostral e de predição --&gt;
+&lt;ul&gt;
+&lt;li&gt;Heuvelink, G. B. M. &amp;amp; Pebesma, E. J. Spatial aggregation and soil process modelling. Geoderma, 1999, 89, 47-65. &lt;a href=&#34;doi:10.1016/S0016-7061(98)00077-9&#34; class=&#34;uri&#34;&gt;doi:10.1016/S0016-7061(98)00077-9&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- REML + E-BLUP --&gt;
+&lt;ul&gt;
+&lt;li&gt;Lark, R. M.; Cullis, B. R. &amp;amp; Welham, S. J. On spatial prediction of soil properties in the presence of a spatial trend: the empirical best linear unbiased predictor (E-BLUP) with REML. European Journal of Soil Science, Wiley-Blackwell, 2006, 57, 787-799. &lt;a href=&#34;doi:10.1111/j.1365-2389.2005.00768.x&#34; class=&#34;uri&#34;&gt;doi:10.1111/j.1365-2389.2005.00768.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Amostragem probabilística para validação estatística --&gt;
+&lt;ul&gt;
+&lt;li&gt;Brus, D. J.; Kempen, B. &amp;amp; Heuvelink, G. B. M. Sampling for validation of digital soil maps. European Journal of Soil Science, 2011, 62, 394-407. &lt;a href=&#34;doi:10.1111/j.1365-2389.2011.01364.x&#34; class=&#34;uri&#34;&gt;doi:10.1111/j.1365-2389.2011.01364.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Extensão do modelo linear misto à variáveis categóricas --&gt;
+&lt;ul&gt;
+&lt;li&gt;Kempen, B.; Brus, D. J. &amp;amp; Heuvelink, G. B. M. Soil type mapping using the generalised linear geostatistical model: a case study in a Dutch cultivated peatland. Geoderma, Elsevier BV, 2012, 189–190, 540-553. &lt;a href=&#34;doi:10.1016/j.geoderma.2012.05.028&#34; class=&#34;uri&#34;&gt;doi:10.1016/j.geoderma.2012.05.028&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;semana-4-25-outubro-predicao-espacial-e-validacao-estatistica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Semana 4, 25-Outubro: Predição espacial e validação estatística&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: O melhor preditor linear não enviesado empírico. Krigagem simples, ordinária e universal. Funções de covariância e os pesos da krigagem. Variância do erro de predição. Suporte de predição. Validação estatística de predições espaciais. Validação cruzada.&lt;/p&gt;
+&lt;p&gt;O material do encontro está disponível em &lt;a href=&#34;https://samuel-rosa.github.io/UFSM-SOL-843/uni-4&#34; class=&#34;uri&#34;&gt;https://samuel-rosa.github.io/UFSM-SOL-843/uni-4&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;tarefas-para-a-proxima-semana-4&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tarefas para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Quinta e última versão do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203628/8YpW_1JOXjfiZBIy6TnV7g&#34;&gt;A evolução do mapeamento de solos: paradigmas e qualidade dos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203514/Xys0MAYo-3VWQUjF4l5Wwg&#34;&gt;Uma retrospectiva da modelagem em solos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.authorea.com/203627/IYYDl4Z2kn_Ha-JUQw9g1Q&#34;&gt;O paradigma da ciência do solo e a qualidade das informações contidas nos mapas de solo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;leituras-para-a-proxima-semana-4&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Leituras para a próxima semana&lt;/h3&gt;
+&lt;p&gt;Leia os dois artigos abaixo:&lt;/p&gt;
+&lt;!-- Modelagem geoestatística da incerteza --&gt;
+&lt;ul&gt;
+&lt;li&gt;Goovaerts, P. Geostatistical modelling of uncertainty in soil science. Geoderma, Elsevier BV, 2001, 103, 3-26. &lt;a href=&#34;doi:10.1016/s0016-7061(01)00067-2&#34; class=&#34;uri&#34;&gt;doi:10.1016/s0016-7061(01)00067-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Modelos de incerteza para objetos variados --&gt;
+&lt;ul&gt;
+&lt;li&gt;Heuvelink, G. B. M.; Brown, J. D. &amp;amp; van Loon, E. E. A probabilistic framework for representing and simulating uncertain environmental variables. International Journal of Geographical Information Science, 2007, 21, 497-513. &lt;a href=&#34;doi:10.1080/13658810601063951&#34; class=&#34;uri&#34;&gt;doi:10.1080/13658810601063951&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;semana-5-01-novembro-simulacao-espacial-e-propagacao-de-incerteza&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: A Simulação versus predição. Modelo de incerteza local. Modelo de incerteza espacial. Simulação não-condicional. Simulação condicional. Simulação sequencial Gaussiana. Propagação de incerteza.&lt;/p&gt;
+&lt;div id=&#34;tarefas-para-o-proximo-encontro&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tarefas para o próximo encontro&lt;/h3&gt;
+&lt;p&gt;Repositório com os dados, código fonte, e caderno de anotações com os resultados da &lt;a href=&#34;#tarefa-2&#34;&gt;segunda tarefa&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;leituras-sugeridas&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Leituras sugeridas&lt;/h3&gt;
+&lt;!-- Usos diversos da geoestatística --&gt;
+&lt;ul&gt;
+&lt;li&gt;Oliver, M. A. &amp;amp; Webster, R. How geostatistics can help you. Soil Use and Management, 1991, 7, 206-217. &lt;a href=&#34;doi:10.1111/j.1475-2743.1991.tb00876.x&#34; class=&#34;uri&#34;&gt;doi:10.1111/j.1475-2743.1991.tb00876.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Diversos aspectos da geoestatística, inclusive simulação --&gt;
+&lt;ul&gt;
+&lt;li&gt;Goovaerts, P. Geostatistics in soil science: state-of-the-art and perspectives. Geoderma, 1999, 89, 1 - 45. &lt;a href=&#34;doi:10.1016/S0016-7061(98)00078-0&#34; class=&#34;uri&#34;&gt;doi:10.1016/S0016-7061(98)00078-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;semana-6-06-dezembro-conclusao-do-curso&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Semana 6, 06-Dezembro: Conclusão do curso&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Temas&lt;/strong&gt;: Apresentação dos resultados da tarefa de propagação de incerteza. Avaliação do curso.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;avaliacao-dos-participantes&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Avaliação dos Participantes&lt;/h1&gt;
+&lt;div id=&#34;criterios&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Critérios&lt;/h2&gt;
+&lt;p&gt;Os participantes serão avaliados quanto à participação durante os encontros e cumprimento das duas atividades obrigatórias do curso dentro do prazo.&lt;/p&gt;
+&lt;p&gt;Para receber conceito “A” nesse curso, além da entrega dos produtos de cada tarefa dentro do prazo, será necessário:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ler dois-três dos artigos recomendados para cada encontro, engajar-se nas discussões incitadas pelo instrutor e demais participantes durante os encontros, e respeitar o ritmo de aprendizado dos participantes do curso que demonstrarem maior dificuldade de compreensão de algum conceito.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ter flexibilidade e responsabilidade ao responder os comentários feitos pelos colegas do campo de pesquisa sobre as diferentes versões do texto dissertativo da &lt;a href=&#34;#tarefa-1&#34;&gt;primeira tarefa&lt;/a&gt; e demonstrar aprimoramento da capacidade de reflexão/abstração ao longo do curso.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Organizar o repositório no GitHub e o código fonte usado na &lt;a href=&#34;#tarefa-2&#34;&gt;segunda tarefa&lt;/a&gt; de maneira a garantir a inteira &lt;a href=&#34;https://pt.wikipedia.org/wiki/Reprodutibilidade&#34;&gt;reprodutibilidade&lt;/a&gt; da tarefa.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelagem Geoestatística do Ambiente</title>
+      <link>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
@@ -516,83 +1281,6 @@
 &lt;p&gt;Trata-se de um livro sobre pedologia quantitativa, ainda em elaboração, que pode ser acessado gratuitamente em &lt;a href=&#34;http://samuel-rosa.github.io/pedologia-quantitativa/&#34; class=&#34;uri&#34;&gt;http://samuel-rosa.github.io/pedologia-quantitativa/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Anteriormente, meu maior esforço em termos de ensino de pedologia quantitativa traduziu-se na criação e editoração da &lt;strong&gt;&lt;em&gt;Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo&lt;/em&gt;&lt;/strong&gt;. As versões publicadas da Newsletter estão disponíveis em &lt;a href=&#34;https://github.com/samuel-rosa/pedometria&#34; class=&#34;uri&#34;&gt;https://github.com/samuel-rosa/pedometria&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Mensagem de Boas Vindas</title>
-      <link>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</link>
-      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</guid>
-      <description>&lt;p&gt;Seja bem vindo ao blog que construí para compartilhar minhas experiências e conhecimentos com estudantes, professores, pesquisadores e profissionais da Ciência do Solo dos países de língua portuguesa, sobretudo o Brasil. Os tópicos que aqui discuto pertencem à área da pedologia quantitativa, mais conhecida como Pedometria.&lt;/p&gt;
-&lt;p&gt;Meu foco no Brasil se deve ao fato de que a popularização do uso de métodos matemáticos e estatísticos para o estudo da distribuição e gênese do solo é bastante recente no país. O número de pesquisadores brasileiros atuando nessa área também é pequeno se comparado às condições europeias e norte-americanas. Poucos são os programas de pós-graduação brasileiros que possuem em seu corpo docente pesquisadores dedicados à Pedometria. Raros são os periódicos científicos brasileiros com editores especialistas na área. Ao mesmo tempo, cresce a necessidade por profissionais devidamente capacitados para o uso de métodos matemáticos e estatísticos para a modelagem quantitativa do solo. Além de ajudar a avançar a pesquisa em Pedometria, meu objetivo com este blog é contribuir para a formação de tais profissionais.&lt;/p&gt;
-&lt;p&gt;Destaco que os conhecimentos e opiniões que aqui compartilho não pretendem esgotar quaisquer discussões acerca da modelagem quantitativa do solo. Pelo contrário, eles constituem uma simples introdução ou suplemento a trabalhos publicados, muitos deles há mais de décadas. Muito daquilo que apresento é composto por minhas reflexões e interpretações acerca de tais trabalhos. Isso significa que o leitor é expressamente encorajado a sempre procurar pelos materiais originais de onde quaisquer informações tenham sido obtidas, evitando citar este blog como referência bibliográfica principal em seus trabalhos. Em outras palavras, este blog não foi criado com o objetivo de constituir uma fonte de conhecimento final, mas sim uma ponte entre aqueles que buscam conhecimento a cerca da Pedometria e aquilo que foi construído ao longo dos anos passados. Espero que esse objetivo seja alcançado e, assim, este blog contribua para o avanço qualitativo da prática científica nesta área da ciência do solo.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Programas de Computador</title>
-      <link>http://samuel-rosa.github.io/project/programas-de-computador/</link>
-      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://samuel-rosa.github.io/project/programas-de-computador/</guid>
-      <description>&lt;p&gt;Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte considerável deles está voltada à escrita científica, como 1) os &lt;em&gt;‘arquivos de estilo &lt;code&gt;jstyle&lt;/code&gt; para formatação automática de referências bibliográficas usando JabRef e LibreOffice’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/RefBib&#34;&gt;link&lt;/a&gt;), 2) o &lt;em&gt;‘pacote &lt;code&gt;pedometrianews&lt;/code&gt; para formatação da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/pedometrianews&#34;&gt;link&lt;/a&gt;) e 3) a &lt;em&gt;‘classe &lt;code&gt;UFRuralRJ&lt;/code&gt; para formatação de documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/UFRuralRJ&#34;&gt;link&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;No momento, além do pacote &lt;code&gt;spsann&lt;/code&gt; para o &lt;code&gt;R&lt;/code&gt;, desenvolvo um segundo pacote com aplicação na pedologia quantitativa. Trata-se do pacote &lt;code&gt;pedometrics&lt;/code&gt;, que contém ferramentas e técnicas diversas para pedologia quantitativa, um produto do projeto&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Implementação algorítmica de métodos e técnicas de uso em pedologia quantitativa&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A última versão do pacote &lt;code&gt;pedometrics&lt;/code&gt; pode ser descarregada gratuitamente de &lt;a href=&#34;https://cran.r-project.org/web/packages/pedometrics/&#34; class=&#34;uri&#34;&gt;https://cran.r-project.org/web/packages/pedometrics/&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stacked generalization of statistical learners -- a case study with soil iron content in Brazil</title>
-      <link>http://samuel-rosa.github.io/talk/pedometrics-2017/</link>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://samuel-rosa.github.io/talk/pedometrics-2017/</guid>
-      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Resumo&lt;/h2&gt;
-&lt;p&gt;When modeling soil-landscape relationships we generally test a handful of statistical learners. Having limited data, we use cross-validation to select the best performing learner. In this study we evaluate the benefits of combining learners for soil prediction using stacked generalization. It consists of calibrating multiple learners and submitting them to 10-fold cross-validation. Cross-validation predictions are used as covariates in an interceptless linear regression of the target variable. Constrained to be non-negative, the estimated regression coefficients are the stacking weights expressing the importance of each learner. When making predictions, each learner is used in turn and the weights used to optimally combine multiple predictions into a single prediction.&lt;/p&gt;
-&lt;p&gt;The data was downloaded from the national database maintained by Embrapa. The target variable was the soil iron content (g kg&lt;sup&gt;-1&lt;/sup&gt;). Covariates (&lt;em&gt;p&lt;/em&gt; = 7) were constructed using soil profile data. The &lt;em&gt;n&lt;/em&gt; = 22 981 records remaining after some data cleaning were split into calibration (&lt;em&gt;n&lt;/em&gt;&lt;sub&gt;cal&lt;/sub&gt; = 16 086) and validation (&lt;em&gt;n&lt;/em&gt;&lt;sub&gt;val&lt;/sub&gt; = 6895) sets. Six learners were used: linear regression with stepwise selection (&lt;code&gt;lm&lt;/code&gt;), multivariate adaptive regression splines (&lt;code&gt;mars&lt;/code&gt;), regression random forest (&lt;code&gt;rf&lt;/code&gt;), single-hidden-layer neural network (&lt;code&gt;nnet&lt;/code&gt;), weighted k-nearest neighbor regression (&lt;code&gt;knn&lt;/code&gt;) and support vector machine with polynomial kernel (&lt;code&gt;svm&lt;/code&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;rf&lt;/code&gt; and &lt;code&gt;knn&lt;/code&gt; severely overfitted the data, while &lt;code&gt;lm&lt;/code&gt;, &lt;code&gt;mars&lt;/code&gt; and &lt;code&gt;svm&lt;/code&gt; were the most stable learners. The first two yielded the lowest absolute and squared errors (RMSE &amp;lt; 45 g kg&lt;sup&gt;-1&lt;/sup&gt;) and explained more of the variance (AVE ~ 0.6). &lt;code&gt;mars&lt;/code&gt;, &lt;code&gt;nnet&lt;/code&gt; and &lt;code&gt;lm&lt;/code&gt; were the least biased learners (ME ~ -0.1 g kg&lt;sup&gt;-1&lt;/sup&gt;), while &lt;code&gt;svm&lt;/code&gt; was the most biased (ME = -5.14 g kg&lt;sup&gt;-1&lt;/sup&gt;). &lt;code&gt;lm&lt;/code&gt; explained the smallest amount of variance (AVE = 0.49).&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;rf&lt;/code&gt; received the largest stacking weight (&lt;em&gt;w&lt;/em&gt; = 0.55), &lt;code&gt;knn&lt;/code&gt; and &lt;code&gt;svm&lt;/code&gt; received moderate weights (&lt;em&gt;w&lt;/em&gt; ~ 0.2) and &lt;code&gt;nnet&lt;/code&gt; and &lt;code&gt;mars&lt;/code&gt; received the smallest weights (&lt;em&gt;w&lt;/em&gt; &amp;lt; 0.1) – &lt;code&gt;lm&lt;/code&gt; was dropped from the stack (&lt;em&gt;w&lt;/em&gt; = 0). Combining learners lowered all absolute and squared errors (RMSE = 43.23 g kg&lt;sup&gt;-1&lt;/sup&gt;), yielded a considerably small bias (ME = 0.53 g kg&lt;sup&gt;-1&lt;/sup&gt;), and explained the same amount of variance explained by &lt;code&gt;rf&lt;/code&gt; (AVE = 0.61).&lt;/p&gt;
-&lt;p&gt;Staking learners was more beneficial than using the single best performing learner because it reduced generalization errors. The magnitude of the benefits seems to depend upon the diversity of learners (over and underfitting, biased and nonbiased). Besides, by using least squares regression to compute stacking weights we can estimate the prediction error variance of any combination of learners.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;informacoes-adicionais&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Informações adicionais&lt;/h2&gt;
-&lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Dalmolin&lt;/a&gt;, pesquisador do Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;). O desenvolvimento do trabalho e sua apresentação no Pedometrics 2017 foram viabilizados pelo PPGCS via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;) da CAPES, e com recursos dos projetos de pesquisa desenvolvidos por Ricardo Dalmolin no PPGCS.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Building a Public Repository of Open Soil Iron Data for Brazil</title>
-      <link>http://samuel-rosa.github.io/talk/bspm-2017/</link>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://samuel-rosa.github.io/talk/bspm-2017/</guid>
-      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Resumo&lt;/h2&gt;
-&lt;p&gt;We have recently stimulated the emergence of an unprecedented collaborative effort among soil scientists from all over Brazil. The goal: to build a centralized, public and free repository of standardized and georeferenced soil iron data with national coverage. Many Brazilian soil scientists have already shared datasets, some of them even before we could insert the datasets in possession of our institutions in what we called the Brazilian Soil Iron Data Repository (&lt;a href=&#34;http://coral.ufsm.br/febr/&#34;&gt;Fe-BR&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;Since December 2016, Fe-BR already has some 26 thousand records from about 300 datasets, most of them from the Brazilian Soil Information System (&lt;a href=&#34;https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html&#34;&gt;SISB&lt;/a&gt;) maintained by Embrapa. Along this period, we have seen that soil scientists are eager to share the datasets in their possession but are very sensitive to the extra efforts needed to do so. As such, we have designed a system that relies on data manipulation tools that are well known to all – spreadsheets. We also aimed at a suite of tools that meets the basic technological requirements of a robust but flexible data repository – version control, persistent identification, multiple file export options, concurrent edition, reviewing tools. The free online service Google Sheets has been able to fulfil all of these requirements. With Google Sheets, datasets in Fe-BR can be reviewed and/or augmented at any time by anyone on the internet with the permission to do so. This participatory approach can potentially boost the development of a completely new type of community driven, free and open soil data repository.&lt;/p&gt;
-&lt;p&gt;There has obviously been some difficulties, such as (1) motivating authors to provide comprehensive metadata and adhere to standards, (2) guessing spatial coordinates of non-georeferenced soil observations, (3) establishing communication between data sources, and (4) finding people willing to help in data organization and standardization. Solutions for (3) usually increase the need for more collaborators thus inflating (4). Solving (1) seems to depend upon consistent and persistent awareness raising. Fortunately the enthusiasm and sense of public responsibility of soil scientists, and availability of free online collaborative mapping services such as Google Maps, have made it easier to solve (2).&lt;/p&gt;
-&lt;p&gt;Next steps include launching a metadata catalog with search tools and improving the &lt;a href=&#34;https://github.com/samuel-rosa/febr-package&#34;&gt;febr&lt;/a&gt; package for R. Soil scientists are encouraged to use Fe-BR data to improve taxonomic systems, evaluate analytical methods, produce soil maps, identify priority areas for sampling and so on.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;informacoes-adicionais&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Informações adicionais&lt;/h2&gt;
-&lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Dalmolin&lt;/a&gt;, pesquisador do Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;). Participaram, também, &lt;a href=&#34;http://lattes.cnpq.br/7251203817503318&#34;&gt;Paulo Gubiani&lt;/a&gt; (PPGCS/UFSM), [Stanley Oliveira][stanley] (Embrapa), &lt;a href=&#34;http://lattes.cnpq.br/5351112741475859&#34;&gt;Humberto dos Santos&lt;/a&gt; (Embrapa) e &lt;a href=&#34;http://www.isric.org/user/34&#34;&gt;Eloi Ribeiro&lt;/a&gt; (ISRIC). O desenvolvimento do trabalho e sua apresentação no BSPM 2017 foram viabilizados pelo PPGCS via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;).&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Do more detailed environmental covariates deliver more accurate soil maps?</title>
-      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2015/</link>
-      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2015/</guid>
-      <description></description>
     </item>
     
   </channel>

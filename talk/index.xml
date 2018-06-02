@@ -6,10 +6,38 @@
     <description>Recent content in Recent &amp; Upcoming Talks on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://samuel-rosa.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bringing together Brazilian soil scientists to share soil data</title>
+      <link>http://samuel-rosa.github.io/talk/wcss-2018/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/talk/wcss-2018/</guid>
+      <description>Resumo Soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. As data underutilization is a waste of resources and refrains the advancement of knowledge, many isolated soil data rescue and sharing efforts have emerged in the scientific community. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research.</description>
+    </item>
+    
+    <item>
+      <title>Uma aliança global pelo solo para alcançar o desenvolvimento sustentável</title>
+      <link>http://samuel-rosa.github.io/talk/expo-sh-2018/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/talk/expo-sh-2018/</guid>
+      <description>Resumo O solo é um recurso natural muito lentamente renovável que ocupa posição central nos agroecossistemas. Mesmo assim, o solo continua sendo degradado pela má gestão e pelas mudanças inconsequentes do uso da terra. Para promover uma mudança real na maneira como usamos esse precioso recurso, instituições de vários países, coordenadas pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), juntaram esforços para constituir uma Aliança Global pelo Solo.</description>
+    </item>
+    
+    <item>
+      <title>The Free Brazilian Repository for Open Soil Data</title>
+      <link>http://samuel-rosa.github.io/talk/wds-lac-2018/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/talk/wds-lac-2018/</guid>
+      <description>Resumo Brazilian soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research. To address this issue, Brazilian soil scientists have recently created a data repository using community-built standards and following open data policies. The Free Brazilian Repository for Open Soil Data – febr, www.</description>
+    </item>
     
     <item>
       <title>Stacked generalization of statistical learners -- a case study with soil iron content in Brazil</title>

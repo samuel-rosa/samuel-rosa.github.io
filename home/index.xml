@@ -6,6 +6,7 @@
     <description>Recent content in Homes on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://samuel-rosa.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -72,7 +73,22 @@ Acho que as coisas ficam um pouco mais fáceis quando penso na pedometria como o
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://samuel-rosa.github.io/home/teaching/</guid>
-      <description> Universidade Federal de Santa Maria  SOL 843: Tópicos em Ciência do Solo &amp;ndash; Modelagem Geoestatística do Ambiente  </description>
+      <description> Universidade Tecnológica Federal do Paraná &amp;ndash; Câmpus Santa Helena  AG61E: Introdução à Agronomia
+ OP2BA: Geoprocessamento e Sensoriamento Remoto
+  Arquivo  Cursos e disciplinas anteriores  </description>
+    </item>
+    
+    <item>
+      <title>Gestão</title>
+      <link>http://samuel-rosa.github.io/home/management/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/home/management/</guid>
+      <description> Universidade Tecnológica Federal do Paraná  Comissão Responsável para Viabilização da Abertura do Curso de Agronomia
+ Equipe de Planejamento para o espaço do Hotel Tecnológico do Câmpus Santa Helena
+ Conselho Municipal de Desenvolvimento Agroeconômico de Santa Helena
+ Comissão de Divulgação dos Cursos do Câmpus Santa Helena
+  Sociedade Brasileira de Ciência do Solo  Comissão de Pedometria  </description>
     </item>
     
     <item>
