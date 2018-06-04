@@ -2,175 +2,175 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A. Samuel-Rosa</title>
-    <link>http://samuel-rosa.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://samuel-rosa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://samuel-rosa.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Amostragem</title>
-      <link>http://samuel-rosa.github.io/tags/amostragem/</link>
+      <link>/tags/amostragem/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/amostragem/</guid>
+      <guid>/tags/amostragem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anúncio</title>
-      <link>http://samuel-rosa.github.io/tags/an%C3%BAncio/</link>
+      <link>/tags/an%C3%BAncio/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/an%C3%BAncio/</guid>
+      <guid>/tags/an%C3%BAncio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aviso</title>
-      <link>http://samuel-rosa.github.io/tags/aviso/</link>
+      <link>/tags/aviso/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/aviso/</guid>
+      <guid>/tags/aviso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Base-de-dados</title>
-      <link>http://samuel-rosa.github.io/tags/base-de-dados/</link>
+      <link>/tags/base-de-dados/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/base-de-dados/</guid>
+      <guid>/tags/base-de-dados/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cocic</title>
-      <link>http://samuel-rosa.github.io/tags/cocic/</link>
+      <link>/tags/cocic/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/cocic/</guid>
+      <guid>/tags/cocic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convite</title>
-      <link>http://samuel-rosa.github.io/tags/convite/</link>
+      <link>/tags/convite/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/convite/</guid>
+      <guid>/tags/convite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dados-legados</title>
-      <link>http://samuel-rosa.github.io/tags/dados-legados/</link>
+      <link>/tags/dados-legados/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/dados-legados/</guid>
+      <guid>/tags/dados-legados/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ensino</title>
-      <link>http://samuel-rosa.github.io/tags/ensino/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      <link>/tags/ensino/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/ensino/</guid>
+      <guid>/tags/ensino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geoestatística</title>
-      <link>http://samuel-rosa.github.io/tags/geoestat%C3%ADstica/</link>
+      <link>/tags/geoestat%C3%ADstica/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/geoestat%C3%ADstica/</guid>
+      <guid>/tags/geoestat%C3%ADstica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Otimização</title>
-      <link>http://samuel-rosa.github.io/tags/otimiza%C3%A7%C3%A3o/</link>
+      <link>/tags/otimiza%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/otimiza%C3%A7%C3%A3o/</guid>
+      <guid>/tags/otimiza%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedometria</title>
-      <link>http://samuel-rosa.github.io/tags/pedometria/</link>
+      <link>/tags/pedometria/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/pedometria/</guid>
+      <guid>/tags/pedometria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pnpd</title>
-      <link>http://samuel-rosa.github.io/tags/pnpd/</link>
+      <link>/tags/pnpd/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/pnpd/</guid>
+      <guid>/tags/pnpd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>http://samuel-rosa.github.io/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repositório</title>
-      <link>http://samuel-rosa.github.io/tags/reposit%C3%B3rio/</link>
+      <link>/tags/reposit%C3%B3rio/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/reposit%C3%B3rio/</guid>
+      <guid>/tags/reposit%C3%B3rio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solo</title>
-      <link>http://samuel-rosa.github.io/tags/solo/</link>
+      <link>/tags/solo/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/solo/</guid>
+      <guid>/tags/solo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ufsm</title>
-      <link>http://samuel-rosa.github.io/tags/ufsm/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <link>/tags/ufsm/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/ufsm/</guid>
+      <guid>/tags/ufsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utfpr</title>
-      <link>http://samuel-rosa.github.io/tags/utfpr/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      <link>/tags/utfpr/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/tags/utfpr/</guid>
+      <guid>/tags/utfpr/</guid>
       <description></description>
     </item>
     
