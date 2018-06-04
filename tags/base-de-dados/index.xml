@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Base De Dados on A. Samuel-Rosa</title>
+    <title>Base-de-dados on A. Samuel-Rosa</title>
     <link>http://samuel-rosa.github.io/tags/base-de-dados/</link>
-    <description>Recent content in Base De Dados on A. Samuel-Rosa</description>
+    <description>Recent content in Base-de-dados on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://samuel-rosa.github.io/tags/base-de-dados/index.xml" rel="self" type="application/rss+xml" />

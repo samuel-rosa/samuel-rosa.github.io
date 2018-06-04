@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Samuel-Rosa on A. Samuel-Rosa</title>
-    <link>/</link>
+    <link>http://samuel-rosa.github.io/</link>
     <description>Recent content in A. Samuel-Rosa on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
@@ -11,11 +11,121 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Empreendedorismo</title>
+      <link>http://samuel-rosa.github.io/post/2018-utfpr-cocic-empreendedorismo/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/post/2018-utfpr-cocic-empreendedorismo/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação - COCIC&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: ED228A&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6772&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6772&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Capacitar o discente a identificar e a valiar as oportunidades e riscos de potenciais negócios.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Oportunidade de negócios. Características do perfil empreendedor. Inovação. Plano de negócios.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;ARAUJO FILHO, Geraldo Ferreira de. &lt;strong&gt;Empreendedorismo criativo&lt;/strong&gt;: a nova dimensão da empregabilidade. Rio de Janeiro, RJ: Ciência Moderna, 2007. xxiii, 558 p. ISBN 9788573936032.&lt;/p&gt;
+&lt;p&gt;DORNELAS, José Carlos Assis. &lt;strong&gt;Empreendedorismo&lt;/strong&gt;: transformando idéias em negócios. 6. ed. São Paulo, SP: Atlas, 2016. 267 p. ISBN 9788597003932.&lt;/p&gt;
+&lt;p&gt;HISRICH, Robert D.; PETERS, Michael P.; SHEPERD, Dean A. (Autor). &lt;strong&gt;Empreendedorismo&lt;/strong&gt;. 9. ed. Porto Alegre, RS: AMGH, 2014. xxii, 456 p. ISBN 9788580553321.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;EMPREENDEDORISMO inovador: como criar startups de tecnologia no Brasil. São Paulo, SP: Évora, 2012. xxiv, 557 p. ISBN 9788563993434.&lt;/p&gt;
+&lt;p&gt;HASHIMOTO, Marcos. &lt;strong&gt;Práticas de empreendedorismo&lt;/strong&gt;: casos e planos de negócios. Rio de Janeiro, RJ: Campus, Elsevier, 2012. 209 p. ISBN 9788535256994.&lt;/p&gt;
+&lt;p&gt;THIEL, Peter A. &lt;strong&gt;De zero a um&lt;/strong&gt;: o que aprender sobre empreendedorismo com o Vale do Siício. 1. ed. Rio de Janeiro, RJ: Objetiva, 2014. 215 p. ISBN 9788539006205.&lt;/p&gt;
+&lt;p&gt;TRIAS DE BES, Fernando. &lt;strong&gt;O livro negro do empreendedor&lt;/strong&gt;: depois não diga que não foi avisado. 2. ed. Rio de Janeiro, RJ: Bestseller, 2010. 156 p. ISBN 9788576841487.&lt;/p&gt;
+&lt;p&gt;KAHNEY, Leander. &lt;strong&gt;A cabeça de Steve Jobs&lt;/strong&gt;: as lições do líder da empresa mais revolucionária do mundo. 2. ed. Rio de Janeiro: Agir, 2009. 286 p. ISBN 978-85-220-0977-0.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gestão da Inovação e Tecnologia</title>
+      <link>http://samuel-rosa.github.io/post/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/post/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação - COCIC&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: CC28B&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6770&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6770&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Compreender a importância da tecnologia como elemento de competitividade nas organizações como também diagnosticar e saber desenvolver um ambiente organizacional propício para a gestão da inovação, incluindo aqui desde formas de aquisição do conhecimento, tipos de inovação, até mecanismos de avaliação tecnológica e de proteção da propriedade intelectual.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Globalização, competitividade e o panorama atual de C&amp;amp;T. Tecnologia e inovação. Aspectos comportamentais, cultura e mudança organizacional. O processo de inovação tecnológica. Inovação e ciclo de vida das organizações. O valor da informação e a gestão do conhecimento. Negócios e proteção à propriedade intelectual. Princípios de inteligência competitiva e prospecção tecnológica. Estratégia tecnológica nas empresas. Ações interorganizacionais e fontes de fomento à inovação.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;TIDD, Joseph; BESSANT, J. R. &lt;strong&gt;Gestão da inovação&lt;/strong&gt;. 5. ed. Porto Alegre, RS: Bookman, 2015. 633 p. ISBN 9788582603062.&lt;/p&gt;
+&lt;p&gt;INOVAÇÃO para o crescimento guia prático e funcional: ferramentas para incentivar e administrar a inovação. São Paulo, SP: M. Books do Brasil Editora Ltda, 2011. 368 p. ISBN 9788576801108.&lt;/p&gt;
+&lt;p&gt;MAXIMIANO, Antonio Cesar Amaru. &lt;strong&gt;Administração de projetos&lt;/strong&gt;: como transformar idéias em resultados. 5. ed. São Paulo, SP: Atlas, 2014. xxiii, 396 p. ISBN 9788522487592.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;BARBIERI, José Carlos; CAJAZEIRA, Jorge Emanuel Reis. &lt;strong&gt;Gestão de idéias para inovação contínua&lt;/strong&gt;. Porto Alegre, RS: Bookman, 2009. 134 p. ISBN 9788577803330.&lt;/p&gt;
+&lt;p&gt;REIS, Dálcio Roberto dos. &lt;strong&gt;Gestão da inovação tecnológica&lt;/strong&gt;. 2. ed. Barueri, SP: Manole, 2008. 206 p. ISBN 9788520426784.&lt;/p&gt;
+&lt;p&gt;PHILIPPI JÚNIOR, Arlindo; SILVA NETO, Antonio J. (Ed.) &lt;strong&gt;Interdisciplinaridade em ciência, tecnologia &amp;amp; inovação&lt;/strong&gt;. 1. ed. Barueri, SP: Manole, 2011. xv, 998 p. ISBN 9788520430460.&lt;/p&gt;
+&lt;p&gt;SILVA, Reinaldo O. da. &lt;strong&gt;Teorias da administração&lt;/strong&gt;. São Paulo, SP: Pioneira Thomson Learning; Pearson Prentice Hall, c2001. xiv, 523 p. ISBN 8522102341.&lt;/p&gt;
+&lt;p&gt;BESSANT, J. R.; TIDD, Joseph. &lt;strong&gt;Inovação e empreendedorismo&lt;/strong&gt;. Porto Alegre, RS: Bookman, 2009. 511 p. ISBN 9788577804818.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Feliz Dia Mundial do Solo</title>
-      <link>/post/dia-mundial-solo-2017/</link>
+      <link>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/dia-mundial-solo-2017/</guid>
+      <guid>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</guid>
       <description>&lt;p&gt;O Programa de Pós-Graduação Ciência do Solo da Universidade Federal de Santa Maria (UFSantaMaria) convida a comunidade em geral para participar das atividades em alusão ao Dia Mundial do Solo.&lt;/p&gt;
 &lt;p&gt;Na quarta-feira, dia 06/12, das 13:30 às 17:30, será realizado o &lt;strong&gt;Seminário Dia Mundial do Solo UFSM 2017&lt;/strong&gt;, no Auditório Flávio Miguel Schneider, Centro de Ciências Rurais, Prédio 42. Neste seminário, os pós-doutorandos(as) do PPG Ciência do Solo apresentarão um panorama das pesquisas realizadas no último ano, apontando para os principais desenvolvimentos em suas áreas e perspectivas futuras. Veja abaixo os principais tópicos que serão apresentados e discutidos no evento.&lt;/p&gt;
 &lt;p&gt;Na quinta-feira, dia 07/12, das 08:00 às 12:00, será realizada a &lt;strong&gt;Oficina de Dados Abertos do Solo&lt;/strong&gt;, na Sala Enio Tonini, Centro de Ciências Rurais, Prédio 43. A Oficina é baseada na experiência acumulada durante a construção e manutenção do Repositório Brasileiro Livre para Dados Abertos do Solo (febr, www.ufsm.br/febr), repositório este desenvolvido pela equipe coordenada pelos pesquisadores do PPG Ciência do Solo Dr. Alessandro Samuel-Rosa, Dr. Ricardo Simão Diniz Dalmolin e Dr. Paulo Ivonir Gubiani. Os participantes devem levar seus computadores pessoais para as atividades práticas e receberão certificado de participação.&lt;/p&gt;
@@ -25,10 +135,10 @@
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/post/2017-ufsm-sol-843/</link>
+      <link>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
@@ -468,10 +578,10 @@
     
     <item>
       <title>Amostragem Espacial</title>
-      <link>/project/amostragem-espacial/</link>
+      <link>http://samuel-rosa.github.io/project/amostragem-espacial/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/amostragem-espacial/</guid>
+      <guid>http://samuel-rosa.github.io/project/amostragem-espacial/</guid>
       <description>&lt;p&gt;O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, desenvolvo o projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Otimização espacial de configurações amostrais utilizando recozimento simulado&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -488,10 +598,10 @@
     
     <item>
       <title>Dados do Solo</title>
-      <link>/project/dados-do-solo/</link>
+      <link>http://samuel-rosa.github.io/project/dados-do-solo/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/dados-do-solo/</guid>
+      <guid>http://samuel-rosa.github.io/project/dados-do-solo/</guid>
       <description>&lt;p&gt;A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Infraestruturas públicas de dados do solo – da concepção à distribuição&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -506,10 +616,10 @@
     
     <item>
       <title>Ensino de Pedometria</title>
-      <link>/project/ensino-de-pedometria/</link>
+      <link>http://samuel-rosa.github.io/project/ensino-de-pedometria/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/ensino-de-pedometria/</guid>
+      <guid>http://samuel-rosa.github.io/project/ensino-de-pedometria/</guid>
       <description>&lt;p&gt;A Pedometria é uma disciplina recente no Brasil. Seu avanço qualitativo depende da produção de material bibliográfico baseado nos resultados das mais sólidas pesquisas realizadas em todo o mundo. Assim, sempre que possível, dedico um pouco de meu tempo ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Pedologia Quantitativa feita Simples&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -521,10 +631,10 @@
     
     <item>
       <title>Mensagem de Boas Vindas</title>
-      <link>/post/mensagem-de-boas-vindas/</link>
+      <link>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/mensagem-de-boas-vindas/</guid>
+      <guid>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</guid>
       <description>&lt;p&gt;Seja bem vindo ao blog que construí para compartilhar minhas experiências e conhecimentos com estudantes, professores, pesquisadores e profissionais da Ciência do Solo dos países de língua portuguesa, sobretudo o Brasil. Os tópicos que aqui discuto pertencem à área da pedologia quantitativa, mais conhecida como Pedometria.&lt;/p&gt;
 &lt;p&gt;Meu foco no Brasil se deve ao fato de que a popularização do uso de métodos matemáticos e estatísticos para o estudo da distribuição e gênese do solo é bastante recente no país. O número de pesquisadores brasileiros atuando nessa área também é pequeno se comparado às condições europeias e norte-americanas. Poucos são os programas de pós-graduação brasileiros que possuem em seu corpo docente pesquisadores dedicados à Pedometria. Raros são os periódicos científicos brasileiros com editores especialistas na área. Ao mesmo tempo, cresce a necessidade por profissionais devidamente capacitados para o uso de métodos matemáticos e estatísticos para a modelagem quantitativa do solo. Além de ajudar a avançar a pesquisa em Pedometria, meu objetivo com este blog é contribuir para a formação de tais profissionais.&lt;/p&gt;
 &lt;p&gt;Destaco que os conhecimentos e opiniões que aqui compartilho não pretendem esgotar quaisquer discussões acerca da modelagem quantitativa do solo. Pelo contrário, eles constituem uma simples introdução ou suplemento a trabalhos publicados, muitos deles há mais de décadas. Muito daquilo que apresento é composto por minhas reflexões e interpretações acerca de tais trabalhos. Isso significa que o leitor é expressamente encorajado a sempre procurar pelos materiais originais de onde quaisquer informações tenham sido obtidas, evitando citar este blog como referência bibliográfica principal em seus trabalhos. Em outras palavras, este blog não foi criado com o objetivo de constituir uma fonte de conhecimento final, mas sim uma ponte entre aqueles que buscam conhecimento a cerca da Pedometria e aquilo que foi construído ao longo dos anos passados. Espero que esse objetivo seja alcançado e, assim, este blog contribua para o avanço qualitativo da prática científica nesta área da ciência do solo.&lt;/p&gt;
@@ -533,10 +643,10 @@
     
     <item>
       <title>Programas de Computador</title>
-      <link>/project/programas-de-computador/</link>
+      <link>http://samuel-rosa.github.io/project/programas-de-computador/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/programas-de-computador/</guid>
+      <guid>http://samuel-rosa.github.io/project/programas-de-computador/</guid>
       <description>&lt;p&gt;Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte considerável deles está voltada à escrita científica, como 1) os &lt;em&gt;‘arquivos de estilo &lt;code&gt;jstyle&lt;/code&gt; para formatação automática de referências bibliográficas usando JabRef e LibreOffice’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/RefBib&#34;&gt;link&lt;/a&gt;), 2) o &lt;em&gt;‘pacote &lt;code&gt;pedometrianews&lt;/code&gt; para formatação da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/pedometrianews&#34;&gt;link&lt;/a&gt;) e 3) a &lt;em&gt;‘classe &lt;code&gt;UFRuralRJ&lt;/code&gt; para formatação de documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/UFRuralRJ&#34;&gt;link&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;No momento, além do pacote &lt;code&gt;spsann&lt;/code&gt; para o &lt;code&gt;R&lt;/code&gt;, desenvolvo um segundo pacote com aplicação na pedologia quantitativa. Trata-se do pacote &lt;code&gt;pedometrics&lt;/code&gt;, que contém ferramentas e técnicas diversas para pedologia quantitativa, um produto do projeto&lt;/p&gt;
 &lt;ul&gt;
@@ -548,10 +658,10 @@
     
     <item>
       <title>Stacked generalization of statistical learners -- a case study with soil iron content in Brazil</title>
-      <link>/talk/pedometrics-2017/</link>
+      <link>http://samuel-rosa.github.io/talk/pedometrics-2017/</link>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/pedometrics-2017/</guid>
+      <guid>http://samuel-rosa.github.io/talk/pedometrics-2017/</guid>
       <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resumo&lt;/h2&gt;
 &lt;p&gt;When modeling soil-landscape relationships we generally test a handful of statistical learners. Having limited data, we use cross-validation to select the best performing learner. In this study we evaluate the benefits of combining learners for soil prediction using stacked generalization. It consists of calibrating multiple learners and submitting them to 10-fold cross-validation. Cross-validation predictions are used as covariates in an interceptless linear regression of the target variable. Constrained to be non-negative, the estimated regression coefficients are the stacking weights expressing the importance of each learner. When making predictions, each learner is used in turn and the weights used to optimally combine multiple predictions into a single prediction.&lt;/p&gt;
@@ -569,10 +679,10 @@
     
     <item>
       <title>Building a Public Repository of Open Soil Iron Data for Brazil</title>
-      <link>/talk/bspm-2017/</link>
+      <link>http://samuel-rosa.github.io/talk/bspm-2017/</link>
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/bspm-2017/</guid>
+      <guid>http://samuel-rosa.github.io/talk/bspm-2017/</guid>
       <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resumo&lt;/h2&gt;
 &lt;p&gt;We have recently stimulated the emergence of an unprecedented collaborative effort among soil scientists from all over Brazil. The goal: to build a centralized, public and free repository of standardized and georeferenced soil iron data with national coverage. Many Brazilian soil scientists have already shared datasets, some of them even before we could insert the datasets in possession of our institutions in what we called the Brazilian Soil Iron Data Repository (&lt;a href=&#34;http://coral.ufsm.br/febr/&#34;&gt;Fe-BR&lt;/a&gt;).&lt;/p&gt;
@@ -589,10 +699,10 @@
     
     <item>
       <title>Do more detailed environmental covariates deliver more accurate soil maps?</title>
-      <link>/publication/samuel-rosaetal2015/</link>
+      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2015/</link>
       <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/samuel-rosaetal2015/</guid>
+      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2015/</guid>
       <description></description>
     </item>
     
