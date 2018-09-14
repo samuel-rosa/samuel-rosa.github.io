@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Geoprocessamento e Sensoriamento Remoto</title>
+      <link>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
+Unidade: Coordenação de Ciência da Computação
+Código: OP2BA
+Carga horária: 60 horas (AT = 2; AP = 2; APS = 4; ANP = 0; APCC = 0)
+Nível: Graduação
+Instrutor: Alessandro Samuel-Rosa
+AVEA: http://moodle.utfpr.edu.br/course/view.php?id=8634
+ Calendário de aulas Período: 2018-II</description>
+    </item>
+    
+    <item>
+      <title>Introdução à Agronomia</title>
+      <link>/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
+Unidade: Coordenação de Agronomia
+Código: AG61E
+Carga horária: 45 horas (AT = 2; AP = 1; APS = 3; ANP = 0; APCC = 0)
+Nível: Graduação
+Instrutor: Alessandro Samuel-Rosa
+AVEA: http://moodle.utfpr.edu.br/course/view.php?id=8637
+ Calendário de aulas Período: 2018-II
+Horário: Terça-feira, 07:30-10:00 (Aluno), Sexta-feira, 13:00-14:40 (Atendimento)</description>
+    </item>
     
     <item>
       <title>Cursos e disciplinas anteriores</title>
@@ -18,13 +51,18 @@
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/cursos-disciplinas-anteriores/</guid>
-      <description> Universidade Federal de Santa Maria   Universidade Federal de Santa Maria Disciplina Modelagem Geoestatística do Ambiente
-Unidade: Programa de Pós-Graduação em Ciência do Solo
-Código: SOL 843 (Tópicos em Ciência do Solo)
-Carga horária: 45 horas
-Nível: Mestrado/Doutorado
-Período: Primavera 2017
- </description>
+      <description>Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena Universidade Federal de Santa Maria   Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena Disciplina Gestão da Inovação e Tecnologia
+Unidade: Coordenação de Ciência da Computação
+Código: CC28B
+Carga horária: 30 horas
+Nível: Graduação
+Período: Primeiro semestre de 2018
+Disciplina Empreendedorismo
+Unidade: Coordenação de Ciência da Computação
+Código: ED228A
+Carga horária: 30 horas
+Nível: Graduação
+Período: Primeiro semestre de 2018</description>
     </item>
     
     <item>
@@ -33,14 +71,14 @@ Período: Primavera 2017
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
-      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: ED228A
 Carga horária: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)
 Nível: Graduação
 Instrutor: Alessandro Samuel-Rosa
 AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6772
- Calendário de aulas Período: 2019-I</description>
+ Calendário de aulas Período: 2018-I</description>
     </item>
     
     <item>
@@ -49,14 +87,14 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6772
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
-      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: CC28B
 Carga horária: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)
 Nível: Graduação
 Instrutor: Alessandro Samuel-Rosa
 AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6770
- Calendário de aulas Período: 2019-I</description>
+ Calendário de aulas Período: 2018-I</description>
     </item>
     
     <item>

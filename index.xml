@@ -11,6 +11,126 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Geoprocessamento e Sensoriamento Remoto</title>
+      <link>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#calendario-de-aulas&#34;&gt;Calendário de aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: OP2BA&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 60 horas (AT = 2; AP = 2; APS = 4; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=8634&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=8634&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Calendário de aulas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-II&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Quarta-feira, 9:10-10:00 (Aula), Sexta-feira, 07:30-10:00 (Aluno), 13:00-14:40 (Atendimento)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala L04&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Ao final da disciplina o discente compreenderá os princípios do geoprocessamento e do sensoriamento remoto, e terá a capacidade de manipular dados espaciais em sistemas de informação geográfica para a geração de produtos cartográficos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Estudo da ciência cartográfica. Princípios do geoprocessamento. Bases do sensoriamento remoto. Sistemas de informações geográficas. Aplicações.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;NOVO, Evlyn M. L. de Moraes. &lt;strong&gt;Sensoriamento remoto&lt;/strong&gt;: princípios e aplicações. 4. ed. rev. São Paulo, SP: Edgard Blücher, 2010. 387 p. ISBN 9788521205401.&lt;/p&gt;
+&lt;p&gt;SILVA, Ardemirio de Barros. &lt;strong&gt;Sistemas de informações geo-referenciadas&lt;/strong&gt;: conceitos e fundamentos. Campinas, SP: UNICAMP, 2003. 236 p. ISBN 8526806491.&lt;/p&gt;
+&lt;p&gt;FERREIRA, Marcos César. &lt;strong&gt;Iniciação à análise geoespacial&lt;/strong&gt;: teoria, técnicas e exemplos para geoprocessamento. 1. ed. São Paulo , SP: UNESP, 2014. 343 p. ISBN 9788539305377.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;FLORENZANO, Teresa Gallotti. &lt;strong&gt;Iniciação em sensoriamento remoto&lt;/strong&gt;. 3 ed. rev. e atual. São Paulo, SP: Oficina de Textos, 2011. 128 p. ISBN 9788579750168.&lt;/p&gt;
+&lt;p&gt;MOLIN, José Paulo; AMARAL, Lucas Rios do; COLAÇO, André Freitas. &lt;strong&gt;Agricultura de precisão&lt;/strong&gt;. 1. ed. São Paulo, SP: Oficina de Textos, 2015. 238 p. ISBN 9788579752131.&lt;/p&gt;
+&lt;p&gt;TULER, Marcelo; SARAIVA, Sérgio. &lt;strong&gt;Fundamentos de geodésia e cartografia&lt;/strong&gt;. Porto Alegre, RS: Bookman, 2016. 227 p. ISBN 9788582603604.&lt;/p&gt;
+&lt;p&gt;GONZALEZ, Rafael C.; WOODS, Richard E. &lt;strong&gt;Processamento digital de imagens&lt;/strong&gt;. 3. ed. São Paulo, SP: Pearson, 2010. xv, 624 p. ISBN 9788576054016.&lt;/p&gt;
+&lt;p&gt;FITZ, Paulo Roberto. &lt;strong&gt;Geoprocessamento sem complicação&lt;/strong&gt;. São Paulo, SP: Oficina de Textos, 2008. 160 p. ISBN 9788586238826.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução à Agronomia</title>
+      <link>/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#identificacao&#34;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#calendario-de-aulas&#34;&gt;Calendário de aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#objetivos&#34;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ementa&#34;&gt;Ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#basica&#34;&gt;Básica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bibliografia-complementar&#34;&gt;Bibliografia Complementar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;descricao-geral&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Descrição geral&lt;/h1&gt;
+&lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Identificação&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Agronomia&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: AG61E&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 45 horas (AT = 2; AP = 1; APS = 3; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=8637&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=8637&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Calendário de aulas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-II&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Terça-feira, 07:30-10:00 (Aluno), Sexta-feira, 13:00-14:40 (Atendimento)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala K02&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;p&gt;Desenvolver consciência crítica a respeito da escolha profissional e institucional, da importância do conhecimento científico, e da função social da Universidade e do Engenheiro Agrônomo frente aos desafios contemporâneos, especialmente o desenvolvimento rural sustentável. Conhecer a trajetória histórica da agricultura e da Agronomia, as áreas de atuação do Engenheiro Agrônomo, a legislação pertinente à profissão, e a realidade da agricultura nacional e regional.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ementa&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Ementa&lt;/h2&gt;
+&lt;p&gt;Conceito, estrutura e inserção da Universidade na sociedade. Estrutura do curso de Agronomia. História da agricultura e da Agronomia. A agricultura brasileira e paranaense. Legislação regulatória e perfil profissional. Órgãos de classe. Produção de alimentos, técnicas agronômicas, sistemas de produção. A importância da extensão e transferência de tecnologia para os produtores rurais.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bibliografia&lt;/h1&gt;
+&lt;div id=&#34;basica&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Básica&lt;/h2&gt;
+&lt;p&gt;ABBOUD, A.C.S. &lt;strong&gt;Introdução à Agronomia&lt;/strong&gt;. Rio de Janeiro, Editora Interciência, 2013. 644 p. ISBN 9788571933040.&lt;/p&gt;
+&lt;p&gt;MAZOYER, M.; ROUDART, L. &lt;strong&gt;História das agriculturas do mundo&lt;/strong&gt;: do neolítico à crise contemporânea. São Paulo: Editora UNESP, 2010. 568 p. ISBN 9788571399945.&lt;/p&gt;
+&lt;p&gt;CONSELHO REGIONAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA DO PARANÁ. &lt;strong&gt;Coleção Cadernos do CREA-PR&lt;/strong&gt;: Cadernos de Ética, números 1 ao 8. Curitiba: CREA-PR.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bibliografia-complementar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bibliografia Complementar&lt;/h2&gt;
+&lt;p&gt;SANTOS, M.; SILVEIRA, M.L. &lt;strong&gt;O Brasil&lt;/strong&gt;: território e sociedade no início do século XXI. Rio de Janeiro: Record, 2017. 476 p. ISBN 9788501111616.&lt;/p&gt;
+&lt;p&gt;CONSELHO REGIONAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA DO PARANÁ. &lt;strong&gt;Manual do profissional da engenharia, arquitetura e agronomia&lt;/strong&gt;. Curitiba: CREA-PR, 2004. 321 p.&lt;/p&gt;
+&lt;p&gt;SANTILLI, J. &lt;strong&gt;Agrobiodiversidade e direito dos agricultores&lt;/strong&gt;. São Paulo: Editora Peirópolis, 2009. 520 p. ISBN 9788575961575.&lt;/p&gt;
+&lt;p&gt;SCHNEIDER, S. &lt;strong&gt;A diversidade da agricultura familiar&lt;/strong&gt;. 2. ed. Porto Alegre: Editora da Universidade Federal do Rio Grande do Sul, 2009. 296 p. ISBN 9788538600374.&lt;/p&gt;
+&lt;p&gt;UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ. &lt;strong&gt;UTFPR&lt;/strong&gt;: uma história de 100 anos. 1. ed. Curitiba, PR: UTFPR, 2010. 169 p. ISBN 9788570140623.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cursos e disciplinas anteriores</title>
       <link>/teaching/cursos-disciplinas-anteriores/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
@@ -18,10 +138,16 @@
       <guid>/teaching/cursos-disciplinas-anteriores/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#universidade-tecnologica-federal-do-parana-campus-santa-helena&#34;&gt;Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#universidade-federal-de-santa-maria&#34;&gt;Universidade Federal de Santa Maria&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
+&lt;div id=&#34;universidade-tecnologica-federal-do-parana-campus-santa-helena&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Disciplina&lt;/strong&gt; &lt;a href=&#34;../2018-utfpr-cocic-gestao-inovacao-tecnologia&#34;&gt;Gestão da Inovação e Tecnologia&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: CC28B&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: Primeiro semestre de 2018&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disciplina&lt;/strong&gt; &lt;a href=&#34;../2018-utfpr-cocic-empreendedorismo&#34;&gt;Empreendedorismo&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: ED228A&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: Primeiro semestre de 2018&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;div id=&#34;universidade-federal-de-santa-maria&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Universidade Federal de Santa Maria&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Disciplina&lt;/strong&gt; &lt;a href=&#34;../2017-ufsm-sol-843&#34;&gt;Modelagem Geoestatística do Ambiente&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Programa de Pós-Graduação em Ciência do Solo&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: SOL 843 (Tópicos em Ciência do Solo)&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 45 horas&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Mestrado/Doutorado&lt;br&gt; &lt;strong&gt;Período&lt;/strong&gt;: Primavera 2017&lt;br&gt;&lt;/p&gt;
@@ -84,11 +210,11 @@
 &lt;h1&gt;Descrição geral&lt;/h1&gt;
 &lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Identificação&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: ED228A&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6772&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6772&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: ED228A&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6772&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6772&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Calendário de aulas&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2019-I&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Segunda-feira, 14:40-15:30 (Paluno), 15:50-17:30 (Aula)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala L2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-I&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Segunda-feira, 14:40-15:30 (Atendimento), 15:50-17:30 (Aula)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala L2&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Objetivos&lt;/h2&gt;
@@ -144,11 +270,11 @@
 &lt;h1&gt;Descrição geral&lt;/h1&gt;
 &lt;div id=&#34;identificacao&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Identificação&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: CC28B&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6770&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6770&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instituição&lt;/strong&gt;: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;br&gt; &lt;strong&gt;Unidade&lt;/strong&gt;: Coordenação de Ciência da Computação&lt;br&gt; &lt;strong&gt;Código&lt;/strong&gt;: CC28B&lt;br&gt; &lt;strong&gt;Carga horária&lt;/strong&gt;: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)&lt;br&gt; &lt;strong&gt;Nível&lt;/strong&gt;: Graduação&lt;br&gt; &lt;strong&gt;Instrutor&lt;/strong&gt;: Alessandro Samuel-Rosa&lt;br&gt; &lt;strong&gt;AVEA&lt;/strong&gt;: &lt;a href=&#34;http://moodle.utfpr.edu.br/course/view.php?id=6770&#34; class=&#34;uri&#34;&gt;http://moodle.utfpr.edu.br/course/view.php?id=6770&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;calendario-de-aulas&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Calendário de aulas&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2019-I&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Sexta-feira, 14:40-15:30 (Paluno), 15:50-17:30 (Aula)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala E09&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Período&lt;/strong&gt;: 2018-I&lt;br&gt; &lt;strong&gt;Horário&lt;/strong&gt;: Sexta-feira, 14:40-15:30 (Atendimento), 15:50-17:30 (Aula)&lt;br&gt; &lt;strong&gt;Local&lt;/strong&gt;: Sala E09&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;objetivos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Objetivos&lt;/h2&gt;
@@ -734,35 +860,6 @@
 &lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Dalmolin&lt;/a&gt;, pesquisador do Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;). O desenvolvimento do trabalho e sua apresentação no Pedometrics 2017 foram viabilizados pelo PPGCS via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;) da CAPES, e com recursos dos projetos de pesquisa desenvolvidos por Ricardo Dalmolin no PPGCS.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Building a Public Repository of Open Soil Iron Data for Brazil</title>
-      <link>/talk/bspm-2017/</link>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/bspm-2017/</guid>
-      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Resumo&lt;/h2&gt;
-&lt;p&gt;We have recently stimulated the emergence of an unprecedented collaborative effort among soil scientists from all over Brazil. The goal: to build a centralized, public and free repository of standardized and georeferenced soil iron data with national coverage. Many Brazilian soil scientists have already shared datasets, some of them even before we could insert the datasets in possession of our institutions in what we called the Brazilian Soil Iron Data Repository (&lt;a href=&#34;http://coral.ufsm.br/febr/&#34;&gt;Fe-BR&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;Since December 2016, Fe-BR already has some 26 thousand records from about 300 datasets, most of them from the Brazilian Soil Information System (&lt;a href=&#34;https://www.bdsolos.cnptia.embrapa.br/consulta_publica.html&#34;&gt;SISB&lt;/a&gt;) maintained by Embrapa. Along this period, we have seen that soil scientists are eager to share the datasets in their possession but are very sensitive to the extra efforts needed to do so. As such, we have designed a system that relies on data manipulation tools that are well known to all – spreadsheets. We also aimed at a suite of tools that meets the basic technological requirements of a robust but flexible data repository – version control, persistent identification, multiple file export options, concurrent edition, reviewing tools. The free online service Google Sheets has been able to fulfil all of these requirements. With Google Sheets, datasets in Fe-BR can be reviewed and/or augmented at any time by anyone on the internet with the permission to do so. This participatory approach can potentially boost the development of a completely new type of community driven, free and open soil data repository.&lt;/p&gt;
-&lt;p&gt;There has obviously been some difficulties, such as (1) motivating authors to provide comprehensive metadata and adhere to standards, (2) guessing spatial coordinates of non-georeferenced soil observations, (3) establishing communication between data sources, and (4) finding people willing to help in data organization and standardization. Solutions for (3) usually increase the need for more collaborators thus inflating (4). Solving (1) seems to depend upon consistent and persistent awareness raising. Fortunately the enthusiasm and sense of public responsibility of soil scientists, and availability of free online collaborative mapping services such as Google Maps, have made it easier to solve (2).&lt;/p&gt;
-&lt;p&gt;Next steps include launching a metadata catalog with search tools and improving the &lt;a href=&#34;https://github.com/samuel-rosa/febr-package&#34;&gt;febr&lt;/a&gt; package for R. Soil scientists are encouraged to use Fe-BR data to improve taxonomic systems, evaluate analytical methods, produce soil maps, identify priority areas for sampling and so on.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;informacoes-adicionais&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Informações adicionais&lt;/h2&gt;
-&lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Dalmolin&lt;/a&gt;, pesquisador do Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;). Participaram, também, &lt;a href=&#34;http://lattes.cnpq.br/7251203817503318&#34;&gt;Paulo Gubiani&lt;/a&gt; (PPGCS/UFSM), [Stanley Oliveira][stanley] (Embrapa), &lt;a href=&#34;http://lattes.cnpq.br/5351112741475859&#34;&gt;Humberto dos Santos&lt;/a&gt; (Embrapa) e &lt;a href=&#34;http://www.isric.org/user/34&#34;&gt;Eloi Ribeiro&lt;/a&gt; (ISRIC). O desenvolvimento do trabalho e sua apresentação no BSPM 2017 foram viabilizados pelo PPGCS via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;).&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Do more detailed environmental covariates deliver more accurate soil maps?</title>
-      <link>/publication/samuel-rosaetal2015/</link>
-      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/samuel-rosaetal2015/</guid>
-      <description></description>
     </item>
     
   </channel>

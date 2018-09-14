@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/cocic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Geoprocessamento e Sensoriamento Remoto</title>
+      <link>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
+Unidade: Coordenação de Ciência da Computação
+Código: OP2BA
+Carga horária: 60 horas (AT = 2; AP = 2; APS = 4; ANP = 0; APCC = 0)
+Nível: Graduação
+Instrutor: Alessandro Samuel-Rosa
+AVEA: http://moodle.utfpr.edu.br/course/view.php?id=8634
+ Calendário de aulas Período: 2018-II</description>
+    </item>
     
     <item>
       <title>Empreendedorismo</title>
@@ -18,14 +34,14 @@
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
-      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: ED228A
 Carga horária: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)
 Nível: Graduação
 Instrutor: Alessandro Samuel-Rosa
 AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6772
- Calendário de aulas Período: 2019-I</description>
+ Calendário de aulas Período: 2018-I</description>
     </item>
     
     <item>
@@ -34,14 +50,14 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6772
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
-      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná - Câmpus Santa Helena
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: CC28B
 Carga horária: 30 horas (AT = 2; AP = 0; APS = 2; ANP = 0; APCC = 0)
 Nível: Graduação
 Instrutor: Alessandro Samuel-Rosa
 AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6770
- Calendário de aulas Período: 2019-I</description>
+ Calendário de aulas Período: 2018-I</description>
     </item>
     
   </channel>
