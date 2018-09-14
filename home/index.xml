@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on A. Samuel-Rosa</title>
-    <link>/home/</link>
+    <link>http://samuel-rosa.github.io/home/</link>
     <description>Recent content in Homes on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>http://samuel-rosa.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>http://samuel-rosa.github.io/home/about/</guid>
       <description>Bibliografia Eu sou professor e pesquisador na Universidade Tecnológica Federal do Paraná, Câmpus Santa Helena (UTFPR-SH), desde março de 2018. Após meus primeiros estudos na Universidade Federal de Santa Maria (UFSM) sobre as complexas interações entre o uso da terra e a qualidade do solo, em 2012, mudei para o campo da pedologia quantitativa, mais conhecida como pedometria. Desde então, a colaboração com pesquisadores do Centro Nacional de Pesquisas sobre Solos (Embrapa Solos), do International Soil Reference and Information Centre (ISRIC), da Wageningen University and Research (WUR), e da Universidade Federal Rural do Rio de Janeiro (UFRRJ), permitiu me familiarizar com múltiplos métodos e técnicas pedométricas.</description>
     </item>
     
     <item>
       <title>Publicações Selecionadas</title>
-      <link>/home/publications_selected/</link>
+      <link>http://samuel-rosa.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>http://samuel-rosa.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publicações Recentes</title>
-      <link>/home/publications/</link>
+      <link>http://samuel-rosa.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>http://samuel-rosa.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palestras Recentes &amp; Futuras</title>
-      <link>/home/talks/</link>
+      <link>http://samuel-rosa.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>http://samuel-rosa.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postagens Recentes</title>
-      <link>/home/posts/</link>
+      <link>http://samuel-rosa.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>http://samuel-rosa.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projetos</title>
-      <link>/home/projects/</link>
+      <link>http://samuel-rosa.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>http://samuel-rosa.github.io/home/projects/</guid>
       <description>A maioria dos projetos em que estou envolvido têm alguma relação com a pedometria. Assim, acabo tendo grandes dificuldades em classificá-los como pertencendo à essa ou àquela área do conhecimento &amp;ndash; na verdade, tenho grande dificuldade com a classificação do inclassificável. Mesmo assim, continuo tentando, talvez num esforço para melhor organizar meu próprio trabalho.
 Acho que as coisas ficam um pouco mais fáceis quando penso na pedometria como o tema gerador dos projetos em que estou envolvido.</description>
     </item>
     
     <item>
       <title>Ensino</title>
-      <link>/home/teaching/</link>
+      <link>http://samuel-rosa.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>http://samuel-rosa.github.io/home/teaching/</guid>
       <description> Universidade Tecnológica Federal do Paraná &amp;ndash; Câmpus Santa Helena  AG61E: Introdução à Agronomia
  OP2BA: Geoprocessamento e Sensoriamento Remoto
   Arquivo  Cursos e disciplinas anteriores  </description>
@@ -80,10 +80,10 @@ Acho que as coisas ficam um pouco mais fáceis quando penso na pedometria como o
     
     <item>
       <title>Gestão</title>
-      <link>/home/management/</link>
+      <link>http://samuel-rosa.github.io/home/management/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/management/</guid>
+      <guid>http://samuel-rosa.github.io/home/management/</guid>
       <description> Universidade Tecnológica Federal do Paraná  Comissão Responsável para Viabilização da Abertura do Curso de Agronomia
  Equipe de Planejamento para o espaço do Hotel Tecnológico do Câmpus Santa Helena
  Conselho Municipal de Desenvolvimento Agroeconômico de Santa Helena
@@ -92,10 +92,10 @@ Acho que as coisas ficam um pouco mais fáceis quando penso na pedometria como o
     
     <item>
       <title>Contato</title>
-      <link>/home/contact/</link>
+      <link>http://samuel-rosa.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>http://samuel-rosa.github.io/home/contact/</guid>
       <description></description>
     </item>
     

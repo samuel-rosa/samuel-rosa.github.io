@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utfpr on A. Samuel-Rosa</title>
-    <link>/tags/utfpr/</link>
+    <link>http://samuel-rosa.github.io/tags/utfpr/</link>
     <description>Recent content in Utfpr on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/utfpr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/tags/utfpr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Geoprocessamento e Sensoriamento Remoto</title>
-      <link>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: OP2BA
@@ -30,10 +30,10 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=8634
     
     <item>
       <title>Introdução à Agronomia</title>
-      <link>/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Agronomia
 Código: AG61E
@@ -47,10 +47,10 @@ Horário: Terça-feira, 07:30-10:00 (Aluno), Sexta-feira, 13:00-14:40 (Atendimen
     
     <item>
       <title>Cursos e disciplinas anteriores</title>
-      <link>/teaching/cursos-disciplinas-anteriores/</link>
+      <link>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/cursos-disciplinas-anteriores/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</guid>
       <description>Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena Universidade Federal de Santa Maria   Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena Disciplina Gestão da Inovação e Tecnologia
 Unidade: Coordenação de Ciência da Computação
 Código: CC28B
@@ -67,10 +67,10 @@ Período: Primeiro semestre de 2018</description>
     
     <item>
       <title>Empreendedorismo</title>
-      <link>/teaching/2018-utfpr-cocic-empreendedorismo/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: ED228A
@@ -83,10 +83,10 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6772
     
     <item>
       <title>Gestão da Inovação e Tecnologia</title>
-      <link>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: CC28B
