@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on A. Samuel-Rosa</title>
-    <link>/publication_types/2/</link>
+    <link>http://samuel-rosa.github.io/publication_types/2/</link>
     <description>Recent content in 2 on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Wed, 21 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Do more detailed environmental covariates deliver more accurate soil maps?</title>
-      <link>/publication/samuel-rosaetal2015/</link>
+      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2015/</link>
       <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/samuel-rosaetal2015/</guid>
+      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoilGrids1km: global soil information based on automated mapping</title>
-      <link>/publication/hengletal2014/</link>
+      <link>http://samuel-rosa.github.io/publication/hengletal2014/</link>
       <pubDate>Fri, 29 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/hengletal2014/</guid>
+      <guid>http://samuel-rosa.github.io/publication/hengletal2014/</guid>
       <description></description>
     </item>
     

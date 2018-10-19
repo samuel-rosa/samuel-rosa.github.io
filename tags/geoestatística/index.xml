@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geoestatística on A. Samuel-Rosa</title>
-    <link>/tags/geoestat%C3%ADstica/</link>
+    <link>http://samuel-rosa.github.io/tags/geoestat%C3%ADstica/</link>
     <description>Recent content in Geoestatística on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/geoestat%C3%ADstica/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/tags/geoestat%C3%ADstica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/teaching/2017-ufsm-sol-843/</link>
+      <link>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</guid>
       <description>Descrição Geral Identificação do Curso Calendário de Encontros Objetivos do Curso Estrutura do Curso  Tarefas Reflexão Iterativa Descrição da Tarefa Tema Gerador  Propagação de Incerteza Descrição da Tarefa Motivação   Programa do Curso Título e Discriminação das Unidades Referências Bibliográficas  Cronograma Semanal Semana 0, 27-Setembro: Nivelamento ferramental Tarefas para a próxima semana Leituras para a próxima semana  Semana 1, 04-Outubro: Modelos de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 2, 11-Outubro: Propriedades dos dados espaciais Tarefas para a próxima semana Leituras para a próxima semana  Semana 3, 18-Outubro: Modelo linear misto de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 4, 25-Outubro: Predição espacial e validação estatística Tarefas para a próxima semana Leituras para a próxima semana  Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza Tarefas para o próximo encontro Leituras sugeridas  Semana 6, 06-Dezembro: Conclusão do curso  Avaliação dos Participantes Critérios    Descrição Geral Esse curso irá lhe expor a um conjunto de técnicas modernas para a modelagem de variáveis ambientais incertas.</description>
     </item>
     

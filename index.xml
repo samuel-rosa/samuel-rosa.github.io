@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Samuel-Rosa on A. Samuel-Rosa</title>
-    <link>/</link>
+    <link>http://samuel-rosa.github.io/</link>
     <description>Recent content in A. Samuel-Rosa on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
@@ -11,11 +11,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bringing together Brazilian soil scientists to share soil data</title>
+      <link>http://samuel-rosa.github.io/talk/wcss-2018/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/talk/wcss-2018/</guid>
+      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resumo&lt;/h2&gt;
+&lt;p&gt;Soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. As data underutilization is a waste of resources and refrains the advancement of knowledge, many isolated soil data rescue and sharing efforts have emerged in the scientific community. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research. To address these issues, Brazilian soil scientists have recently created a data repository using community-built standards and following open data policies. The Free Brazilian Repository for Open Soil Data – &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;, www.ufsm.br/febr – is a centralized repository targeted at storing open soil data and serving it in a standardized and harmonized format. The repository infrastructure was built using open source and/or free (of cost) software, and was primarily designed for the individual management of datasets. A dataset-driven structure helps datasets authors to be properly acknowledged. Moreover, it gives the flexibility to accommodate many types of data of any soil variable. This is accomplished by storing each dataset using a collection of spreadsheets accessible through an online application. Spreadsheets are familiar to any soil scientist, the reason why it is easier to enter, manipulate and visualize soil data in febr. They also facilitate the participation of soil survey experts in the recovery and quality assessment of legacy data. Soil scientists can help in the definition of standards and data management choices through a public discussion forum, &lt;a href=&#34;mailto:febr-forum@googlegroups.com&#34;&gt;febr-forum@googlegroups.com&lt;/a&gt;. A comprehensive documentation is available to guide febr maintainers and data contributors. A detailed catalog gives access to the 14 477 soil observations – 42% of them from south and southeastern Brazil – from 232 datasets contained in &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;. Global and dataset-specific visualization and search tools and multiple download facilities are available. The latter includes standard file formats and connections with R and QGIS through the &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt; package. Various products can be derived from data in &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;: specialized databases, pedotransfer functions, fertilizer recommendation guides, classification systems, and detailed soil maps. By sharing data through a centralized soil data storing and sharing facility, soil scientists from different fields have the opportunity to increase collaboration and the much needed soil knowledge.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;informacoes-adicionais&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Informações adicionais&lt;/h2&gt;
+&lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Simão Diniz Dalmolin&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/7251203817503318&#34;&gt;Paulo Ivonir Gubiani&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/5321244029568287&#34;&gt;Stanley Robson de Medeiros Oliveira&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/4136381865367906&#34;&gt;Wenceslau Geraldes Teixeira&lt;/a&gt;, &lt;a href=&#34;http://lattes.cnpq.br/5963012432691034&#34;&gt;João Herbert Moreira Viana&lt;/a&gt;, e outros 48 pesquisadores. O desenvolvimento do trabalho e sua apresentação foram viabilizados pelo Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;), via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;), e pela Coordenação de Agronomia da Universidade Tecnológica Federal do Paraná – câmpus Santa Helena (&lt;a href=&#34;http://portal.utfpr.edu.br/campus/santahelena&#34;&gt;UTFPR-SH&lt;/a&gt;), via Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Estado do Paraná (&lt;a href=&#34;http://www.fappr.pr.gov.br/&#34;&gt;FA&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Geoprocessamento e Sensoriamento Remoto</title>
-      <link>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -72,10 +89,10 @@
     
     <item>
       <title>Introdução à Agronomia</title>
-      <link>/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -132,10 +149,10 @@
     
     <item>
       <title>Cursos e disciplinas anteriores</title>
-      <link>/teaching/cursos-disciplinas-anteriores/</link>
+      <link>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/cursos-disciplinas-anteriores/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#universidade-tecnologica-federal-do-parana-campus-santa-helena&#34;&gt;Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;/a&gt;&lt;/li&gt;
@@ -157,10 +174,10 @@
     
     <item>
       <title>Uma aliança global pelo solo para alcançar o desenvolvimento sustentável</title>
-      <link>/talk/expo-sh-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/expo-sh-2018/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/expo-sh-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/expo-sh-2018/</guid>
       <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resumo&lt;/h2&gt;
 &lt;p&gt;O solo é um recurso natural muito lentamente renovável que ocupa posição central nos agroecossistemas. Mesmo assim, o solo continua sendo degradado pela má gestão e pelas mudanças inconsequentes do uso da terra. Para promover uma mudança real na maneira como usamos esse precioso recurso, instituições de vários países, coordenadas pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), juntaram esforços para constituir uma Aliança Global pelo Solo. A Aliança possui cinco pilares de ação: (1) gestão do solo, (2) sensibilização, (3) pesquisa, (4) informação e dados, e (5) harmonização. Nessa palestra, nós vamos explicar cada um dos cinco pilares de ação. Também vamos mostrar como as instituições de ensino, pesquisa e extensão brasileiras vem atuando para implementar as ações da Aliança. Algumas das maneiras como a comunidade de Santa Helena e região podem contribuir para esse esforço global (e também se beneficiar dele) serão apresentadas. O público é encorajado a participar fazendo perguntas e comentários, sobretudo para que a UTFPR-SH possa melhor direcionar suas ações de ensino, pesquisa e extensão para ajudar a região a alcançar o desenvolvimento sustentável.&lt;/p&gt;
@@ -170,10 +187,10 @@
     
     <item>
       <title>The Free Brazilian Repository for Open Soil Data</title>
-      <link>/talk/wds-lac-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/wds-lac-2018/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/wds-lac-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/wds-lac-2018/</guid>
       <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resumo&lt;/h2&gt;
 &lt;p&gt;Brazilian soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research. To address this issue, Brazilian soil scientists have recently created a data repository using community-built standards and following open data policies. The Free Brazilian Repository for Open Soil Data – febr, www.ufsm.br/febr – is a centralized repository targeted at storing open soil data and serving it in a standardized and harmonized format. The repository infrastructure was built using open source and/or free (of cost) software, and was primarily designed for the individual management of datasets. This is accomplished by storing each dataset using a collection of Google spreadsheets accessible online. Spreadsheets are familiar to any soil scientist, the reason why it is easier to enter, manipulate and visualize soil data in febr. Soil scientists can help in the definition of standards and data management choices through a public discussion forum, &lt;a href=&#34;mailto:febr-forum@googlegroups.com&#34;&gt;febr-forum@googlegroups.com&lt;/a&gt;. A comprehensive documentation is available to guide febr maintainers and data contributors. A detailed catalog gives access to the 14 477 soil observations from 232 datasets contained in febr. Global and dataset-specific visualization and search tools and multiple download facilities are available. The latter includes standard file formats and connections with R and QGIS through the febr package. Various products can be derived from data in febr: specialized databases, pedotransfer functions, fertilizer recommendation guides, classification systems, and detailed soil maps.&lt;/p&gt;
@@ -186,11 +203,20 @@
     </item>
     
     <item>
+      <title>Bringing together Brazilian soil scientists to share soil data</title>
+      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Empreendedorismo</title>
-      <link>/teaching/2018-utfpr-cocic-empreendedorismo/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -247,10 +273,10 @@
     
     <item>
       <title>Gestão da Inovação e Tecnologia</title>
-      <link>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -307,10 +333,10 @@
     
     <item>
       <title>Feliz Dia Mundial do Solo</title>
-      <link>/post/dia-mundial-solo-2017/</link>
+      <link>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/dia-mundial-solo-2017/</guid>
+      <guid>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</guid>
       <description>&lt;p&gt;O Programa de Pós-Graduação Ciência do Solo da Universidade Federal de Santa Maria (UFSantaMaria) convida a comunidade em geral para participar das atividades em alusão ao Dia Mundial do Solo.&lt;/p&gt;
 &lt;p&gt;Na quarta-feira, dia 06/12, das 13:30 às 17:30, será realizado o &lt;strong&gt;Seminário Dia Mundial do Solo UFSM 2017&lt;/strong&gt;, no Auditório Flávio Miguel Schneider, Centro de Ciências Rurais, Prédio 42. Neste seminário, os pós-doutorandos(as) do PPG Ciência do Solo apresentarão um panorama das pesquisas realizadas no último ano, apontando para os principais desenvolvimentos em suas áreas e perspectivas futuras. Veja abaixo os principais tópicos que serão apresentados e discutidos no evento.&lt;/p&gt;
 &lt;p&gt;Na quinta-feira, dia 07/12, das 08:00 às 12:00, será realizada a &lt;strong&gt;Oficina de Dados Abertos do Solo&lt;/strong&gt;, na Sala Enio Tonini, Centro de Ciências Rurais, Prédio 43. A Oficina é baseada na experiência acumulada durante a construção e manutenção do Repositório Brasileiro Livre para Dados Abertos do Solo (febr, www.ufsm.br/febr), repositório este desenvolvido pela equipe coordenada pelos pesquisadores do PPG Ciência do Solo Dr. Alessandro Samuel-Rosa, Dr. Ricardo Simão Diniz Dalmolin e Dr. Paulo Ivonir Gubiani. Os participantes devem levar seus computadores pessoais para as atividades práticas e receberão certificado de participação.&lt;/p&gt;
@@ -320,10 +346,10 @@
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/teaching/2017-ufsm-sol-843/</link>
+      <link>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
@@ -763,10 +789,10 @@
     
     <item>
       <title>Amostragem Espacial</title>
-      <link>/project/amostragem-espacial/</link>
+      <link>http://samuel-rosa.github.io/project/amostragem-espacial/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/amostragem-espacial/</guid>
+      <guid>http://samuel-rosa.github.io/project/amostragem-espacial/</guid>
       <description>&lt;p&gt;O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, desenvolvo o projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Otimização espacial de configurações amostrais utilizando recozimento simulado&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -783,10 +809,10 @@
     
     <item>
       <title>Dados do Solo</title>
-      <link>/project/dados-do-solo/</link>
+      <link>http://samuel-rosa.github.io/project/dados-do-solo/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/dados-do-solo/</guid>
+      <guid>http://samuel-rosa.github.io/project/dados-do-solo/</guid>
       <description>&lt;p&gt;A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Infraestruturas públicas de dados do solo – da concepção à distribuição&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -801,10 +827,10 @@
     
     <item>
       <title>Ensino de Pedometria</title>
-      <link>/project/ensino-de-pedometria/</link>
+      <link>http://samuel-rosa.github.io/project/ensino-de-pedometria/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/ensino-de-pedometria/</guid>
+      <guid>http://samuel-rosa.github.io/project/ensino-de-pedometria/</guid>
       <description>&lt;p&gt;A Pedometria é uma disciplina recente no Brasil. Seu avanço qualitativo depende da produção de material bibliográfico baseado nos resultados das mais sólidas pesquisas realizadas em todo o mundo. Assim, sempre que possível, dedico um pouco de meu tempo ao projeto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;em&gt;Pedologia Quantitativa feita Simples&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
@@ -816,49 +842,13 @@
     
     <item>
       <title>Mensagem de Boas Vindas</title>
-      <link>/post/mensagem-de-boas-vindas/</link>
+      <link>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/mensagem-de-boas-vindas/</guid>
+      <guid>http://samuel-rosa.github.io/post/mensagem-de-boas-vindas/</guid>
       <description>&lt;p&gt;Seja bem vindo ao blog que construí para compartilhar minhas experiências e conhecimentos com estudantes, professores, pesquisadores e profissionais da Ciência do Solo dos países de língua portuguesa, sobretudo o Brasil. Os tópicos que aqui discuto pertencem à área da pedologia quantitativa, mais conhecida como Pedometria.&lt;/p&gt;
 &lt;p&gt;Meu foco no Brasil se deve ao fato de que a popularização do uso de métodos matemáticos e estatísticos para o estudo da distribuição e gênese do solo é bastante recente no país. O número de pesquisadores brasileiros atuando nessa área também é pequeno se comparado às condições europeias e norte-americanas. Poucos são os programas de pós-graduação brasileiros que possuem em seu corpo docente pesquisadores dedicados à Pedometria. Raros são os periódicos científicos brasileiros com editores especialistas na área. Ao mesmo tempo, cresce a necessidade por profissionais devidamente capacitados para o uso de métodos matemáticos e estatísticos para a modelagem quantitativa do solo. Além de ajudar a avançar a pesquisa em Pedometria, meu objetivo com este blog é contribuir para a formação de tais profissionais.&lt;/p&gt;
 &lt;p&gt;Destaco que os conhecimentos e opiniões que aqui compartilho não pretendem esgotar quaisquer discussões acerca da modelagem quantitativa do solo. Pelo contrário, eles constituem uma simples introdução ou suplemento a trabalhos publicados, muitos deles há mais de décadas. Muito daquilo que apresento é composto por minhas reflexões e interpretações acerca de tais trabalhos. Isso significa que o leitor é expressamente encorajado a sempre procurar pelos materiais originais de onde quaisquer informações tenham sido obtidas, evitando citar este blog como referência bibliográfica principal em seus trabalhos. Em outras palavras, este blog não foi criado com o objetivo de constituir uma fonte de conhecimento final, mas sim uma ponte entre aqueles que buscam conhecimento a cerca da Pedometria e aquilo que foi construído ao longo dos anos passados. Espero que esse objetivo seja alcançado e, assim, este blog contribua para o avanço qualitativo da prática científica nesta área da ciência do solo.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Programas de Computador</title>
-      <link>/project/programas-de-computador/</link>
-      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/programas-de-computador/</guid>
-      <description>&lt;p&gt;Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte considerável deles está voltada à escrita científica, como 1) os &lt;em&gt;‘arquivos de estilo &lt;code&gt;jstyle&lt;/code&gt; para formatação automática de referências bibliográficas usando JabRef e LibreOffice’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/RefBib&#34;&gt;link&lt;/a&gt;), 2) o &lt;em&gt;‘pacote &lt;code&gt;pedometrianews&lt;/code&gt; para formatação da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/pedometrianews&#34;&gt;link&lt;/a&gt;) e 3) a &lt;em&gt;‘classe &lt;code&gt;UFRuralRJ&lt;/code&gt; para formatação de documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro’&lt;/em&gt; (&lt;a href=&#34;https://github.com/samuel-rosa/UFRuralRJ&#34;&gt;link&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;No momento, além do pacote &lt;code&gt;spsann&lt;/code&gt; para o &lt;code&gt;R&lt;/code&gt;, desenvolvo um segundo pacote com aplicação na pedologia quantitativa. Trata-se do pacote &lt;code&gt;pedometrics&lt;/code&gt;, que contém ferramentas e técnicas diversas para pedologia quantitativa, um produto do projeto&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Implementação algorítmica de métodos e técnicas de uso em pedologia quantitativa&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A última versão do pacote &lt;code&gt;pedometrics&lt;/code&gt; pode ser descarregada gratuitamente de &lt;a href=&#34;https://cran.r-project.org/web/packages/pedometrics/&#34; class=&#34;uri&#34;&gt;https://cran.r-project.org/web/packages/pedometrics/&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stacked generalization of statistical learners -- a case study with soil iron content in Brazil</title>
-      <link>/talk/pedometrics-2017/</link>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/pedometrics-2017/</guid>
-      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Resumo&lt;/h2&gt;
-&lt;p&gt;When modeling soil-landscape relationships we generally test a handful of statistical learners. Having limited data, we use cross-validation to select the best performing learner. In this study we evaluate the benefits of combining learners for soil prediction using stacked generalization. It consists of calibrating multiple learners and submitting them to 10-fold cross-validation. Cross-validation predictions are used as covariates in an interceptless linear regression of the target variable. Constrained to be non-negative, the estimated regression coefficients are the stacking weights expressing the importance of each learner. When making predictions, each learner is used in turn and the weights used to optimally combine multiple predictions into a single prediction.&lt;/p&gt;
-&lt;p&gt;The data was downloaded from the national database maintained by Embrapa. The target variable was the soil iron content (g kg&lt;sup&gt;-1&lt;/sup&gt;). Covariates (&lt;em&gt;p&lt;/em&gt; = 7) were constructed using soil profile data. The &lt;em&gt;n&lt;/em&gt; = 22 981 records remaining after some data cleaning were split into calibration (&lt;em&gt;n&lt;/em&gt;&lt;sub&gt;cal&lt;/sub&gt; = 16 086) and validation (&lt;em&gt;n&lt;/em&gt;&lt;sub&gt;val&lt;/sub&gt; = 6895) sets. Six learners were used: linear regression with stepwise selection (&lt;code&gt;lm&lt;/code&gt;), multivariate adaptive regression splines (&lt;code&gt;mars&lt;/code&gt;), regression random forest (&lt;code&gt;rf&lt;/code&gt;), single-hidden-layer neural network (&lt;code&gt;nnet&lt;/code&gt;), weighted k-nearest neighbor regression (&lt;code&gt;knn&lt;/code&gt;) and support vector machine with polynomial kernel (&lt;code&gt;svm&lt;/code&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;rf&lt;/code&gt; and &lt;code&gt;knn&lt;/code&gt; severely overfitted the data, while &lt;code&gt;lm&lt;/code&gt;, &lt;code&gt;mars&lt;/code&gt; and &lt;code&gt;svm&lt;/code&gt; were the most stable learners. The first two yielded the lowest absolute and squared errors (RMSE &amp;lt; 45 g kg&lt;sup&gt;-1&lt;/sup&gt;) and explained more of the variance (AVE ~ 0.6). &lt;code&gt;mars&lt;/code&gt;, &lt;code&gt;nnet&lt;/code&gt; and &lt;code&gt;lm&lt;/code&gt; were the least biased learners (ME ~ -0.1 g kg&lt;sup&gt;-1&lt;/sup&gt;), while &lt;code&gt;svm&lt;/code&gt; was the most biased (ME = -5.14 g kg&lt;sup&gt;-1&lt;/sup&gt;). &lt;code&gt;lm&lt;/code&gt; explained the smallest amount of variance (AVE = 0.49).&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;rf&lt;/code&gt; received the largest stacking weight (&lt;em&gt;w&lt;/em&gt; = 0.55), &lt;code&gt;knn&lt;/code&gt; and &lt;code&gt;svm&lt;/code&gt; received moderate weights (&lt;em&gt;w&lt;/em&gt; ~ 0.2) and &lt;code&gt;nnet&lt;/code&gt; and &lt;code&gt;mars&lt;/code&gt; received the smallest weights (&lt;em&gt;w&lt;/em&gt; &amp;lt; 0.1) – &lt;code&gt;lm&lt;/code&gt; was dropped from the stack (&lt;em&gt;w&lt;/em&gt; = 0). Combining learners lowered all absolute and squared errors (RMSE = 43.23 g kg&lt;sup&gt;-1&lt;/sup&gt;), yielded a considerably small bias (ME = 0.53 g kg&lt;sup&gt;-1&lt;/sup&gt;), and explained the same amount of variance explained by &lt;code&gt;rf&lt;/code&gt; (AVE = 0.61).&lt;/p&gt;
-&lt;p&gt;Staking learners was more beneficial than using the single best performing learner because it reduced generalization errors. The magnitude of the benefits seems to depend upon the diversity of learners (over and underfitting, biased and nonbiased). Besides, by using least squares regression to compute stacking weights we can estimate the prediction error variance of any combination of learners.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;informacoes-adicionais&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Informações adicionais&lt;/h2&gt;
-&lt;p&gt;Este trabalho foi realizado em parceria com &lt;a href=&#34;http://lattes.cnpq.br/3735884911693854&#34;&gt;Ricardo Dalmolin&lt;/a&gt;, pesquisador do Programa de Pós-Graduação em Ciência do Solo (&lt;a href=&#34;http://w3.ufsm.br/ppgcs/index.php&#34;&gt;PPGCS&lt;/a&gt;) da Universidade Federal de Santa Maria (&lt;a href=&#34;http://site.ufsm.br/&#34;&gt;UFSM&lt;/a&gt;). O desenvolvimento do trabalho e sua apresentação no Pedometrics 2017 foram viabilizados pelo PPGCS via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.gov.br/bolsas/bolsas-no-pais/pnpd-capes&#34;&gt;PNPD&lt;/a&gt;) da CAPES, e com recursos dos projetos de pesquisa desenvolvidos por Ricardo Dalmolin no PPGCS.&lt;/p&gt;
-&lt;/div&gt;
 </description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Base-de-dados on A. Samuel-Rosa</title>
-    <link>/tags/base-de-dados/</link>
+    <link>http://samuel-rosa.github.io/tags/base-de-dados/</link>
     <description>Recent content in Base-de-dados on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/base-de-dados/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/tags/base-de-dados/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dados do Solo</title>
-      <link>/project/dados-do-solo/</link>
+      <link>http://samuel-rosa.github.io/project/dados-do-solo/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/dados-do-solo/</guid>
+      <guid>http://samuel-rosa.github.io/project/dados-do-solo/</guid>
       <description>A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto
  Infraestruturas públicas de dados do solo – da concepção à distribuição  Atualmente, as principais atividades desse projeto são:</description>
     </item>

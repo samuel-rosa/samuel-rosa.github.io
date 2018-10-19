@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on A. Samuel-Rosa</title>
-    <link>/tags/r/</link>
+    <link>http://samuel-rosa.github.io/tags/r/</link>
     <description>Recent content in R on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amostragem Espacial</title>
-      <link>/project/amostragem-espacial/</link>
+      <link>http://samuel-rosa.github.io/project/amostragem-espacial/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/amostragem-espacial/</guid>
+      <guid>http://samuel-rosa.github.io/project/amostragem-espacial/</guid>
       <description>O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, desenvolvo o projeto
  Otimização espacial de configurações amostrais utilizando recozimento simulado  O desenvolvimento desse projeto teve início durante meu doutoramento na UFRRJ. Portanto, trata-se de uma parceria com Lúcia Anjos (UFRRJ), Gustavo Vasques (Embrapa Solos), Gerard Heuvelink (ISRIC World Soil Information, Holanda) e Dick Brus (Wageningen University and Research Centre, Holanda).</description>
     </item>
     
     <item>
       <title>Programas de Computador</title>
-      <link>/project/programas-de-computador/</link>
+      <link>http://samuel-rosa.github.io/project/programas-de-computador/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/programas-de-computador/</guid>
+      <guid>http://samuel-rosa.github.io/project/programas-de-computador/</guid>
       <description>Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte considerável deles está voltada à escrita científica, como 1) os ‘arquivos de estilo jstyle para formatação automática de referências bibliográficas usando JabRef e LibreOffice’ (link), 2) o ‘pacote pedometrianews para formatação da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo’ (link) e 3) a ‘classe UFRuralRJ para formatação de documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro’ (link).</description>
     </item>
     

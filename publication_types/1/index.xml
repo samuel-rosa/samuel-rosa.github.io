@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on A. Samuel-Rosa</title>
-    <link>/publication_types/1/</link>
+    <link>http://samuel-rosa.github.io/publication_types/1/</link>
     <description>Recent content in 1 on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 21 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://samuel-rosa.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Do more detailed environmental covariates deliver more accurate soil maps?</title>
-      <link>/publication/samuel-rosaetal2015/</link>
-      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Bringing together Brazilian soil scientists to share soil data</title>
+      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/samuel-rosaetal2015/</guid>
-      <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Resumo&lt;/h2&gt;
-&lt;/div&gt;
-</description>
+      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</guid>
+      <description></description>
     </item>
     
   </channel>
