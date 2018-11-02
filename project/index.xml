@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on A. Samuel-Rosa</title>
-    <link>/project/</link>
+    <link>http://samuel-rosa.github.io/project/</link>
     <description>Recent content in Projects on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amostragem Espacial</title>
-      <link>/project/amostragem-espacial/</link>
+      <link>http://samuel-rosa.github.io/project/amostragem-espacial/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/amostragem-espacial/</guid>
+      <guid>http://samuel-rosa.github.io/project/amostragem-espacial/</guid>
       <description>O uso de estratégias amostrais robustas é fundamental para a estimativa de parâmetros e predição do comportamento espacial de recursos naturais com mínima incerteza. Dentro dessa temática, atualmente, desenvolvo o projeto
  Otimização espacial de configurações amostrais utilizando recozimento simulado  O desenvolvimento desse projeto teve início durante meu doutoramento na UFRRJ. Portanto, trata-se de uma parceria com Lúcia Anjos (UFRRJ), Gustavo Vasques (Embrapa Solos), Gerard Heuvelink (ISRIC World Soil Information, Holanda) e Dick Brus (Wageningen University and Research Centre, Holanda).</description>
     </item>
     
     <item>
       <title>Dados do Solo</title>
-      <link>/project/dados-do-solo/</link>
+      <link>http://samuel-rosa.github.io/project/dados-do-solo/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/dados-do-solo/</guid>
+      <guid>http://samuel-rosa.github.io/project/dados-do-solo/</guid>
       <description>A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto
  Infraestruturas públicas de dados do solo – da concepção à distribuição  Atualmente, as principais atividades desse projeto são:</description>
     </item>
     
     <item>
       <title>Ensino de Pedometria</title>
-      <link>/project/ensino-de-pedometria/</link>
+      <link>http://samuel-rosa.github.io/project/ensino-de-pedometria/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/ensino-de-pedometria/</guid>
+      <guid>http://samuel-rosa.github.io/project/ensino-de-pedometria/</guid>
       <description>A Pedometria é uma disciplina recente no Brasil. Seu avanço qualitativo depende da produção de material bibliográfico baseado nos resultados das mais sólidas pesquisas realizadas em todo o mundo. Assim, sempre que possível, dedico um pouco de meu tempo ao projeto
  Pedologia Quantitativa feita Simples  Trata-se de um livro sobre pedologia quantitativa, ainda em elaboração, que pode ser acessado gratuitamente em http://samuel-rosa.github.io/pedologia-quantitativa/.
 Anteriormente, meu maior esforço em termos de ensino de pedologia quantitativa traduziu-se na criação e editoração da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo.</description>
@@ -45,10 +45,10 @@ Anteriormente, meu maior esforço em termos de ensino de pedologia quantitativa 
     
     <item>
       <title>Programas de Computador</title>
-      <link>/project/programas-de-computador/</link>
+      <link>http://samuel-rosa.github.io/project/programas-de-computador/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/programas-de-computador/</guid>
+      <guid>http://samuel-rosa.github.io/project/programas-de-computador/</guid>
       <description>Eu já desenvolvi diversos programas de computados ao longo de minha curta carreira científica. Parte considerável deles está voltada à escrita científica, como 1) os ‘arquivos de estilo jstyle para formatação automática de referências bibliográficas usando JabRef e LibreOffice’ (link), 2) o ‘pacote pedometrianews para formatação da Newsletter da Comissão de Pedometria da Sociedade Brasileira de Ciência do Solo’ (link) e 3) a ‘classe UFRuralRJ para formatação de documentos acadêmicos da Universidade Federal Rural do Rio de Janeiro’ (link).</description>
     </item>
     

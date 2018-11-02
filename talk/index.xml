@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on A. Samuel-Rosa</title>
-    <link>/talk/</link>
+    <link>http://samuel-rosa.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bringing together Brazilian soil scientists to share soil data</title>
-      <link>/talk/wcss-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/wcss-2018/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/wcss-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/wcss-2018/</guid>
       <description>Resumo Soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. As data underutilization is a waste of resources and refrains the advancement of knowledge, many isolated soil data rescue and sharing efforts have emerged in the scientific community. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research.</description>
     </item>
     
     <item>
       <title>Uma aliança global pelo solo para alcançar o desenvolvimento sustentável</title>
-      <link>/talk/expo-sh-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/expo-sh-2018/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/expo-sh-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/expo-sh-2018/</guid>
       <description>Resumo O solo é um recurso natural muito lentamente renovável que ocupa posição central nos agroecossistemas. Mesmo assim, o solo continua sendo degradado pela má gestão e pelas mudanças inconsequentes do uso da terra. Para promover uma mudança real na maneira como usamos esse precioso recurso, instituições de vários países, coordenadas pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), juntaram esforços para constituir uma Aliança Global pelo Solo.</description>
     </item>
     
     <item>
       <title>The Free Brazilian Repository for Open Soil Data</title>
-      <link>/talk/wds-lac-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/wds-lac-2018/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/wds-lac-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/wds-lac-2018/</guid>
       <description>Resumo Brazilian soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research. To address this issue, Brazilian soil scientists have recently created a data repository using community-built standards and following open data policies. The Free Brazilian Repository for Open Soil Data – febr, www.</description>
     </item>
     
     <item>
       <title>Stacked generalization of statistical learners -- a case study with soil iron content in Brazil</title>
-      <link>/talk/pedometrics-2017/</link>
+      <link>http://samuel-rosa.github.io/talk/pedometrics-2017/</link>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/pedometrics-2017/</guid>
+      <guid>http://samuel-rosa.github.io/talk/pedometrics-2017/</guid>
       <description>Resumo When modeling soil-landscape relationships we generally test a handful of statistical learners. Having limited data, we use cross-validation to select the best performing learner. In this study we evaluate the benefits of combining learners for soil prediction using stacked generalization. It consists of calibrating multiple learners and submitting them to 10-fold cross-validation. Cross-validation predictions are used as covariates in an interceptless linear regression of the target variable. Constrained to be non-negative, the estimated regression coefficients are the stacking weights expressing the importance of each learner.</description>
     </item>
     
     <item>
       <title>Building a Public Repository of Open Soil Iron Data for Brazil</title>
-      <link>/talk/bspm-2017/</link>
+      <link>http://samuel-rosa.github.io/talk/bspm-2017/</link>
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/bspm-2017/</guid>
+      <guid>http://samuel-rosa.github.io/talk/bspm-2017/</guid>
       <description>Resumo We have recently stimulated the emergence of an unprecedented collaborative effort among soil scientists from all over Brazil. The goal: to build a centralized, public and free repository of standardized and georeferenced soil iron data with national coverage. Many Brazilian soil scientists have already shared datasets, some of them even before we could insert the datasets in possession of our institutions in what we called the Brazilian Soil Iron Data Repository (Fe-BR).</description>
     </item>
     
