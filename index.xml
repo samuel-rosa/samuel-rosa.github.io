@@ -60,40 +60,55 @@
 &lt;div id=&#34;conteudo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Conteúdo&lt;/h2&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Gênese e distribuição espacial do solo 1.1 Fatores de formação do solo: o modelo clorpt
+&lt;li&gt;Gênese e distribuição espacial do solo
 &lt;ul&gt;
-&lt;li&gt;Derivation of state factor equations of soils and ecosystems (&lt;a href=&#34;https://doi.org/10.2136/sssaj1961.03615995002500050023x&#34;&gt;Jenny, 1961&lt;/a&gt;) 1.2 Processos gerais de formação do solo: adições, perdas, translocações e transformações&lt;/li&gt;
-&lt;li&gt;Outline of a generalized theory of soil genesis (&lt;a href=&#34;http://www.evsc.virginia.edu/~alm7d/soils/handouts/simonson.pdf&#34;&gt;Simonson, 1959&lt;/a&gt;) 1.3 Autocorrelação espacial: semivariograma&lt;/li&gt;
+&lt;li&gt;Fatores de formação do solo: o modelo clorpt
+&lt;ul&gt;
+&lt;li&gt;Derivation of state factor equations of soils and ecosystems (&lt;a href=&#34;https://doi.org/10.2136/sssaj1961.03615995002500050023x&#34;&gt;Jenny, 1961&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Processos gerais de formação do solo: adições, perdas, translocações e transformações
+&lt;ul&gt;
+&lt;li&gt;Outline of a generalized theory of soil genesis (&lt;a href=&#34;http://www.evsc.virginia.edu/~alm7d/soils/handouts/simonson.pdf&#34;&gt;Simonson, 1959&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Autocorrelação espacial: semivariograma
+&lt;ul&gt;
 &lt;li&gt;How geostatistics can help you (&lt;a href=&#34;https://doi.org/10.1111/j.1475-2743.1991.tb00876.x&#34;&gt;Oliver e Webster, 1991&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Covariáveis ambientais 2.1 Indicadores dos fatores de formação do solo
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Covariáveis ambientais
 &lt;ul&gt;
-&lt;li&gt;Do more detailed environmental covariates deliver more accurate soil maps? (&lt;a href=&#34;https://doi.org/10.1016/j.geoderma.2014.12.017&#34;&gt;Samuel-Rosa et al., 2015&lt;/a&gt;) 2.2 Clima e material de origem: mapas meteorológico e geológico 2.3 Relevo: modelo digital de elevação e atributos derivados 2.4 Organismos:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol style=&#34;list-style-type: lower-alpha&#34;&gt;
-&lt;li&gt;Vegetação: imagens de orbitais e suborbitais&lt;/li&gt;
-&lt;li&gt;Ação antrópica: mapas de manejo do solo 2.5 Solo: sensores proximais mapas de propriedades do solo&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Aprendizado de máquina 3.1 Correlação ambiental
+&lt;li&gt;Indicadores dos fatores de formação do solo
 &lt;ul&gt;
-&lt;li&gt;Soil attribute prediction using terrain analysis (&lt;a href=&#34;https://doi.org/10.2136/sssaj1993.03615995005700020026x&#34;&gt;Moore et al., 1993&lt;/a&gt;) 3.2 Métodos de aprendizado de máquina:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol style=&#34;list-style-type: lower-alpha&#34;&gt;
-&lt;li&gt;Regressão linear múltipla&lt;/li&gt;
-&lt;li&gt;Árvore de regressão
+&lt;li&gt;Do more detailed environmental covariates deliver more accurate soil maps? (&lt;a href=&#34;https://doi.org/10.1016/j.geoderma.2014.12.017&#34;&gt;Samuel-Rosa et al., 2015&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Clima e material de origem: mapas meteorológico e geológico&lt;/li&gt;
+&lt;li&gt;Relevo: modelo digital de elevação e atributos derivados&lt;/li&gt;
+&lt;li&gt;Organismos: vegetação (imagens de orbitais e suborbitais) e ação antrópica (mapas de manejo do solo)&lt;/li&gt;
+&lt;li&gt;Solo: sensores proximais mapas de propriedades do solo&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Aprendizado de máquina
+&lt;ul&gt;
+&lt;li&gt;Correlação ambiental
+&lt;ul&gt;
+&lt;li&gt;Soil attribute prediction using terrain analysis (&lt;a href=&#34;https://doi.org/10.2136/sssaj1993.03615995005700020026x&#34;&gt;Moore et al., 1993&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Métodos de aprendizado de máquina: regressão linear múltipla, árvore de regressão e floresta aleatória
 &lt;ul&gt;
 &lt;li&gt;Induction of decision trees (&lt;a href=&#34;https://link.springer.com/article/10.1007%2FBF00116251&#34;&gt;Quinlan, 1986&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Floresta aleatória
-&lt;ul&gt;
 &lt;li&gt;Random forests (&lt;a href=&#34;https://link.springer.com/article/10.1023%2FA%3A1010933404324&#34;&gt;Breiman, 2001&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Modelo linear misto de variação espacial 4.1 Efeitos fixos e aleatórios: o modelo scorpan
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Modelo linear misto de variação espacial
 &lt;ul&gt;
-&lt;li&gt;On digital soil mapping (&lt;a href=&#34;https://linkinghub.elsevier.com/retrieve/pii/S0016706103002234&#34;&gt;McBratney et al., 2003&lt;/a&gt;) 4.2 Calibração, predição e validação&lt;/li&gt;
+&lt;li&gt;Efeitos fixos e aleatórios: o modelo scorpan
+&lt;ul&gt;
+&lt;li&gt;On digital soil mapping (&lt;a href=&#34;https://linkinghub.elsevier.com/retrieve/pii/S0016706103002234&#34;&gt;McBratney et al., 2003&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Calibração, predição e validação
+&lt;ul&gt;
 &lt;li&gt;On spatial prediction of soil properties in the presence of a spatial trend: the empirical best linear unbiased predictor (E-BLUP) with REML (&lt;a href=&#34;https://doi.org/10.1111/j.1365-2389.2005.00768.x&#34;&gt;Lark et al., 2006&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Sampling for validation of digital soil maps (&lt;a href=&#34;https://doi.org/10.1111/j.1365-2389.2011.01364.x&#34;&gt;Brus et al., 2011&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Atividades práticas&lt;/li&gt;
 &lt;/ol&gt;
