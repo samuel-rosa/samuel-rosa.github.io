@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unicamp on A. Samuel-Rosa</title>
+    <link>/tags/unicamp/</link>
+    <description>Recent content in Unicamp on A. Samuel-Rosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/unicamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oficina de mapeamento digital do solo para agricultura de precisão</title>
+      <link>/teaching/2019-mds-para-agricultura-de-precisao/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2019-mds-para-agricultura-de-precisao/</guid>
+      <description>Descrição geral Identificação Calendário de aulas Objetivos Conteúdo    Descrição geral Identificação Instituição: Universidade Estadual de Campinas
+Unidade: Faculdade de Engenharia Agrícola
+Carga horária: 12 horas (AT = 3; AP = 9)
+Nível: Pós-graduação
+Instrutor: Alessandro Samuel-Rosa
+Material: https://github.com/samuel-rosa/feagri-dsm-workshop
+ Calendário de aulas Data: 25 e 26 de janeiro de 2019
+Horário: 09:00-12:30 (25/01), 14:00-19:00 (25/01), 14:30-18:00 (26/01)
+Local: Laboratório de Geoprocessamento
+ Objetivos Os objetivos da oficina são os seguintes:</description>
+    </item>
+    
+  </channel>
+</rss>

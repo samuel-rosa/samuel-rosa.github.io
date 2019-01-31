@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on A. Samuel-Rosa</title>
-    <link>http://samuel-rosa.github.io/publication_types/1/</link>
+    <link>/publication_types/1/</link>
     <description>Recent content in 1 on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://samuel-rosa.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bringing together Brazilian soil scientists to share soil data</title>
-      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</link>
+      <link>/publication/samuel-rosaetal2018a/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</guid>
+      <guid>/publication/samuel-rosaetal2018a/</guid>
       <description></description>
     </item>
     
