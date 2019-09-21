@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mds on A. Samuel-Rosa</title>
+    <link>/tags/mds/</link>
+    <description>Recent content in Mds on A. Samuel-Rosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
+    <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minicurso de Mapeamento Digital do Solo</title>
+      <link>/teaching/minicurso-mds/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/minicurso-mds/</guid>
+      <description>Resumo Apresentação Infraestrutura Leitura recomendada   Resumo Carga horária: 8 horas
+Participantes: até 20 pessoas
+Modalidade: presencial
+Público: graduação, pós-graduação e profissionais
+Áreas: ciências agrárias, geociências e ciências biológicas
+Pré-requisitos: conhecimento básico de ciência do solo, sistemas de informação geográfica e estatística
+Softwares: R e QGIS
+ Apresentação O Minicurso de Mapeamento Digital do Solo consiste numa atividade presencial de capacitação com duração de oito horas. A maior parte do minicurso é dedicada a atividades práticas de geoprocessamento de dados para predição espacial de variáveis quantitativas e qualitativas do solo usando dados abertos e softwares livres.</description>
+    </item>
+    
+  </channel>
+</rss>

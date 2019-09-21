@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minicurso de Mapeamento Digital do Solo</title>
+      <link>/teaching/minicurso-mds/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/minicurso-mds/</guid>
+      <description>Resumo Apresentação Infraestrutura Leitura recomendada   Resumo Carga horária: 8 horas
+Participantes: até 20 pessoas
+Modalidade: presencial
+Público: graduação, pós-graduação e profissionais
+Áreas: ciências agrárias, geociências e ciências biológicas
+Pré-requisitos: conhecimento básico de ciência do solo, sistemas de informação geográfica e estatística
+Softwares: R e QGIS
+ Apresentação O Minicurso de Mapeamento Digital do Solo consiste numa atividade presencial de capacitação com duração de oito horas. A maior parte do minicurso é dedicada a atividades práticas de geoprocessamento de dados para predição espacial de variáveis quantitativas e qualitativas do solo usando dados abertos e softwares livres.</description>
+    </item>
     
     <item>
       <title>Oficina de mapeamento digital do solo para agricultura de precisão</title>
@@ -123,6 +139,15 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6770
       <guid>/post/dia-mundial-solo-2017/</guid>
       <description>O Programa de Pós-Graduação Ciência do Solo da Universidade Federal de Santa Maria (UFSantaMaria) convida a comunidade em geral para participar das atividades em alusão ao Dia Mundial do Solo.
 Na quarta-feira, dia 06/12, das 13:30 às 17:30, será realizado o Seminário Dia Mundial do Solo UFSM 2017, no Auditório Flávio Miguel Schneider, Centro de Ciências Rurais, Prédio 42. Neste seminário, os pós-doutorandos(as) do PPG Ciência do Solo apresentarão um panorama das pesquisas realizadas no último ano, apontando para os principais desenvolvimentos em suas áreas e perspectivas futuras.</description>
+    </item>
+    
+    <item>
+      <title>Modelagem Geoestatística do Ambiente</title>
+      <link>/post/2017-ufsm-sol-843/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-ufsm-sol-843/</guid>
+      <description>Descrição Geral Identificação do Curso Calendário de Encontros Objetivos do Curso Estrutura do Curso  Tarefas Reflexão Iterativa Descrição da Tarefa Tema Gerador  Propagação de Incerteza Descrição da Tarefa Motivação   Programa do Curso Título e Discriminação das Unidades Referências Bibliográficas  Cronograma Semanal Semana 0, 27-Setembro: Nivelamento ferramental Tarefas para a próxima semana Leituras para a próxima semana  Semana 1, 04-Outubro: Modelos de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 2, 11-Outubro: Propriedades dos dados espaciais Tarefas para a próxima semana Leituras para a próxima semana  Semana 3, 18-Outubro: Modelo linear misto de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 4, 25-Outubro: Predição espacial e validação estatística Tarefas para a próxima semana Leituras para a próxima semana  Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza Tarefas para o próximo encontro Leituras sugeridas  Semana 6, 06-Dezembro: Conclusão do curso  Avaliação dos Participantes Critérios    Descrição Geral Esse curso irá lhe expor a um conjunto de técnicas modernas para a modelagem de variáveis ambientais incertas.</description>
     </item>
     
     <item>

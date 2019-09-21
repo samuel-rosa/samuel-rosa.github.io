@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/teaching/minicurso-mds/</loc>
+      <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/alhoetal2019/</loc>
       <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     </url>
@@ -106,6 +115,15 @@
     
       <loc>/post/dia-mundial-solo-2017/</loc>
       <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2017-ufsm-sol-843/</loc>
+      <lastmod>2017-10-30T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -359,7 +377,7 @@
     <url>
     
       <loc>/tags/ensino/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <lastmod>2019-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -380,6 +398,26 @@
     
       <loc>/tags/geoestat%C3%ADstica/</loc>
       <lastmod>2017-10-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/mds/</loc>
+      <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/minicurso/</loc>
+      <lastmod>2019-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -479,7 +517,7 @@
     <url>
     
       <loc>/teaching/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <lastmod>2019-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
