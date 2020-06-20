@@ -2,24 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Base-de-dados on A. Samuel-Rosa</title>
-    <link>/tags/base-de-dados/</link>
+    <link>http://samuel-rosa.github.io/tags/base-de-dados/</link>
     <description>Recent content in Base-de-dados on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
+    <copyright>&amp;copy; 2020 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/base-de-dados/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/tags/base-de-dados/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dados do Solo</title>
-      <link>/project/dados-do-solo/</link>
+      <title>Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)</title>
+      <link>http://samuel-rosa.github.io/project/febr/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/dados-do-solo/</guid>
-      <description>A pesquisa pedológica já produziu um volume incomensurável de dados do solo. Muitos desses dados já podem ter sido perdidos para sempre pela falta de infraestuturas para seu armazenamento e distribuição. A situação não é diferente com os milhares de novos registros produzidos a cada dia que passa. Preocupado com isso, venho desenvolvendo atividades diversas relacionadas à construção de tais infraestruturas, o que deu origem ao projeto
- Infraestruturas públicas de dados do solo – da concepção à distribuição  Atualmente, as principais atividades desse projeto são:</description>
+      <guid>http://samuel-rosa.github.io/project/febr/</guid>
+      <description>Quero Compartilhar Dados Estou Procurando Dados Quero Participar do Projeto   Quero Compartilhar Dados Se você é um produtor de dados do solo e chegou até esta página, então é porque você está interessando em compartilhar os dados que produziu em seus estudos. Você quer ser um provedor de dados!
+ Antes de continuar, certifique-se de que conhece a política de dados do FEBR!
+ Com o FEBR, ficou muito fácil compartilhar dados do solo.</description>
     </item>
     
   </channel>

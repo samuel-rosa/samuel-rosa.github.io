@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ensino on A. Samuel-Rosa</title>
-    <link>/tags/ensino/</link>
+    <link>http://samuel-rosa.github.io/tags/ensino/</link>
     <description>Recent content in Ensino on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
+    <copyright>&amp;copy; 2020 A. Samuel-Rosa</copyright>
     <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Minicurso de Mapeamento Digital do Solo</title>
-      <link>/teaching/minicurso-mds/</link>
+      <link>http://samuel-rosa.github.io/teaching/minicurso-mds/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/minicurso-mds/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/minicurso-mds/</guid>
       <description>Resumo Apresentação Infraestrutura Leitura recomendada   Resumo Carga horária: 8 horas
 Participantes: até 20 pessoas
 Modalidade: presencial
@@ -30,10 +30,10 @@ Softwares: R e QGIS
     
     <item>
       <title>Oficina de mapeamento digital do solo para agricultura de precisão</title>
-      <link>/teaching/2019-mds-para-agricultura-de-precisao/</link>
+      <link>http://samuel-rosa.github.io/teaching/2019-mds-para-agricultura-de-precisao/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2019-mds-para-agricultura-de-precisao/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2019-mds-para-agricultura-de-precisao/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Conteúdo    Descrição geral Identificação Instituição: Universidade Estadual de Campinas
 Unidade: Faculdade de Engenharia Agrícola
 Carga horária: 12 horas (AT = 3; AP = 9)
@@ -48,10 +48,10 @@ Local: Laboratório de Geoprocessamento
     
     <item>
       <title>Geoprocessamento e Sensoriamento Remoto</title>
-      <link>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: OP2BA
@@ -64,10 +64,10 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=8634
     
     <item>
       <title>Introdução à Agronomia</title>
-      <link>/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Agronomia
 Código: AG61E
@@ -81,10 +81,10 @@ Horário: Terça-feira, 07:30-10:00 (Aluno), Sexta-feira, 13:00-14:40 (Atendimen
     
     <item>
       <title>Cursos e disciplinas anteriores</title>
-      <link>/teaching/cursos-disciplinas-anteriores/</link>
+      <link>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/cursos-disciplinas-anteriores/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</guid>
       <description>Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena Universidade Federal de Santa Maria   Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena Disciplina Gestão da Inovação e Tecnologia
 Unidade: Coordenação de Ciência da Computação
 Código: CC28B
@@ -101,10 +101,10 @@ Período: Primeiro semestre de 2018</description>
     
     <item>
       <title>Empreendedorismo</title>
-      <link>/teaching/2018-utfpr-cocic-empreendedorismo/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: ED228A
@@ -117,10 +117,10 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6772
     
     <item>
       <title>Gestão da Inovação e Tecnologia</title>
-      <link>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
       <description>Descrição geral Identificação Calendário de aulas Objetivos Ementa  Bibliografia Básica Bibliografia Complementar    Descrição geral Identificação Instituição: Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena
 Unidade: Coordenação de Ciência da Computação
 Código: CC28B
@@ -133,29 +133,20 @@ AVEA: http://moodle.utfpr.edu.br/course/view.php?id=6770
     
     <item>
       <title>Feliz Dia Mundial do Solo</title>
-      <link>/post/dia-mundial-solo-2017/</link>
+      <link>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/dia-mundial-solo-2017/</guid>
+      <guid>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</guid>
       <description>O Programa de Pós-Graduação Ciência do Solo da Universidade Federal de Santa Maria (UFSantaMaria) convida a comunidade em geral para participar das atividades em alusão ao Dia Mundial do Solo.
 Na quarta-feira, dia 06/12, das 13:30 às 17:30, será realizado o Seminário Dia Mundial do Solo UFSM 2017, no Auditório Flávio Miguel Schneider, Centro de Ciências Rurais, Prédio 42. Neste seminário, os pós-doutorandos(as) do PPG Ciência do Solo apresentarão um panorama das pesquisas realizadas no último ano, apontando para os principais desenvolvimentos em suas áreas e perspectivas futuras.</description>
     </item>
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/post/2017-ufsm-sol-843/</link>
+      <link>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-ufsm-sol-843/</guid>
-      <description>Descrição Geral Identificação do Curso Calendário de Encontros Objetivos do Curso Estrutura do Curso  Tarefas Reflexão Iterativa Descrição da Tarefa Tema Gerador  Propagação de Incerteza Descrição da Tarefa Motivação   Programa do Curso Título e Discriminação das Unidades Referências Bibliográficas  Cronograma Semanal Semana 0, 27-Setembro: Nivelamento ferramental Tarefas para a próxima semana Leituras para a próxima semana  Semana 1, 04-Outubro: Modelos de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 2, 11-Outubro: Propriedades dos dados espaciais Tarefas para a próxima semana Leituras para a próxima semana  Semana 3, 18-Outubro: Modelo linear misto de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 4, 25-Outubro: Predição espacial e validação estatística Tarefas para a próxima semana Leituras para a próxima semana  Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza Tarefas para o próximo encontro Leituras sugeridas  Semana 6, 06-Dezembro: Conclusão do curso  Avaliação dos Participantes Critérios    Descrição Geral Esse curso irá lhe expor a um conjunto de técnicas modernas para a modelagem de variáveis ambientais incertas.</description>
-    </item>
-    
-    <item>
-      <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/teaching/2017-ufsm-sol-843/</link>
-      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</guid>
       <description>Descrição Geral Identificação do Curso Calendário de Encontros Objetivos do Curso Estrutura do Curso  Tarefas Reflexão Iterativa Descrição da Tarefa Tema Gerador  Propagação de Incerteza Descrição da Tarefa Motivação   Programa do Curso Título e Discriminação das Unidades Referências Bibliográficas  Cronograma Semanal Semana 0, 27-Setembro: Nivelamento ferramental Tarefas para a próxima semana Leituras para a próxima semana  Semana 1, 04-Outubro: Modelos de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 2, 11-Outubro: Propriedades dos dados espaciais Tarefas para a próxima semana Leituras para a próxima semana  Semana 3, 18-Outubro: Modelo linear misto de variação espacial Tarefas para a próxima semana Leituras para a próxima semana  Semana 4, 25-Outubro: Predição espacial e validação estatística Tarefas para a próxima semana Leituras para a próxima semana  Semana 5, 01-Novembro: Simulação espacial e propagação de incerteza Tarefas para o próximo encontro Leituras sugeridas  Semana 6, 06-Dezembro: Conclusão do curso  Avaliação dos Participantes Critérios    Descrição Geral Esse curso irá lhe expor a um conjunto de técnicas modernas para a modelagem de variáveis ambientais incertas.</description>
     </item>
     
