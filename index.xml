@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Samuel-Rosa on A. Samuel-Rosa</title>
-    <link>/</link>
+    <link>http://samuel-rosa.github.io/</link>
     <description>Recent content in A. Samuel-Rosa on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
+    <copyright>&amp;copy; 2020 A. Samuel-Rosa</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Minicurso de Mapeamento Digital do Solo</title>
-      <link>/teaching/minicurso-mds/</link>
+      <link>http://samuel-rosa.github.io/teaching/minicurso-mds/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/minicurso-mds/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/minicurso-mds/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#resumo&#34;&gt;Resumo&lt;/a&gt;&lt;/li&gt;
@@ -75,19 +75,19 @@
     
     <item>
       <title>Spatial variation of carbon and nutrients stocks in Amazonian Dark Earth</title>
-      <link>/publication/alhoetal2019/</link>
+      <link>http://samuel-rosa.github.io/publication/alhoetal2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/alhoetal2019/</guid>
+      <guid>http://samuel-rosa.github.io/publication/alhoetal2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oficina de mapeamento digital do solo para agricultura de precisão</title>
-      <link>/teaching/2019-mds-para-agricultura-de-precisao/</link>
+      <link>http://samuel-rosa.github.io/teaching/2019-mds-para-agricultura-de-precisao/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2019-mds-para-agricultura-de-precisao/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2019-mds-para-agricultura-de-precisao/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -194,10 +194,10 @@ unbiased predictor (E-BLUP) with REML (&lt;a href=&#34;https://doi.org/10.1111/j
     
     <item>
       <title>Bringing together Brazilian soil scientists to share soil data</title>
-      <link>/talk/wcss-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/wcss-2018/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/wcss-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/wcss-2018/</guid>
       <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resumo&lt;/h2&gt;
 &lt;p&gt;Soil science has produced a great deal of data. Most of the information is published as a single paper, and the primary data is unavailable to other researchers. As data underutilization is a waste of resources and refrains the advancement of knowledge, many isolated soil data rescue and sharing efforts have emerged in the scientific community. Lately, soil scientists have increased their concerns with data discoverability and reusability, and reproducible research. To address these issues, Brazilian soil scientists have recently created a data repository using community-built standards and following open data policies. The Free Brazilian Repository for Open Soil Data – &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;, www.ufsm.br/febr – is a centralized repository targeted at storing open soil data and serving it in a standardized and harmonized format. The repository infrastructure was built using open source and/or free (of cost) software, and was primarily designed for the individual management of datasets. A dataset-driven structure helps datasets authors to be properly acknowledged. Moreover, it gives the flexibility to accommodate many types of data of any soil variable. This is accomplished by storing each dataset using a collection of spreadsheets accessible through an online application. Spreadsheets are familiar to any soil scientist, the reason why it is easier to enter, manipulate and visualize soil data in febr. They also facilitate the participation of soil survey experts in the recovery and quality assessment of legacy data. Soil scientists can help in the definition of standards and data management choices through a public discussion forum, &lt;a href=&#34;mailto:febr-forum@googlegroups.com&#34; class=&#34;email&#34;&gt;febr-forum@googlegroups.com&lt;/a&gt;. A comprehensive documentation is available to guide febr maintainers and data contributors. A detailed catalog gives access to the 14 477 soil observations – 42% of them from south and southeastern Brazil – from 232 datasets contained in &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;. Global and dataset-specific visualization and search tools and multiple download facilities are available. The latter includes standard file formats and connections with R and QGIS through the &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt; package. Various products can be derived from data in &lt;strong&gt;&lt;em&gt;febr&lt;/em&gt;&lt;/strong&gt;: specialized databases, pedotransfer functions, fertilizer recommendation guides, classification systems, and detailed soil maps. By sharing data through a centralized soil data storing and sharing facility, soil scientists from different fields have the opportunity to increase collaboration and the much needed soil knowledge.&lt;/p&gt;
@@ -211,10 +211,10 @@ unbiased predictor (E-BLUP) with REML (&lt;a href=&#34;https://doi.org/10.1111/j
     
     <item>
       <title>Geoprocessamento e Sensoriamento Remoto</title>
-      <link>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-geoprocessamento-sensoriamento-remoto/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -290,10 +290,10 @@ ISBN 9788586238826.&lt;/p&gt;
     
     <item>
       <title>Introdução à Agronomia</title>
-      <link>/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-coagr-introducao-agronomia/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -373,10 +373,10 @@ do Rio Grande do Sul, 2009. 296 p. ISBN 9788538600374.&lt;/p&gt;
     
     <item>
       <title>Cursos e disciplinas anteriores</title>
-      <link>/teaching/cursos-disciplinas-anteriores/</link>
+      <link>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/cursos-disciplinas-anteriores/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/cursos-disciplinas-anteriores/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#universidade-tecnologica-federal-do-parana-campus-santa-helena&#34;&gt;Universidade Tecnológica Federal do Paraná – Câmpus Santa Helena&lt;/a&gt;&lt;/li&gt;
@@ -413,10 +413,10 @@ do Rio Grande do Sul, 2009. 296 p. ISBN 9788538600374.&lt;/p&gt;
     
     <item>
       <title>Uma aliança global pelo solo para alcançar o desenvolvimento sustentável</title>
-      <link>/talk/expo-sh-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/expo-sh-2018/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/expo-sh-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/expo-sh-2018/</guid>
       <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resumo&lt;/h2&gt;
 &lt;p&gt;O solo é um recurso natural muito lentamente renovável que ocupa posição central nos agroecossistemas. Mesmo
@@ -437,10 +437,10 @@ sustentável.&lt;/p&gt;
     
     <item>
       <title>The Free Brazilian Repository for Open Soil Data</title>
-      <link>/talk/wds-lac-2018/</link>
+      <link>http://samuel-rosa.github.io/talk/wds-lac-2018/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/wds-lac-2018/</guid>
+      <guid>http://samuel-rosa.github.io/talk/wds-lac-2018/</guid>
       <description>&lt;div id=&#34;resumo&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resumo&lt;/h2&gt;
 &lt;p&gt;Brazilian soil science has produced a great deal of data. Most of the information is published as a single
@@ -473,19 +473,19 @@ PPGCS via Programa Nacional de Pós Doutorado (&lt;a href=&#34;http://www.capes.
     
     <item>
       <title>Bringing together Brazilian soil scientists to share soil data</title>
-      <link>/publication/samuel-rosaetal2018a/</link>
+      <link>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/samuel-rosaetal2018a/</guid>
+      <guid>http://samuel-rosa.github.io/publication/samuel-rosaetal2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empreendedorismo</title>
-      <link>/teaching/2018-utfpr-cocic-empreendedorismo/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-empreendedorismo/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -558,10 +558,10 @@ Rio de Janeiro: Agir, 2009. 286 p. ISBN 978-85-220-0977-0.&lt;/p&gt;
     
     <item>
       <title>Gestão da Inovação e Tecnologia</title>
-      <link>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
+      <link>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2018-utfpr-cocic-gestao-inovacao-tecnologia/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição geral&lt;/a&gt;&lt;ul&gt;
@@ -641,10 +641,10 @@ Hall, c2001. xiv, 523 p. ISBN 8522102341.&lt;/p&gt;
     
     <item>
       <title>Feliz Dia Mundial do Solo</title>
-      <link>/post/dia-mundial-solo-2017/</link>
+      <link>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/dia-mundial-solo-2017/</guid>
+      <guid>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</guid>
       <description>&lt;p&gt;O Programa de Pós-Graduação Ciência do Solo da Universidade Federal de Santa Maria (UFSantaMaria) convida a
 comunidade em geral para participar das atividades em alusão ao Dia Mundial do Solo.&lt;/p&gt;
 &lt;p&gt;Na quarta-feira, dia 06/12, das 13:30 às 17:30, será realizado o &lt;strong&gt;Seminário Dia Mundial do Solo UFSM 2017&lt;/strong&gt;,
@@ -664,10 +664,10 @@ computadores pessoais para as atividades práticas e receberão certificado de p
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/post/2017-ufsm-sol-843/</link>
+      <link>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/post/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;
@@ -1107,10 +1107,10 @@ computadores pessoais para as atividades práticas e receberão certificado de p
     
     <item>
       <title>Modelagem Geoestatística do Ambiente</title>
-      <link>/teaching/2017-ufsm-sol-843/</link>
+      <link>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/2017-ufsm-sol-843/</guid>
+      <guid>http://samuel-rosa.github.io/teaching/2017-ufsm-sol-843/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#descricao-geral&#34;&gt;Descrição Geral&lt;/a&gt;&lt;ul&gt;

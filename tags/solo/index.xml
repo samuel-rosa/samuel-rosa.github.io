@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solo on A. Samuel-Rosa</title>
-    <link>/tags/solo/</link>
+    <link>http://samuel-rosa.github.io/tags/solo/</link>
     <description>Recent content in Solo on A. Samuel-Rosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2018 A. Samuel-Rosa</copyright>
+    <copyright>&amp;copy; 2020 A. Samuel-Rosa</copyright>
     <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/solo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samuel-rosa.github.io/tags/solo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Feliz Dia Mundial do Solo</title>
-      <link>/post/dia-mundial-solo-2017/</link>
+      <link>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/dia-mundial-solo-2017/</guid>
+      <guid>http://samuel-rosa.github.io/post/dia-mundial-solo-2017/</guid>
       <description>O Programa de Pós-Graduação Ciência do Solo da Universidade Federal de Santa Maria (UFSantaMaria) convida a comunidade em geral para participar das atividades em alusão ao Dia Mundial do Solo.
 Na quarta-feira, dia 06/12, das 13:30 às 17:30, será realizado o Seminário Dia Mundial do Solo UFSM 2017, no Auditório Flávio Miguel Schneider, Centro de Ciências Rurais, Prédio 42. Neste seminário, os pós-doutorandos(as) do PPG Ciência do Solo apresentarão um panorama das pesquisas realizadas no último ano, apontando para os principais desenvolvimentos em suas áreas e perspectivas futuras.</description>
     </item>
